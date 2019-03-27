@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Xing, Wanli</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kim, So Mi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Goggins, Sean</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Xing, W., Kim, S. M., &amp; Goggins, S.&#x20;(2015).&#x20;Modeling Performance in Asynchronous CSCL: An Exploration of Social Ability, Collective Efficacy and Social Interaction&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.268</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Previous studies have invested effort in understanding the factors affecting student learning from isolated perspectives. Based on social cognitive theory, this study proposes two dynamic CSCL models of learning using understudied factors – system functionality, social ability, collective efficacy and social interaction – to examine mediation and causal relationships among these constructs and their influence on learning. The models are tested using data collected from a large US university. Specifically, while the predictive constructs are operationalized through the survey instruments, outcome measures are modeled using electronic trace data and actual evaluation information. Data is analyzed via the Partial Least Squares method. Results demonstrate close relatedness among the constructs and a different influencing mechanism on learning for each. The addition of social interaction as a factor to the learning model increases predictability of student learning as compared to models without this factor. The paper concludes with discussion of the implications of this study. 
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Modeling Performance in Asynchronous CSCL: An Exploration of Social Ability, Collective Efficacy and Social Interaction</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Modeling Performance in Asynchronous CSCL: An Exploration of Social Ability, Collective Efficacy and Social Interaction</dc:subject>
+<dc:subject xml:lang="en">CSCL</dc:subject>
+<dc:subject xml:lang="en">social ability</dc:subject>
+<dc:subject xml:lang="en">collective efficacy</dc:subject>
+<dc:subject xml:lang="en">social interaction</dc:subject>
+    </dublin_core>

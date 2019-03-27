@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kali, Yael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tabak, Iris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ben-Zvi, Dani</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kidron, Adi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Amzalag, Meital</dcvalue>
+<dcvalue element="contributor" qualifier="author">Baram-Tsabari, Ayelet</dcvalue>
+<dcvalue element="contributor" qualifier="author">Barzilai, Sarit</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brami, Uzi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Duek, Oshra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elias, Nelly</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kent, Carmel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Laslo, Esther</dcvalue>
+<dcvalue element="contributor" qualifier="author">Levy, Keren S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rafaeli, Sheizaf</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tal, Tali</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weiss, Patrice L.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hoadley, Christopher</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kirschner, Paul A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kali, Y., Tabak, I., Ben-Zvi, D., Kidron, A., Amzalag, M., Baram-Tsabari, A., Barzilai, S., Brami, U., Duek, O., Elias, N., Kent, C., Laslo, E., Levy, K. S., Rafaeli, S., Tal, T., Weiss, P. L., Hoadley, C., &amp; Kirschner, P. A.&#x20;(2015).&#x20;Technology-Enhanced Learning Communities on a Continuum between Ambient to Designed: What Can We Learn by Synthesizing Multiple Research Perspectives?&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.1110</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium brings together the theoretical and practical tools of scientists in both the social and educational sciences in order to examine the types of interaction, knowledge construction, social organization and power structures that: (a) occur spontaneously in technology-enhanced learning communities or (b) can be created by design. We refer to these, respectively, as the study of ambient, naturally occurring, environments, and of designed environments. We present a set of seven studies that demonstrate the strong potential for the cross-fostering of ideas between educational scientists, who focus on the interventionist design-based study of learning, and social scientists, who focus on the analytic study of ambient social interaction and knowledge construction. Each study demonstrates specific insights regarding lessons that can be learned from the ambient to the designed arena, and vice versa, using lenses that integrate our various disciplinary research perspectives.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Technology-Enhanced Learning Communities on a Continuum between Ambient to Designed: What Can We Learn by Synthesizing Multiple Research Perspectives?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">technology-enhanced learning</dc:subject>
+<dc:subject xml:lang="en">learning communities</dc:subject>
+<dc:subject xml:lang="en">networked society</dc:subject>
+<dc:subject xml:lang="en">design</dc:subject>
+    </dublin_core>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Dornfeld, Catherine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puntambekar, Sadhana</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Dornfeld, C. &amp; Puntambekar, S.&#x20;(2015).&#x20;Emergent Roles and Collaborative Discourse Over Time&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.347</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">CSCL environments are intended to foster equal participation even when student roles are not assigned. However, roles may spontaneously emerge and result in distributed participation during collaboration, especially when students share and manage a single technology resource. We investigated how group discourse shaped emergent roles in a collaborative small group over the course of a 12-week science curriculum with simulated science experiments. Group members showed patterns in their discourse contributions in terms of content, function, and initiation and uptake of discourse topics. The emergence of these patterns stimulated role differentiation and stabilization. Conceptual discussion appeared to improve learning gains, while prioritization of task management detracted from learning. By tracking group discourse patterns, we can observe the process of role emergence in face-to-face CSCL interactions.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Emergent Roles and Collaborative Discourse Over Time</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Emergent Roles and Collaborative Discourse Over Time</dc:subject>
+<dc:subject xml:lang="en">roles</dc:subject>
+<dc:subject xml:lang="en">emergent</dc:subject>
+<dc:subject xml:lang="en">spontaneous</dc:subject>
+<dc:subject xml:lang="en">collaboration</dc:subject>
+    </dublin_core>

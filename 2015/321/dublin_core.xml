@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Jona, Kemi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penney, Lauren</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stevens, Reed</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Jona, K., Penney, L., &amp; Stevens, R.&#x20;(2015).&#x20;‘Re-mediating’ Learning&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.321</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Building on our own and others’ research about productive features of non-school learning environments, we describe a new experimental infrastructure for the organization and mediation of learning called FUSE. Activity in FUSE is mediated by a website and supported by an adult facilitator (typically a teacher, librarian, or other youth educator). Based on emerging research from the more than 4000 young people that have participated in FUSE in 30+ schools, libraries, and summer camps in the Chicago area, we have begun to characterize how the affordances of the FUSE website are supporting a shift in the material organization of learning in the in-school classrooms in which it is implemented. We describe how FUSE ‘re-mediates’ learning by providing individualized learning pathways, dynamic arrangements for learning, alternative forms of ‘assessment’, new roles for the teacher, and a rethinking of how curriculum materials are produced.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">‘Re-mediating’ Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">‘Re-mediating’ Learning</dc:subject>
+<dc:subject xml:lang="en">technology</dc:subject>
+<dc:subject xml:lang="en">interest-driven learning</dc:subject>
+<dc:subject xml:lang="en">design</dc:subject>
+<dc:subject xml:lang="en">STEM</dc:subject>
+    </dublin_core>

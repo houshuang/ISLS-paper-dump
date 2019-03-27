@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Manske, Sven</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hecking, Tobias</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chounta, Irene-Angelica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Werneburg, Sören</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hoppe, H. Ulrich</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Manske, S., Hecking, T., Chounta, I., Werneburg, S., &amp; Hoppe, H. U.&#x20;(2015).&#x20;Using Differences to Make a Difference: A Study on Heterogeneity of Learning Groups&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.191</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There is an increasing interest in student-centered teaching methods with small group learning as an important ingredient. In this paper, we present a study in which the performance of heterogeneous and homogeneous learning groups has been compared in a technology-enhanced classroom setting in the area of STEM learning. The group formation was based on learning analytics results that were considered in a semi-automatic formation process. The analytic methods used incorporated different artefact-related characteristics, but also motivational features as input. We observed that the heterogeneous groups outperformed the homogeneous ones in different ways. The results of the study are analysed using quantitative and qualitative approaches on both the individual and the group level.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Using Differences to Make a Difference: A Study on Heterogeneity of Learning Groups</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Using Differences to Make a Difference: A Study on Heterogeneity of Learning Groups</dc:subject>
+<dc:subject xml:lang="en">group learning</dc:subject>
+<dc:subject xml:lang="en">heterogeneity</dc:subject>
+<dc:subject xml:lang="en">inquiry-based learning</dc:subject>
+<dc:subject xml:lang="en">online experimentation</dc:subject>
+    </dublin_core>

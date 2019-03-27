@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Nistor, Nicolae</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dascalu, Mihai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tarnai, Christian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bresser, Nicolas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Trăușan-Matu, Ștefan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Nistor, N., Dascalu, M., Tarnai, C., Bresser, N., &amp; Trăușan-Matu, S.&#x20;(2015).&#x20;Online Knowledge Communities as Student-Centered Open Learning Environments: How Likely Will They Be to Integrate Learners as New Members?&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.141</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Using online knowledge communities (OKCs) from the Internet as student-centered, open learning environments (SCOLEs) poses the question how likely these communities will be to integrate learners as new members. This premise of learning in SCOLEs is analyzed in the current study. Based on the approaches of voices interanimation and polyphony, a natural language processing tool was employed for dialog analysis in integrative vs. non-integrative blog-based OKCs. Three dialog dimensions were identified: participants’ individual content-oriented contribution, social contribution, and their position within the social network. Hierarchical clusters built upon these dimensions reflect socio-cognitive structures including central, regular and peripheral OKC members. OKCs with a stronger layer of regular members appear more likely to integrate new members, whereas OKCs with a stronger layer of peripheral members appear less likely to do so. Consequently, the study suggests an automated prediction method of OKC integrativity that may sustain the educational use of OKCs.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Online Knowledge Communities as Student-Centered Open Learning Environments: How Likely Will They Be to Integrate Learners as New Members?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">virtual communities of practice</dc:subject>
+<dc:subject xml:lang="en">student-centered open learning environments (SCOLEs)</dc:subject>
+<dc:subject xml:lang="en">natural language processing</dc:subject>
+<dc:subject xml:lang="en">dialogue analysis</dc:subject>
+    </dublin_core>

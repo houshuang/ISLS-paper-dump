@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">Caballero, Daniela</dcvalue>
+<dcvalue element="contributor" qualifier="author">Verma, Himanshu</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jermann, Patrick</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sharma, K., Caballero, D., Verma, H., Jermann, P., &amp; Dillenbourg, P.&#x20;(2015).&#x20;Looking AT versus Looking THROUGH: A Dual Eye-Tracking Study in MOOC Context&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.250</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We present an eye-tracking study to show the different gaze patterns across the MOOC learners. We hypothesize that the pretests can be used to shape the attention of the students. Moreover we also proposed a collaborative add on activity to the learning material for the students to help them reflect on the material they learnt in the MOOC video. What comes out of the present study is two different interaction styles that differentiate the good students from the poor students. The good students engage with the teacher/collaborating partner through the interface/display. While the poor students engage with the material only. We name these two interaction styles as “looking through” and “looking at” respectively.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Looking AT versus Looking THROUGH: A Dual Eye-Tracking Study in MOOC Context</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Looking AT versus Looking THROUGH: A Dual Eye-Tracking Study in MOOC Context</dc:subject>
+<dc:subject xml:lang="en">eye-tracing</dc:subject>
+<dc:subject xml:lang="en">massive open online courses</dc:subject>
+<dc:subject xml:lang="en">MOOC</dc:subject>
+<dc:subject xml:lang="en">student engagement</dc:subject>
+    </dublin_core>

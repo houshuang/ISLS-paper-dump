@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Boyle, Bryan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Arnedillo-Sanchez, Inmaculada</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zahid, Aejaz</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Boyle, B., Arnedillo-Sanchez, I., &amp; Zahid, A.&#x20;(2015).&#x20;AutBlocks: Using Collaborative Learning to Develop Joint Attention Skills for Children with Autism Spectrum Disorder&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.264</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The development of Joint Attention skills for children with Autism Spectrum Disorder is an important pre-requisite to them achieving their full potential in terms of social and emotional interaction skills as they progress through childhood.  This paper describes the development of a multiuser collaborative game using gestural interaction to provide autistic children with social interaction difficulties a means to build, practice and consolidate their joint attention skills.  The feedback and experiences of a group of teachers of children with Autism are also presented for analysis and planning for future work.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">AutBlocks: Using Collaborative Learning to Develop Joint Attention Skills for Children with Autism Spectrum Disorder</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">autism spectrum disorder</dc:subject>
+<dc:subject xml:lang="en">joint attention</dc:subject>
+<dc:subject xml:lang="en">gesture control</dc:subject>
+<dc:subject xml:lang="en">game design</dc:subject>
+    </dublin_core>

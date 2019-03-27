@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Cober, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Acosta, Alisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lui, Michelle</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kuhn, Alex</dcvalue>
+<dcvalue element="contributor" qualifier="author">Quintana, Chris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Cober, R., Acosta, A., Lui, M., Moher, T., Kuhn, A., Quintana, C., &amp; Slotta, J. D.&#x20;(2015).&#x20;The Use of Visual Evidence for Planning and Argumentation&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.302</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We report on two learning environments where students used visual evidence  (digital photographs) for the scientific practices of planning and argumentation. The first is a knowledge-building environment called Neighborhood Safari, where Grade 5/6 students (n=45) construct investigation plans concerning schoolyard wildlife; the second is an immersive simulation called EvoRoom/Zydeco, where Grade 11 students (n=51) capture observational evidence to support knowledge claims. We developed coding schemes to assess support levels (ranging from 0-4) provided by textual and visual evidence concerning (respectively) students’ (1) investigation plans for observing schoolyard wildlife with camera traps and (2) knowledge claims about climatic conditions in an immersive rainforest simulation. Textual evidence was found to provide greater support for the scientific practices of planning and argumentation than visual evidence. High-level visual evidence made connections to investigation plans and arguments, using (1) visual annotations (e.g., arrows), (2) comparison or contrasting images, (3) explanatory captions or (4) compositional techniques (e.g., cropping). 
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Use of Visual Evidence for Planning and Argumentation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">science practices</dc:subject>
+<dc:subject xml:lang="en">visual evidence</dc:subject>
+<dc:subject xml:lang="en">collaborative inquiry</dc:subject>
+<dc:subject xml:lang="en">mobile applications</dc:subject>
+    </dublin_core>

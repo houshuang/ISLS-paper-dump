@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Zhang, Jianwei</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chen, Mei-Hwa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tao, Dan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sun, Yanqing</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Jiyeon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Judson, Darlene</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Zhang, J., Chen, M., Tao, D., Sun, Y., Lee, J., &amp; Judson, D.&#x20;(2015).&#x20;Fostering Sustained Knowledge Building through Metadiscourse Aided by the Idea Thread Mapper&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.185</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study was conducted in two Grade 5/6 classrooms that studied electricity over a three-month period using Knowledge Forum. Classroom A used Idea Thread Mapper (ITM)—a timeline-based collective discourse mapping tool—to engage in ongoing metadiscourse to review collective advances and gaps. Classroom B did not engage in this reflective practice until near the end of the inquiry. The results show that members of class A had more comprehensive and coherent awareness of the various inquiry themes discussed by their community focusing on deep conceptualization of electricity. Informed by the reflective awareness, classroom A also engaged in more active and connected online discourse to address deepening issues and develop coherent explanations across different lines of inquiry.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Fostering Sustained Knowledge Building through Metadiscourse Aided by the Idea Thread Mapper</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Fostering Sustained Knowledge Building through Metadiscourse Aided by the Idea Thread Mapper</dc:subject>
+<dc:subject xml:lang="en">metadiscourse</dc:subject>
+<dc:subject xml:lang="en">Idea Thread Mapper</dc:subject>
+<dc:subject xml:lang="en">knowledge building</dc:subject>
+<dc:subject xml:lang="en">collective responsibility</dc:subject>
+    </dublin_core>

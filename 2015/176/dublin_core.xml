@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Yoon, Susan A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Koehler-Yom, Jessica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Anderson, Emma</dcvalue>
+<dcvalue element="contributor" qualifier="author">Oztok, Murat</dcvalue>
+<dcvalue element="contributor" qualifier="author">Klopfer, Eric</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schoenfeld, Ilana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wendel, Daniel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sheldon, Josh</dcvalue>
+<dcvalue element="contributor" qualifier="author">Scheintaub, Hal</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Yoon, S. A., Koehler-Yom, J., Anderson, E., Oztok, M., Klopfer, E., Schoenfeld, I., Wendel, D., Sheldon, J., &amp; Scheintaub, H.&#x20;(2015).&#x20;Impacts on Student Understanding of Scientific Practices and Crosscutting Themes through an NGSS–Designed Computer-Supported Curriculum and Instruction Project&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.176</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents a curriculum intervention intentionally designed to align with Next Generation Science Standards in the high-school biology classroom. The project emphasizes learning about complex systems through an agent-based modeling tool called StarLogo Nova. Five curricular units have been developed on the topics of enzymes, ecology, protein synthesis, gene regulation, and sugar transport. In this exploratory study we were interested in understanding the extent to which students demonstrated understanding and skills in NGSS areas as they were designed. Evidence is gleaned from classroom observations and interviews with 50 students selected from the larger population of 352 students who worked with project resources during the 2013-2014 school year. Findings revealed that students demonstrated understanding and skills in all NGSS scientific practices and crosscutting themes particularly in the areas of developing and using models, analyzing and interpreting data, cause and effect, and systems and system models.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Impacts on Student Understanding of Scientific Practices and Crosscutting Themes through an NGSS–Designed Computer-Supported Curriculum and Instruction Project</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Impacts on Student Understanding of Scientific Practices and Crosscutting Themes through an NGSS–Designed Computer-Supported Curriculum and Instruction Project</dc:subject>
+<dc:subject xml:lang="en">education</dc:subject>
+<dc:subject xml:lang="en">learning outcomes</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+<dc:subject xml:lang="en">simulations</dc:subject>
+    </dublin_core>

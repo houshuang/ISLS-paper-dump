@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schubert, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Buder, Jürgen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rädle, Roman</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hesse, Friedrich W.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schubert, M., Buder, J., Rädle, R., &amp; Hesse, F. W.&#x20;(2015).&#x20;Common Ground and Individual Accountability in Literature Selection of Groups: Three Different Group Learning Techniques&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.163</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Libraries heavily changed over the last decades, supporting more and more the collaborative learner in providing adapted spaces and technologies. The transformation seems not surprising, as group learning is generally considered to be better than individual learning, although the mechanism behind is still unclear. In a single factor experiment with 180 students, 3-person groups jointly selected research literature for a Geology course at a Multitouch Tabletop. Based on the notions of common ground and individual accountability one third of the groups performed the task collaboratively. Another third had a preceding cooperative stage involving a division of labor, whereas the remaining third of groups had a preceding “parallel” stage. Results indicate a significant difference in learning achievements favoring the parallel condition. The results are discussed in the context of learning environments in libraries.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Common Ground and Individual Accountability in Literature Selection of Groups: Three Different Group Learning Techniques</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">library</dc:subject>
+<dc:subject xml:lang="en">problem-solving</dc:subject>
+<dc:subject xml:lang="en">group learning</dc:subject>
+<dc:subject xml:lang="en">multitouch tabletop</dc:subject>
+    </dublin_core>

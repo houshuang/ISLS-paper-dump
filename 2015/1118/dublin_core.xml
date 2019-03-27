@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Acosta, Alisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cober, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dasgupta, Chandan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fong, Cresencia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gnoli, Alessandro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Silva, Alexandra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Silva, Brenda López</dcvalue>
+<dcvalue element="contributor" qualifier="author">Perritano, Anthony</dcvalue>
+<dcvalue element="contributor" qualifier="author">Peppler, Kylie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Moher, T., Slotta, J. D., Acosta, A., Cober, R., Dasgupta, C., Fong, C., Gnoli, A., Silva, A., Silva, B. L., Perritano, A., &amp; Peppler, K.&#x20;(2015).&#x20;Knowledge Construction in the Instrumented Classroom: Supporting Student Investigations of Their Physical Learning Environment&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.1118</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this symposium we consider the physical space of the classroom in order to understand how location can be used as an input or information source for knowledge-building activities. Five posters encapsulate several projects, addressing the role of physical or locational elements within our work, including their role in the pedagogical design, the specific measures collected, and representations employed. The first two projects instrument the classroom with location-specific technologies (e.g., RFID tags), enabling learners to explore location-dependent phenomena (e.g., an earthquake zone, squirrel food patches). The third project maps classroom inquiry discourse (i.e., digital notes) to spatially meaningful locations though out the classroom for collective knowledge mapping. The fourth and fifth projects require learners to consider the physical properties of their learning environment in order to make decisions concerning where they will place motion-activated cameras for wildlife field investigations, allowing learners to instrument the learning environment themselves.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Knowledge Construction in the Instrumented Classroom: Supporting Student Investigations of Their Physical Learning Environment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">physical location</dc:subject>
+<dc:subject xml:lang="en">location-tracking technologies</dc:subject>
+<dc:subject xml:lang="en">instrumented learning environments</dc:subject>
+    </dublin_core>

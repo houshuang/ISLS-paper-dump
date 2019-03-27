@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Puhl, Thomas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tsovaltzi, Dimitra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weinberger, Armin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Puhl, T., Tsovaltzi, D., &amp; Weinberger, A.&#x20;(2015).&#x20;A Long-Term View on Learning to Argue in Facebook: The Effects of Group Awareness Tools and Argumentation Scripts&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.167</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Social networking sites pose a new arena for argumentative practices and may provide an opportunity to facilitate, and understand argumentative processes in large scale over longer periods of time. Through apps, group awareness tools and argumentation scripts can be implemented in social networking sites, to provide additional, graphically visualized information, and prompt learners to formulate or review sound arguments. This 2×2 field study (N=105) examines how Facebook can be harnessed for argumentative learning through group awareness tools and argumentation scripts. We measure domain-specific knowledge outcomes, the process of argumentative knowledge construction and attitude change. The results show a main effect for both conditions on domain-specific knowledge and argumentative knowledge construction, but no difference to the control group on attitude change. The epistemic quality and formal quality increased for the groups with argumentation script. All observed changes become substantial after the fourth week of interactions.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Long-Term View on Learning to Argue in Facebook: The Effects of Group Awareness Tools and Argumentation Scripts</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">A Long-Term View on Learning to Argue in Facebook: The Effects of Group Awareness Tools and Argumentation Scripts</dc:subject>
+<dc:subject xml:lang="en">argumentation</dc:subject>
+<dc:subject xml:lang="en">group awareness</dc:subject>
+<dc:subject xml:lang="en">scripts</dc:subject>
+<dc:subject xml:lang="en">social networking sites</dc:subject>
+    </dublin_core>

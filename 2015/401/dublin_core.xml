@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Chen, Bodong</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ma, Leanne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Matsuzawa, Yoshiaki</dcvalue>
+<dcvalue element="contributor" qualifier="author">Scardamalia, Marlene</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Chen, B., Ma, L., Matsuzawa, Y., &amp; Scardamalia, M.&#x20;(2015).&#x20;The Development of Productive Vocabulary in Knowledge Building: A Longitudinal Study&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.401</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We report a longitudinal study on the development of 22 students’ productive vocabulary in knowledge building from Grade 1 to 6. Vocabulary growth was assessed based on the student discourse in Knowledge Forum, an online community space designed to support Knowledge Building. Analysis of lexical proficiency based on Lexical Frequency Profile and P_Lex indicated significant growth in productive written vocabulary, especially for words beyond the first two 1,000 word lists. By tracing the growth of vocabulary extracted from specific word lists, we found that the growth rate for different types of words varied across each year but correlated with each other. Correlation analyses between these lexical measures and Knowledge Building behavioral indicators revealed that note revisions are the strongest predictor of vocabulary growth rate, whereas note reading is related with lexical proficiency measures.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Development of Productive Vocabulary in Knowledge Building: A Longitudinal Study</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">The Development of Productive Vocabulary in Knowledge Building: A Longitudinal Study</dc:subject>
+<dc:subject xml:lang="en">knowledge building</dc:subject>
+<dc:subject xml:lang="en">literacy development</dc:subject>
+<dc:subject xml:lang="en">productive vocabulary</dc:subject>
+<dc:subject xml:lang="en">CSCL</dc:subject>
+    </dublin_core>

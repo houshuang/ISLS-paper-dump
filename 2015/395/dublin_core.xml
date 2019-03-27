@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hardy, Lisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">White, Tobin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hardy, L. &amp; White, T.&#x20;(2015).&#x20;Meaning-Making in Collaborative Activity: Effort toward Coherent, but Not Shared, Interpretations of the Problem&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.395</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we report results from a first iteration of design-based research project exploring the potential of classroom networks of handheld tablets (iPads) to support collaborative reasoning in physics. This paper examines the interpretive acts performed in the collaborative discourse of a group of physics students as enactments of personal understandings, with the goal of understanding how distinct interpretations arise and are elaborated and negotiated by collaborative groups. Specifically we focus on a case in which ‘incompatible’ interpretations arise, and argue that the group makes efforts after coherent, but not necessarily shared, interpretations.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Meaning-Making in Collaborative Activity: Effort toward Coherent, but Not Shared, Interpretations of the Problem</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Meaning-Making in Collaborative Activity: Effort toward Coherent, but Not Shared, Interpretations of the Problem</dc:subject>
+<dc:subject xml:lang="en">interpretation</dc:subject>
+<dc:subject xml:lang="en">classroom networks</dc:subject>
+<dc:subject xml:lang="en">handhelds</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+    </dublin_core>

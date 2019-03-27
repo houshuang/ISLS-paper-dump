@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Richter, Christoph</dcvalue>
+<dcvalue element="contributor" qualifier="author">Allert, Heidrun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Albrecht, Julia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ruhl, Elisa</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Richter, C., Allert, H., Albrecht, J., &amp; Ruhl, E.&#x20;(2015).&#x20;Grappling with the Not-Yet-Known&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.276</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The importance of shared artifacts as means for learning has been widely acknowledged in the learning sciences as well as within the field of CSCL. However, there is no consensus on the actual roles these artifacts are playing in processes of (collaborative) knowledge creation. In this paper we argue that the prevailing theoretical accounts block sight for important epistemic processes and also hinder a deeper understanding of the material qualities of use as they focus on the explication of what is known rather than on what is not known yet. Drawing on an ethnographic study in a design studio course on industrial design, we depict the use of design artifacts in a set of epistemic patterns. Based on the conclusion that these artifacts can be understood as objects used to come to terms with the unknown, we discuss potential implications for CSCL systems aimed to foster collaborative knowledge creation.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Grappling with the Not-Yet-Known</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Grappling with the Not-Yet-Known</dc:subject>
+<dc:subject xml:lang="en">knowledge building</dc:subject>
+<dc:subject xml:lang="en">knowledge artifact</dc:subject>
+<dc:subject xml:lang="en">case study</dc:subject>
+<dc:subject xml:lang="en">tool design</dc:subject>
+    </dublin_core>

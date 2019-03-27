@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">d'Apollonia, Silvia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kunicki, Suzanne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bronet, Murray</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">d'Apollonia, S., Kunicki, S., &amp; Bronet, M.&#x20;(2015).&#x20;Connected Biology: A Usability Study of Web 2.0 Tools&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.136</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We incorporated traditional conceptual knowledge in an introductory Biology course into a Web 2.0 learning environment, which we called Connected Biology. We subsequently investigated whether faculty and students using it for 15 weeks found it useful. We used Crazy Egg (a commercial tracking site) to track students’ use of Connected Biology and their use of Web 2.0 tools. Students found Connected Biology useful (learnable, memorable, satisfying, and error-free) but not efficient. Although they accessed Connected Biology over 15 weeks, they tended to use it primarily to get feedback on their understanding of course content and not for exploratory activities. Interviews with faculty teaching introductory science courses indicated that most hold to a prescriptive learning model. The paper argues that we need to attend to the prevailing culture of introductory science courses (both student and teacher) before introducing Web 2.0 tools. Only then will the affordances of Web 2.0 tools be attained.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Connected Biology: A Usability Study of Web 2.0 Tools</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Connected Biology: A Usability Study of Web 2.0 Tools</dc:subject>
+<dc:subject xml:lang="en">web 2.0 tools</dc:subject>
+<dc:subject xml:lang="en">usability</dc:subject>
+<dc:subject xml:lang="en">data-mining</dc:subject>
+<dc:subject xml:lang="en">data-tracking</dc:subject>
+    </dublin_core>

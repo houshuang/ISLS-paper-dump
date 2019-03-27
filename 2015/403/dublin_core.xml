@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Richard, Gabriela T.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hoadley, Christopher</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Richard, G. T. &amp; Hoadley, C.&#x20;(2015).&#x20;Learning Resilience in the Face of Bias: Online Gaming, Protective Communities and Interest-Driven Digital Learning&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.403</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Online digital gaming environments have been proposed as an important form of computer-supported collaborative learning, but these environments have been shown to marginalize some learners, most notably women or girls, as well as ethnic or racial minorities. Furthermore, game-based competencies and identities have been shown to be important for digitally-mediated learning activities and trajectories in computer science and technology. In this paper we look at how supportive communities can improve resilience by mitigating stereotype threat, and thereby helping to protect vulnerable groups from the negative effects of implicit and explicit bias in gaming culture and game-based learning activities. Our findings demonstrate that a female-supportive gaming community can foster equitable gaming identification and self-concept, and we propose that similar models can be used with other marginalized groups (i.e., ethnic/racial minorities).
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Learning Resilience in the Face of Bias: Online Gaming, Protective Communities and Interest-Driven Digital Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Learning Resilience in the Face of Bias: Online Gaming, Protective Communities and Interest-Driven Digital Learning</dc:subject>
+<dc:subject xml:lang="en">online gaming</dc:subject>
+<dc:subject xml:lang="en">digital games</dc:subject>
+<dc:subject xml:lang="en">gender</dc:subject>
+<dc:subject xml:lang="en">race</dc:subject>
+    </dublin_core>

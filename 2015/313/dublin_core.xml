@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Danish, Joshua A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Saleh, Asmalina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Christine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Andrade, Alejandro</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Danish, J. A., Enyedy, N., Saleh, A., Lee, C., &amp; Andrade, A.&#x20;(2015).&#x20;Science Through Technology Enhanced Play: Designing to Support Reflection Through Play and Embodiment&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.313</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We describe the design of the Science through Technology Enhanced Play (STEP) project. In STEP, we explore the potential for dramatic play, a form of activity that is familiar to early elementary students, in promoting meaningful reflection about scientific content. We report on the first round of design experiments conducted with 18 second-grade students who explored states of matter within the STEP environment. Pre-post analyses indicate that the majority of students learned the content and demonstrate how the design promotes distinct forms of reflection. In particular, it appears that students attended to the projected simulation at key moments in play and then reflected on the underlying rules of the content.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Science Through Technology Enhanced Play: Designing to Support Reflection Through Play and Embodiment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Science Through Technology Enhanced Play: Designing to Support Reflection Through Play and Embodiment</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+<dc:subject xml:lang="en">technology</dc:subject>
+<dc:subject xml:lang="en">embodiment</dc:subject>
+<dc:subject xml:lang="en">elementary school</dc:subject>
+    </dublin_core>

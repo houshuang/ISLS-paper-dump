@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Dascalu, Mihai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Trausan-Matu, Stefan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dessus, Philippe</dcvalue>
+<dcvalue element="contributor" qualifier="author">McNamara, Danielle S.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Dascalu, M., Trausan-Matu, S., Dessus, P., &amp; McNamara, D. S.&#x20;(2015).&#x20;Dialogism: A Framework for CSCL and a Signature of Collaboration&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.158</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">As Computer Supported Collaborative Learning (CSCL) gains a broader usage in multiple educational scenarios facilitated by the use of technology, the need for automated tools capable of detecting and stimulating collaboration increases. We propose a computational model using ReaderBench that assesses collaboration from a dialogical perspective. Accordingly, collaboration emerges from the inter-twining of different points of view or, more specifically, from the inter-animation of voices pertaining to different speakers. Collaboration is determined from the intertwining or overlap of voices emitted by different participants throughout the ongoing conversation. This study presents a validation of this model consisting of a comparison between the output of our system and human evaluations of 10 chat conversations, selected from a corpus of more than 100 chats, in which Computer Science students debated on the advantages and disadvantages of CSCL technologies (e.g., chat, blog, wiki, forum, or Google Wave). The human evaluations of the degree of collaboration between the participants and the automated scores showed good overlap as measured by precision, recall, and F1 scores. Our overarching conclusion is that dialogism derived from the overlapping of voices can be perceived as a signature for collaboration.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Dialogism: A Framework for CSCL and a Signature of Collaboration</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Dialogism: A Framework for CSCL and a Signature of Collaboration</dc:subject>
+<dc:subject xml:lang="en">CSCL dialogism</dc:subject>
+<dc:subject xml:lang="en">collaboration assessmenet</dc:subject>
+<dc:subject xml:lang="en">cohesion</dc:subject>
+<dc:subject xml:lang="en">voice inter-animation</dc:subject>
+    </dublin_core>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schneider, Bertrand</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blikstein, Paulo</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schneider, B. &amp; Blikstein, P.&#x20;(2015).&#x20;Comparing the Benefits of a Tangible User Interface and Contrasting Cases as a Preparation for Future Learning&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.172</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we describe an experiment that compared the use of a Tangible User Interface in a constructivist fashion with a traditional learning activity. We carried out an experiment (N=40) with a 2x2 design: the first factor compared traditional instruction (“Tell &amp; Practice”) with a constructivist activity (using the Preparation for Future learning framework; PFL). The second factor contrasted state-of-the-art PFL learning activity (i.e., students studying Contrasting Cases) with an interactive tabletop featuring digitally-enhanced manipulatives. In agreement with prior work, we found that students who followed the PFL activity achieved significantly higher learning gains compared to their peers who followed a traditional “Tell &amp; Practice” instruction (large effect size). Additionally, a similar effect was found in favor of the interactive tabletop compared to the Contrasting Cases (small to moderate effect size). Finally, we looked at four predictors to explain those results (students’ endurability, involvement, their curiosity, and the quality of their mental models). We found those variables to predict more than half of the variance (R2 = .58) of students’ learning gains. We discuss implications for designing constructivist activities using new computer interfaces.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Comparing the Benefits of a Tangible User Interface and Contrasting Cases as a Preparation for Future Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Comparing the Benefits of a Tangible User Interface and Contrasting Cases as a Preparation for Future Learning</dc:subject>
+    </dublin_core>

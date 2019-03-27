@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Pauw, Daniel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clegg, Tamara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ahn, June</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bonsignore, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yip, Jason C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Uchidiuno, Judith</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Pauw, D., Clegg, T., Ahn, J., Bonsignore, E., Yip, J. C., &amp; Uchidiuno, J.&#x20;(2015).&#x20;Navigating Connected Inquiry Learning with ScienceKit&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.285</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">New pervasive, social, and mobile technologies hold great potential for supporting young people’s connections between interests, peer culture, and academic pursuits. Such connected learning experiences are critical for deep and engaged learning. However, efforts to identify and sustain ways to connect these experiences for learners remain elusive. In this study, we shed light on how we can initiate the process of connected learning through technology-realized and facilitator-based scaffolding of learners’ interests, social interactions, and scientific inquiry pursuits. Specifically, we documented three cases of learners in an afterschool program called Kitchen Chemistry and their use of a social media app called ScienceKit. Analysis of ScienceKit data with facilitator interactions reveals a typology of learner paths across connected learning experiences. Furthermore, understanding typologies that best match each learner appears to be critical for helping learners to make connections across interest-driven and peer-supported scientific inquiry.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Navigating Connected Inquiry Learning with ScienceKit</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Navigating Connected Inquiry Learning with ScienceKit</dc:subject>
+<dc:subject xml:lang="en">connected learning</dc:subject>
+<dc:subject xml:lang="en">educational technology</dc:subject>
+<dc:subject xml:lang="en">social media</dc:subject>
+<dc:subject xml:lang="en">science inquiry</dc:subject>
+    </dublin_core>

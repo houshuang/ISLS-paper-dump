@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Arastoopour, Golnaz</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaffer, David Williamson</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Arastoopour, G. &amp; Shaffer, D. W.&#x20;(2015).&#x20;Epistemography and Professional CSCL Environment Design&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.204</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study uses the epistemographic method to examine how professionals link ways of doing, thinking, and knowing in an epistemic frame that guides their reflection-in-action, which can inform the design of professional computer supported collaborative learning (CSCL) environments. This study examines student engineers learning design in a co-op program at a manufacturing company to investigate how participant structures, activities, and pedagogies are connected to an epistemic understanding of the profession. The analysis describes the significant participant structures in the engineering co-op program and the pedagogical techniques that are used in these participant structures. The analysis suggests that participant structures and pedagogical techniques are both orchestrated by and orchestrate the development of one of the central epistemological features of collaborative engineering design. These results suggest that epistemographic analysis is a useful tool in the development and analysis of professional CSCL environments.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Epistemography and Professional CSCL Environment Design</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Epistemography and Professional CSCL Environment Design</dc:subject>
+<dc:subject xml:lang="en">epistemology</dc:subject>
+<dc:subject xml:lang="en">reflection</dc:subject>
+<dc:subject xml:lang="en">participant structures</dc:subject>
+<dc:subject xml:lang="en">design</dc:subject>
+    </dublin_core>

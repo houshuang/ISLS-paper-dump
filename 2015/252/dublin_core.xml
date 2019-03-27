@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Deiglmayr, Anne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+<dcvalue element="contributor" qualifier="author">Loibl, Katharina</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Deiglmayr, A., Rummel, N., &amp; Loibl, K.&#x20;(2015).&#x20;The Mediating Role of Interactive Learning Activities in CSCL: An Input-Process-Outcome Model&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.252</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Computer-support for collaborative learning has been shown to be most effective if it is designed to foster productive social interactions. In this conceptual paper, we propose an INPUT-PROCESS-OUTCOME model to guide research on the defining features, and on the conditions and effects of such productive interactions in CSCL. The model builds upon the recently proposed interactive-constructive-active-passive-framework of overt learning activities (ICAP; Chi, 2009). We propose that the interactive mode of learning is a fruitful concept for specifying what constitutes productive social interaction in CSCL, given several conceptual and methodological clarifications. The mediating role of interactive learning activities in CSCL is highlighted by the proposed INPUT-PROCESS-OUTCOME model, and supported by recent empirical findings. Building on a brief review of exemplary findings, we discuss challenges and opportunities for future research in CSCL.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Mediating Role of Interactive Learning Activities in CSCL: An Input-Process-Outcome Model</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">input-process-output model</dc:subject>
+<dc:subject xml:lang="en">interactive learning activitities</dc:subject>
+<dc:subject xml:lang="en">process analysis</dc:subject>
+<dc:subject xml:lang="en">mediation</dc:subject>
+    </dublin_core>

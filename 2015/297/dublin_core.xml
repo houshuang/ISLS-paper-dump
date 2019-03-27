@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hao, Jiangang</dcvalue>
+<dcvalue element="contributor" qualifier="author">Liu, Lei</dcvalue>
+<dcvalue element="contributor" qualifier="author">von Davier, Alina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kyllonen, Patrick</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hao, J., Liu, L., von Davier, A., &amp; Kyllonen, P.&#x20;(2015).&#x20;Assessing Collaborative Problem Solving with Simulation Based Tasks&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.297</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Assessing collaborative problem solving (CPS) is an integrated part of the computer-supported collaborative learning (CSCL). We present some preliminary results from a project developed for assessing the CPS using web-based simulation. In the simulation, two participants collaborate via a chat box to complete a task on volcano science. By comparing the responses from 486 individuals and 278 teams (dyads) recruited from Amazon Mechanical Turk, we found the performance from the teams (dyads) is significantly higher than that from individuals. We also find that the item difficulty in the simulation affects both the processes and outcomes of the collaboration.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Assessing Collaborative Problem Solving with Simulation Based Tasks</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">collaborative problem-solving</dc:subject>
+<dc:subject xml:lang="en">simulation</dc:subject>
+<dc:subject xml:lang="en">assessment</dc:subject>
+<dc:subject xml:lang="en">natural language processing</dc:subject>
+    </dublin_core>

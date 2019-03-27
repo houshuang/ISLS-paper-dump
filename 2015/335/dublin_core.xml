@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schneider, Bertrand</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bumbacher, Engin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blikstein, Paulo</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schneider, B., Bumbacher, E., &amp; Blikstein, P.&#x20;(2015).&#x20;Discovery Versus Direct Instruction: Learning Outcomes of Two Pedagogical Models Using Tangible Interfaces&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.335</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We investigate the effect of using a tangible user interface (TUI) for discovery-based learning. For this purpose, we built EarExplorer, an interactive tangible system where students can manipulate and connect parts of the auditory system to rebuild a functional structure. An augmented reality layer displays sound waves and shows how they are transformed at various stages of the process. Our previous work suggests that TUIs are particularly good at preparing students for future learning; that is, students learn more when they can explore a novel domain with a TUI before compared to after receiving a traditional (e.g. lecture or text based) instruction. In this study, we isolated the impact of structured guidance versus no guidance during a hands-on TUI activity on learning. In one condition, students rebuilt the hearing system by self-driven discovery; in another condition they rebuilt it by following the step-by-step instructions of a video-teacher. We found that the first group (“discover”) significantly outperformed the second group (“listen”) by ~27% on the final learning test. To explain those results, we analyzed the TUI logs and explored how this effect unfolded with participants of different ability (i.e., low versus high GPA students).
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Discovery Versus Direct Instruction: Learning Outcomes of Two Pedagogical Models Using Tangible Interfaces</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Discovery Versus Direct Instruction: Learning Outcomes of Two Pedagogical Models Using Tangible Interfaces</dc:subject>
+<dc:subject xml:lang="en">tangible user interface</dc:subject>
+<dc:subject xml:lang="en">collaborative learning</dc:subject>
+<dc:subject xml:lang="en">tabletop</dc:subject>
+    </dublin_core>

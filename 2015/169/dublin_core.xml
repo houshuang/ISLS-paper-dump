@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Rossitto, Chiara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hernwall, Patrik</dcvalue>
+<dcvalue element="contributor" qualifier="author">Collin, Jonas</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Rossitto, C., Hernwall, P., &amp; Collin, J.&#x20;(2015).&#x20;Beyond Pedagogical Challenges: Addressing the Social Aspects around the Use of Digital Resources in University Education&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.169</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This article presents the results of a qualitative study in which the challenges of adopting and adapting digital media to the context of higher education were investigated. A workshop attended by university teachers and professional producers of educational video material was organized. The analysis draws attention to issues concerning the quality of digital media, the development of the professional skills required to produce and use them, and the orchestration of learning activities centered on such learning resources. The paper argues that understanding the challenges around the appropriation of digital media in educational settings encompasses the social and contextual aspects of the settings in which technology is to be used, and not merely the pedagogical concerns underlying its usage.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Beyond Pedagogical Challenges: Addressing the Social Aspects around the Use of Digital Resources in University Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Beyond Pedagogical Challenges: Addressing the Social Aspects around the Use of Digital Resources in University Education</dc:subject>
+<dc:subject xml:lang="en">qualitative studies</dc:subject>
+<dc:subject xml:lang="en">digital resources</dc:subject>
+<dc:subject xml:lang="en">teaching and learning practices</dc:subject>
+    </dublin_core>

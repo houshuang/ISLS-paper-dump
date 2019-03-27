@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Thompson, Kate</dcvalue>
+<dcvalue element="contributor" qualifier="author">Carvalho, Lucila</dcvalue>
+<dcvalue element="contributor" qualifier="author">Evans, Michael A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Huang, Lixiao</dcvalue>
+<dcvalue element="contributor" qualifier="author">Khosronejad, Maryam</dcvalue>
+<dcvalue element="contributor" qualifier="author">Reimann, Peter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Aditomo, Anindito</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wardak, Dewa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Goodyear, Peter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dimitriadis, Yannis</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martinez-Maldonado, Roberto</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dyke, Gregory</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Thompson, K., Carvalho, L., Evans, M. A., Huang, L., Khosronejad, M., Reimann, P., Aditomo, A., Wardak, D., Goodyear, P., Dimitriadis, Y., Martinez-Maldonado, R., &amp; Dyke, G.&#x20;(2015).&#x20;A Multimodal Approach to the Analysis of Complex Collaborative Learning Environments: Using Complementary Methods of Analysis to Synthesize New Trends in Scaffolding Research&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.1116</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Synthesis research is a method utilized in the field of ecology, and involves bringing together experts in different areas to address a research question that cannot be entirely answered by a single perspective. This symposium explores the application of this model to the learning sciences, specifically to scaffolding of computer supported collaborative learning. The symposium brings together expert researchers (working on different, related perspectives of scaffolding) to discuss their analysis of processes of learning in relation to discursive psychology and gesture analysis; conversation analysis; and multimodal interaction analysis. Each presenter will analyze and discuss the same corpus of data. These streams of data analysis are then brought together in the fourth presentation, with a discussion of visualizing and synthesizing the findings, piecing together an elaborated understanding of scaffolding. The final presentation includes the whole panel and addresses some of the challenges of conducting research this way in the learning sciences.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Multimodal Approach to the Analysis of Complex Collaborative Learning Environments: Using Complementary Methods of Analysis to Synthesize New Trends in Scaffolding Research</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      
+    </dublin_core>

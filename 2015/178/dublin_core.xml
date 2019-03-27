@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Matuk, Camillia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Linn, Marcia C.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Matuk, C. &amp; Linn, M. C.&#x20;(2015).&#x20;Examining the Real and Perceived Impacts of a Public Idea Repository on Literacy and Science Inquiry&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.178</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Public idea repositories can facilitate beneficial interactions among students. They moreover offer contexts for developing inquiry and literacy skills, as they position students as writers, and not just reviewers of science. Access to peers’ ideas can diversify students’ thinking, but also reinforce existing understanding. We investigate the real and perceived impacts of different prompts for students’ use of peers’ ideas. 144 middle school students used an online tool to exchange ideas during a science inquiry unit. Students prompted to seek ideas different from their own perceived their peers as having greater impact on their thinking than students prompted to seek ideas that reinforced their own. Although students’ revisions after exchanging ideas showed no actual change, students who diversified their ideas later showed significantly greater pre to post test gains. These findings suggest ways that technologies can be designed to best support students in taking advantage of peers as learning resources.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Examining the Real and Perceived Impacts of a Public Idea Repository on Literacy and Science Inquiry</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Examining the Real and Perceived Impacts of a Public Idea Repository on Literacy and Science Inquiry</dc:subject>
+<dc:subject xml:lang="en">public idea repositories</dc:subject>
+<dc:subject xml:lang="en">science inquiry</dc:subject>
+<dc:subject xml:lang="en">literacy</dc:subject>
+<dc:subject xml:lang="en">middle school</dc:subject>
+    </dublin_core>

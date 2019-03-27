@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ferschke, Oliver</dcvalue>
+<dcvalue element="contributor" qualifier="author">Howley, Iris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tomar, Gaurav</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yang, Diyi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Liu, Yu</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rosé, Carolyn Penstein</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ferschke, O., Howley, I., Tomar, G., Yang, D., Liu, Y., &amp; Rosé, C. P.&#x20;(2015).&#x20;Fostering Discussion across Communication Media in Massive Open Online Courses&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.404</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents data from one cycle of a design based research process in which we grapple with challenges in engaging students in more intensive discussion based interactions in Massive Open Online Courses (MOOCs). We compare across three communication media provided to students in that context in terms of relative popularity and overlap in student sub-populations. We also compare the communication between these contexts in terms of their content focus, concentration of reasoning articulation, and the interaction between the two.  This comparison allows investigating the specific contribution of synchronous collaboration in a MOOC, which is relatively novel.  The analysis suggests that there is value in providing a diverse set of discussion contexts in that they may lend themselves to differently natured interactions, but that it creates a need for greater efforts towards effective bridging between media and channeling of students to pockets of interaction that are potentially of personal benefit.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Fostering Discussion across Communication Media in Massive Open Online Courses</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Fostering Discussion across Communication Media in Massive Open Online Courses</dc:subject>
+<dc:subject xml:lang="en">discussion affordances</dc:subject>
+<dc:subject xml:lang="en">massive open online courses</dc:subject>
+<dc:subject xml:lang="en">reasoning</dc:subject>
+<dc:subject xml:lang="en">MOOC</dc:subject>
+    </dublin_core>

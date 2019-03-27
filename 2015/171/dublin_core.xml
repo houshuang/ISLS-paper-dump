@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Khoo, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stahl, Gerry</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Khoo, M. &amp; Stahl, G.&#x20;(2015).&#x20;Constructing Knowledge: A Community of Practice Framework for Evaluation in the VMT Project&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.171</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper describes a formative evaluation of the Virtual Math Teams (VMT) Project as it adopts the GeoGebra dynamic-mathematics application. The project team is considered as a Community of Practice, which communicates with student users through boundary objects. An ethnographic action research approach is used to analyze three sources of data: VMT user manuals; screenshots of tool interfaces and assignments; and logs of student chat sessions addressing those assignments. The analysis focuses on how the topic of ‘construction’ is articulated in each data set. The results show that the team understands ‘construction’ in terms of a complex web of knowledge of dynamic geometry, while the students develop their own emergent notions of ‘constructing’ from the boundary objects produced by the team. Recommendations for boundary object design are briefly considered.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Constructing Knowledge: A Community of Practice Framework for Evaluation in the VMT Project</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Constructing Knowledge: A Community of Practice Framework for Evaluation in the VMT Project</dc:subject>
+<dc:subject xml:lang="en">action research</dc:subject>
+<dc:subject xml:lang="en">boundary objects</dc:subject>
+<dc:subject xml:lang="en">communities of practice</dc:subject>
+<dc:subject xml:lang="en">design research</dc:subject>
+    </dublin_core>

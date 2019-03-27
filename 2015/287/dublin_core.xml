@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ke, Fengfeng</dcvalue>
+<dcvalue element="contributor" qualifier="author">Carafano, Peter</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ke, F. &amp; Carafano, P.&#x20;(2015).&#x20;Immersive Simulation on Collaborative Learning about a Complex Dynamic System&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.287</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This mixed methods study examined the effect of Astronaut Challenge, an immersive, flight-simulation-based learning program, on the collaborative learning process and science knowledge development of high-school students (9th graders). The study findings suggested that simulation-based collaborative learning activities promoted students’ scientific understanding about the dynamics of the space flight system. Although the knowledge test results did not indicate a significant differential effect of the two immersive settings (exclusive space versus classroom flight simulator) on the learning outcome, qualitative findings suggested that the higher level of the sensory immersion in a simulation-based learning environment may foster engagement while impeding collaborative conceptual understanding.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Immersive Simulation on Collaborative Learning about a Complex Dynamic System</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">science learning</dc:subject>
+<dc:subject xml:lang="en">flight simulator</dc:subject>
+<dc:subject xml:lang="en">computer supported collaborative learning</dc:subject>
+<dc:subject xml:lang="en">simulation environment design</dc:subject>
+    </dublin_core>

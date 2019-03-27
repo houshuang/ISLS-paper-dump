@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Davidsen, Jacob</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ryberg, Thomas</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Davidsen, J. &amp; Ryberg, T.&#x20;(2015).&#x20;“This Is the Size of One Meter”: Children’s Bodily-Material Collaboration and Understanding of Scale around Touchscreens&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.150</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In CSCL studies, language is often foregrounded as the primary resource for engaging in collaborative learning, while the body is more often positioned as a secondary resource. In this paper, we present, analyse and discuss how two nine-year-old children collaborate through gesturing and moving their bodies around a touchscreen. The pair is working with the concept of scale and are in midst of copying their rooms from paper to touchscreen. During this process, the pair engages in a discussion regarding the size of one meter through language, gestures and manipulation of the material resource. The analysis shows two distinct ways of understanding the length of one meter, which primarily is visible through the children’s gesturing and bodily movement. In conclusion, the analysis shows that children dynamically produce body-material resources for communicative and illustrative purposes; moreover, they use body-material as a cognitive tool and as a way of shepherding the other.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“This Is the Size of One Meter”: Children’s Bodily-Material Collaboration and Understanding of Scale around Touchscreens</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">“This Is the Size of One Meter”: Children’s Bodily-Material Collaboration and Understanding of Scale around Touchscreens</dc:subject>
+<dc:subject xml:lang="en">touchscreens</dc:subject>
+<dc:subject xml:lang="en">embodied interaction</dc:subject>
+<dc:subject xml:lang="en">knowledge building</dc:subject>
+<dc:subject xml:lang="en">video analysis</dc:subject>
+    </dublin_core>

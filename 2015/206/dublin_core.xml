@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Prieto, Luis P.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wen, Yun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Prieto, L. P., Sharma, K., Wen, Y., &amp; Dillenbourg, P.&#x20;(2015).&#x20;The Burden of Facilitating Collaboration: Towards Estimation of Teacher Orchestration Load using Eye-Tracking Measures&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.206</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teacher facilitation of CSCL activities is widely recognized as one of the main factors affecting student learning outcomes in formal face-to-face settings. However, the orchestration load that such facilitation represents for the teacher, within the constraints of an authentic classroom, remains under-researched. This paper presents a novel method to estimate the cognitive load of teachers during facilitation of CSCL sessions, using mobile eye-tracking techniques. Throughout three studies of increasing authenticity, we demonstrate the feasibility of this approach, and extract insights about classroom usability challenges in CSCL practice: the increased load of class-level facilitation, or the real-time monitoring of students’ progress. This new instrument in the CSCL researcher’s toolkit can help focus our attention in critical, fine-grained classroom usability episodes, to make more informed design decisions.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Burden of Facilitating Collaboration: Towards Estimation of Teacher Orchestration Load using Eye-Tracking Measures</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">The Burden of Facilitating Collaboration: Towards Estimation of Teacher Orchestration Load using Eye-Tracking Measures</dc:subject>
+<dc:subject xml:lang="en">orchestration</dc:subject>
+<dc:subject xml:lang="en">cognitive load</dc:subject>
+<dc:subject xml:lang="en">eye-tracking</dc:subject>
+<dc:subject xml:lang="en">teaching</dc:subject>
+    </dublin_core>

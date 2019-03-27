@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hakkarainen, Kai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ligorio, Beatrice</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ritella, Giuseppe</dcvalue>
+<dcvalue element="contributor" qualifier="author">Arnseth, Hans Christian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gil, Alfredo Jornet</dcvalue>
+<dcvalue element="contributor" qualifier="author">Krange, Ingeborg</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fauville, Géraldine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lantz-Andersson, Annika</dcvalue>
+<dcvalue element="contributor" qualifier="author">Säljö, Roger</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lundin, Mona</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mäkitalo, Åsa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lehtinen, Erno</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hakkarainen, K., Ligorio, B., Ritella, G., Arnseth, H. C., Gil, A. J., Krange, I., Fauville, G., Lantz-Andersson, A., Säljö, R., Lundin, M., Mäkitalo, A., &amp; Lehtinen, E.&#x20;(2015).&#x20;Artefacts Mediating Practices across Time and Space: Sociocultural Studies of Material Conditions for Learning and Remembering&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.1101</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The theme of this symposium is to explore the material conditions of learning and remembering from a sociocultural perspective. We do this in four different empirical contexts. Learning and remembering are understood as meaning-making processes that are dependent on and co-constituted by mediating tools that enable practices to extend across time and space. Our interests are precisely in what ways the “tools” people employ in these studies mediate activities of learning and remembering, and how they contribute to the organization of collective forms of knowing. We also address how we analyze the specific material features of tools that co-determine the unfolding of the activities.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Artefacts Mediating Practices across Time and Space: Sociocultural Studies of Material Conditions for Learning and Remembering</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      
+    </dublin_core>

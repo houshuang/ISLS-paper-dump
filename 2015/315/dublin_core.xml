@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Thiemann, Daniel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Engelmann, Tanja</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hesse, Friedrich W.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Thiemann, D., Engelmann, T., &amp; Hesse, F. W.&#x20;(2015).&#x20;Learning about Team Members’ Preferences: Computer-Supported Preference Awareness in the Negotiation Preparation of Teams&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.315</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Although members of a negotiation team form one joint negotiation party, they often have different preferences within the team. This impairs the team’s negotiation performance. Learning about the team members’ preferences in order to align them to accurate joint priorities for the negotiation therefore becomes an important part of the negotiation preparation. This experimental study examines, whether computer-supported awareness about the team members’ preferences (i.e. Preference Awareness) helps to foster the knowledge about these preferences within the team and thereby leads to accurate team priorities. 150 participants were randomly assigned to teams of three members with different preferences in either a condition with or without Preference Awareness. They had to prepare jointly for an upcoming negotiation via audio conference. In the condition with Preference Awareness, the priorities, which were stated by the team members afterwards, covered the preferences of all team members significantly better than in the condition without awareness.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Learning about Team Members’ Preferences: Computer-Supported Preference Awareness in the Negotiation Preparation of Teams</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">preference awareness</dc:subject>
+<dc:subject xml:lang="en">negotiation teams</dc:subject>
+<dc:subject xml:lang="en">negotiation preparation</dc:subject>
+<dc:subject xml:lang="en">negotiation performance</dc:subject>
+    </dublin_core>

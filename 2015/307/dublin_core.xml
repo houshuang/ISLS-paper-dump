@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Jeong, Heisawn</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hmelo-Silver, Cindy E.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Jeong, H. &amp; Hmelo-Silver, C. E.&#x20;(2015).&#x20;Research Questions and Research Methods in CSCL Research&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.307</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">While research questions play a critical role in research, their role has seldom been examined systematically. In this study, we examined what kinds of research questions are addressed in CSCL empirical research and what is the relationship between research questions and methods, in part using outcomes of an earlier analysis. The analysis showed that CSCL research has mainly focused on design and implementation of technological and/or curricular interventions. Research questions influenced research methods to a degree, although the relationships were not strict. The results confirmed, as well as contradicted, some of the intuitive conceptions about the relationship between research questions and methods. Implications for future CSCL research are discussed.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Research Questions and Research Methods in CSCL Research</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Research Questions and Research Methods in CSCL Research</dc:subject>
+<dc:subject xml:lang="en">research questions</dc:subject>
+<dc:subject xml:lang="en">research methods</dc:subject>
+<dc:subject xml:lang="en">CSCL</dc:subject>
+<dc:subject xml:lang="en">relationship</dc:subject>
+    </dublin_core>

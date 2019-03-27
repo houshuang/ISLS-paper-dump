@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Flood, Virginia J.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Neff, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Abrahamson, Dor</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Flood, V. J., Neff, M., &amp; Abrahamson, D.&#x20;(2015).&#x20;Boundary Interactions: Resolving Interdisciplinary Collaboration Challenges Using Digitized Embodied Performances&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.162</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Little is known about the collaborative learning processes of interdisciplinary teams designing technology-enabled immersive learning systems. In this conceptual paper, we reflect on the role of digitally captured embodied performances as boundary objects within our heterogeneous two-team collective of learning scientists and computer scientists as we design an embodied, animated virtual tutor embedded in a physically immersive mathematics learning system. Beyond just a communicative resource, we demonstrate how these digitized, embodied performances constitute a powerful mode for both inter- and intra-team learning and innovation. Our work illustrates the utility of mobilizing the material conditions of learning.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Boundary Interactions: Resolving Interdisciplinary Collaboration Challenges Using Digitized Embodied Performances</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Boundary Interactions: Resolving Interdisciplinary Collaboration Challenges Using Digitized Embodied Performances</dc:subject>
+<dc:subject xml:lang="en">interdisciplinary collaboration</dc:subject>
+<dc:subject xml:lang="en">embodied interaction design</dc:subject>
+<dc:subject xml:lang="en">mathematics education</dc:subject>
+    </dublin_core>

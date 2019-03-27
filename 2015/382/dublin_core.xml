@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tao, Dan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhang, Jianwei</dcvalue>
+<dcvalue element="contributor" qualifier="author">Huang, Yue</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tao, D., Zhang, J., &amp; Huang, Y.&#x20;(2015).&#x20;How Did a Grade 5 Community Formulate Progressive, Collective Goals to Sustain Knowledge Building Over a Whole School Year?&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.382</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This research explores the metacognitive and discursive processes by which a grade 5 community formulated shared deepening goals to direct its inquiry about the human body across a whole school year. This inquiry was facilitated by Idea Thread Mapper (ITM) that supported the community’s metacognitive reflection and conversations. Qualitative analysis of classroom activities elaborated the evolution of collective goals of understanding, which were used by students to monitor the community’s progress, and regulate further inquiry. Analyses of pre- and post-tests and online discourse showed productive improvement of idea achieved by individuals and the community as a whole.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">How Did a Grade 5 Community Formulate Progressive, Collective Goals to Sustain Knowledge Building Over a Whole School Year?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">How Did a Grade 5 Community Formulate Progressive, Collective Goals to Sustain Knowledge Building Over a Whole School Year?</dc:subject>
+<dc:subject xml:lang="en">knowledge building</dc:subject>
+<dc:subject xml:lang="en">long-term trajectory</dc:subject>
+<dc:subject xml:lang="en">socially shared regulation</dc:subject>
+<dc:subject xml:lang="en">collective goals</dc:subject>
+    </dublin_core>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Borge, Marcela</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ong, Yann Shiou</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rosé, Carolyn Penstein</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Borge, M., Ong, Y. S., &amp; Rosé, C. P.&#x20;(2015).&#x20;Activity Design Models to Support the Development of High Quality Collaborative Processes in Online Settings&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.391</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we assess the utility of an activity design model and different reflective activities for improving the quality of collaborative processes. Thirty-seven online students, belonging to one of 13 teams, formed the participants of the study. Teams completed five discussion sessions as part of required course activity, using one of two reflective conditions. Each team also received feedback on their performance. We assessed the quality of processes between groups using content analysis techniques. Team process measures at the first time point were used to identify groups’ initial strengths and weaknesses. To assess the utility of the model and reflective assessment designs, we used a 2x5 mixed factorial design, with Condition (two levels) as a between subjects factor and Time (5 levels) as a within subjects factor. We found that students were weakest at presenting and discussing claims and both Condition and Time are significant predictors of collaborative process quality. 
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Activity Design Models to Support the Development of High Quality Collaborative Processes in Online Settings</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Activity Design Models to Support the Development of High Quality Collaborative Processes in Online Settings</dc:subject>
+<dc:subject xml:lang="en">sociometacognition</dc:subject>
+<dc:subject xml:lang="en">regulation of collaborative processes</dc:subject>
+<dc:subject xml:lang="en">assessment</dc:subject>
+<dc:subject xml:lang="en">discussion quality</dc:subject>
+    </dublin_core>

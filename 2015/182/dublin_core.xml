@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schneider, Bertrand</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cuendet, Sébastien</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zufferey, Guillaume</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pea, Roy D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., &amp; Pea, R. D.&#x20;(2015).&#x20;3D Tangibles Facilitate Joint Visual Attention in Dyads&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.182</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We report results from a dual eye-tracking study around a Tangible User Interface (TUI). Participants (N=54) worked in groups of two and solved optimization problems on the TinkerTable, a TUI designed for students in logistics. The TinkerTable features tangible shelves that students can manipulate to build and optimize the layout of a warehouse while the system provides feedback with a projector above the table. Using mobile eye-trackers, we examined participants’ visual coordination when solving those problems. We describe two contributions to the CSCL community: first, we propose a methodology for synchronizing two eye-tracking goggles and computing measures of joint visual attention (JVA) in a co-located setting. Second, we report preliminary findings suggesting that participants were more likely to have moments of joint attention when looking at 3D, realistic objects compared to 2D, abstract ones. JVA was also found to be a significant predictor of students’ learning gains and performance during the optimization tasks. We discuss implications of these findings for supporting interactions around a TUI.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">3D Tangibles Facilitate Joint Visual Attention in Dyads</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">3D Tangibles Facilitate Joint Visual Attention in Dyads</dc:subject>
+<dc:subject xml:lang="en">tangible user interface</dc:subject>
+<dc:subject xml:lang="en">eye-tracking</dc:subject>
+<dc:subject xml:lang="en">joint attention</dc:subject>
+    </dublin_core>

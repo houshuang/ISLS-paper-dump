@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Saleh, Asmalina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Danish, Joshua A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Christine</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Saleh, A., Danish, J. A., Enyedy, N., &amp; Lee, C.&#x20;(2015).&#x20;Assessing Young Children’s Cognition through Multi-Modal Interviews&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.396</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Designs that leverage embodiment argue that embodiment supports students’ cognition and learning. However, it is unclear how we might assess the role of embodiment in supporting student learning as compared to other modes of expression, such as verbal or visual. Furthermore, computer-supported learning activities that rely upon embodiment may be best evaluated with measures that allow students to continue to embody their knowledge during assessments. Our study presents early efforts to understand how embodiment might support or hinder 2nd graders’ expressions of states of matter (N=18). Results indicate that when students are less familiar with content or provided fewer details in other modes of communication, embodiment provides an alternative way to express their understanding. Moreover, the intervention familiarized students with how to use embodiment to express themselves which led students to yield responses which were just as nuanced as other modes of communication.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Assessing Young Children’s Cognition through Multi-Modal Interviews</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">embodiment</dc:subject>
+<dc:subject xml:lang="en">assessments</dc:subject>
+<dc:subject xml:lang="en">multi-modality</dc:subject>
+<dc:subject xml:lang="en">young children</dc:subject>
+    </dublin_core>

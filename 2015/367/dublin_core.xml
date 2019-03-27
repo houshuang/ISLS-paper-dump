@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Laru, Jari</dcvalue>
+<dcvalue element="contributor" qualifier="author">Malmberg, Jonna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Järvenoja, Hanna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sarenius, Vesa-Matti</dcvalue>
+<dcvalue element="contributor" qualifier="author">Järvelä, Sanna</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Laru, J., Malmberg, J., Järvenoja, H., Sarenius, V., &amp; Järvelä, S.&#x20;(2015).&#x20;Designing Simple Tools for Socially Shared Regulation: Experiences of Using Google Docs and Mobile SRL Tools in Mathematics Education&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.367</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The aim of this paper is to describe how simple SRL tools can be used for supporting collaborative learning in the context of a mathematics education course. In particular, we will first introduce the pedagogical design building on a theoretical framework of socially shared regulation of learning (SSRL) and seamless learning. Second, we will introduce simple tools that were used at different points of the collaborative task to increase teacher and student awareness of situation-specific regulation.  Third, we will provide case examples to illustrate how the collaborating groups with varying profiles benefit from use of the tool in practice. The results show that highly self-regulating collaborating groups saw the added value of the tool designed to support SSRL. However, the collaborating groups with low levels of self-regulation felt that it was merely an additional tool which needed to '“perform”. 
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing Simple Tools for Socially Shared Regulation: Experiences of Using Google Docs and Mobile SRL Tools in Mathematics Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Designing Simple Tools for Socially Shared Regulation: Experiences of Using Google Docs and Mobile SRL Tools in Mathematics Education</dc:subject>
+<dc:subject xml:lang="en">socically shared regulation</dc:subject>
+<dc:subject xml:lang="en">regulation tools</dc:subject>
+<dc:subject xml:lang="en">web 2.0</dc:subject>
+<dc:subject xml:lang="en">mathematics</dc:subject>
+    </dublin_core>

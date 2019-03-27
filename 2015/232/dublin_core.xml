@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Dolonen, Jan Arild</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kluge, Anders</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Dolonen, J. A. &amp; Kluge, A.&#x20;(2015).&#x20;Algebra Learning through Digital Gaming in School&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.232</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Digital games have sparked research interest into how they can be used in school to enhance learning. This study identifies the variation in engagement and learning outcomes when two groups of students use two different digital learning resources for algebra: a game and a web-based resource. Further, the study explores how the digital learning resources create different conditions for social interaction and learning among students and their teacher in a classroom. The setting includes a class of 75 students (age 13–14) in two groups who receive identical instruction from their teacher. Field observations and pretests and posttests show that students playing the game are more engaged, yet their performance on posttests are significantly worse than the other group. Episodes of interaction between participants and technology suggest that they struggle with the symbolic world of the digital game, which constrains the mathematical meaning making that is relevant in schools.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Algebra Learning through Digital Gaming in School</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Algebra Learning through Digital Gaming in School</dc:subject>
+<dc:subject xml:lang="en">digital games</dc:subject>
+<dc:subject xml:lang="en">algebra</dc:subject>
+<dc:subject xml:lang="en">mixed methods</dc:subject>
+<dc:subject xml:lang="en">engagement</dc:subject>
+    </dublin_core>

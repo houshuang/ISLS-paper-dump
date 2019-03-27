@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Näykki, Piia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pöysä-Tarhonen, Johanna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Järvelä, Sanna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Häkkinen, Päivi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Näykki, P., Pöysä-Tarhonen, J., Järvelä, S., &amp; Häkkinen, P.&#x20;(2015).&#x20;Enhancing Teacher Education Students’ Collaborative Problem-Solving and Shared Regulation of Learning&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.236</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study aims to explore how collaborative problem solving (CPS) and socially shared regulation of learning (SSRL) can be enhanced in practice in a technology-rich collaborative learning context within the domain of mathematics. The participants of this study are first-year teacher education students in two Finnish universities. This paper will elaborate how collaborative problem solving (CPS) and socially shared regulation of learning (SSRL) can be supported by scripting and prompting. It is argued here that we need theory-based pedagogical designs for developing effective collaborative learning practices that aim to provide students with possibilities to experience the new collaborative, technology-rich learning culture as teachers-to-be.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Enhancing Teacher Education Students’ Collaborative Problem-Solving and Shared Regulation of Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">collaborative problem-solving</dc:subject>
+<dc:subject xml:lang="en">social shared regulation of learning</dc:subject>
+<dc:subject xml:lang="en">teacher education</dc:subject>
+    </dublin_core>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Mercier, Emma</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fong, Cresencia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cober, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Forssell, Karin S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Israel, Maya</dcvalue>
+<dcvalue element="contributor" qualifier="author">Joyce-Gibbons, Andrew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martinez-Maldonado, Roberto</dcvalue>
+<dcvalue element="contributor" qualifier="author">Messina, Richard</dcvalue>
+<dcvalue element="contributor" qualifier="author">Murray, Julia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Peebles, Ben</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shehab, Saadeddine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:51:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Mercier, E., Fong, C., Cober, R., Slotta, J. D., Forssell, K. S., Israel, M., Joyce-Gibbons, A., Martinez-Maldonado, R., Messina, R., Murray, J., Peebles, B., Moher, T., Shehab, S., &amp; Rummel, N.&#x20;(2015).&#x20;Researching and Designing for the Orchestration of Learning in the CSCL Classroom&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;2.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.1103</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Designing tools for teachers to orchestrate computer supported collaborative learning activities in their classrooms requires that attention be paid to the range of roles and activities a teacher must take throughout the process. Drawing on the Implementing Collaborative Learning in the Classroom framework proposed by Kaendler, Wiedmann, Rummel and Spada (2014), the contributors to this symposium will speak to the way their designs address the various parts of this framework, allowing us to draw conclusions about what has been successful for different parts of this process, and identifying future directions for development and research.
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Researching and Designing for the Orchestration of Learning in the CSCL Classroom</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">teachers</dc:subject>
+<dc:subject xml:lang="en">design issues</dc:subject>
+<dc:subject xml:lang="en">classroom technology</dc:subject>
+<dc:subject xml:lang="en">collaborative learning</dc:subject>
+    </dublin_core>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wise, Alyssa Friend</dcvalue>
+<dcvalue element="contributor" qualifier="author">Antle, Alissa Nicole</dcvalue>
+<dcvalue element="contributor" qualifier="author">Warren, Jillian</dcvalue>
+<dcvalue element="contributor" qualifier="author">May, Aaron</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fan, Min</dcvalue>
+<dcvalue element="contributor" qualifier="author">Macaranas, Anna</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T14:15:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2015-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wise, A. F., Antle, A. N., Warren, J., May, A., Fan, M., &amp; Macaranas, A.&#x20;(2015).&#x20;What Kind of World Do You Want to Live In? Positive Interdependence and Collaborative Processes in the Tangible Tabletop Land-Use Planning Game Youtopia&#x20;In&#x20; Lindwall,&#x20;O.,&#x20;Häkkinen,&#x20;P.,&#x20;Koschman,&#x20;T.&#x20;Tchounikine,&#x20;P.&#x20;&#x20;Ludvigsen,&#x20;S.&#x20;(Eds.)&#x20;(2015).&#x20;Exploring&#x20;the&#x20;Material&#x20;Conditions&#x20;of&#x20;Learning:&#x20;The&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;Conference&#x20;2015,&#x20;Volume&#x20;1.&#x20;Gothenburg,&#x20;Sweden:&#x20;The&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2015.221</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Twenty pairs of 5th grade children used a tangible tabletop sustainability game to create a world they would want to live in to share with the rest of the class. Half of the pairs were assigned particular roles with associated game controls (positive interdependence condition) while the other half were not (control condition). Results showed that pairs in the assigned roles/controls condition gave more in-depth explanations to their partners about what they wanted to do in the game, but did not negotiate with each other more frequently than control pairs. They also had fewer but longer instances of jointly resolved conflict. Contrary to some previous findings, all pairs in both conditions were found to work together (rather than in parallel / competitively) the entire time. The general finding is a somewhat limited, but consistent, positive effect of the assigned roles/tools manipulation on collaborative processes. 
+</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">What Kind of World Do You Want to Live In? Positive Interdependence and Collaborative Processes in the Tangible Tabletop Land-Use Planning Game Youtopia</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">What Kind of World Do You Want to Live In? Positive Interdependence and Collaborative Processes in the Tangible Tabletop Land-Use Planning Game Youtopia</dc:subject>
+<dc:subject xml:lang="en">tangible systems</dc:subject>
+<dc:subject xml:lang="en">emergent dialogue</dc:subject>
+<dc:subject xml:lang="en">student roles</dc:subject>
+<dc:subject xml:lang="en">positive interdependence</dc:subject>
+    </dublin_core>
