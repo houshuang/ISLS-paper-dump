@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Yang, Yuqin</dcvalue>
+<dcvalue element="contributor" qualifier="author">van Aalst, Jan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chan, Carol K. K.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:32Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:32Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Yang, Y., van Aalst, J., &amp; Chan, C. K.&#x20;(2016).&#x20;Fostering Collaborative Learning Through Knowledge Building Among Students With Low Academic Achievement&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.111</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study investigated whether students with low achievement were capable to collectively advance their online discourse in a knowledge-building environment. 37 students with low achievement from a 9th-grade Visual Arts course participated in the study. We analyzed students’ online discourse. Findings indicated that students were able to collectively advance the community’s discourse as they built on each others’ ideas, generated theories, questions and metacognitive statements in a supportive knowledge-building environment augmented by reflective assessment. The study’s findings have important implications for the design of technology-rich environments, and shed light on how teachers can use them to help learners to engage in productive collaborative inquiry.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Fostering Collaborative Learning Through Knowledge Building Among Students With Low Academic Achievement</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;knowledge building&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;reflective assessment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;students with low achievement&lt;/dc:subject&gt;
+    </dublin_core>

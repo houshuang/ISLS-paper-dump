@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hartmann, Christian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+<dcvalue element="contributor" qualifier="author">Loibl, Katharina</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hartmann, C., Rummel, N., &amp; Loibl, K.&#x20;(2016).&#x20;Communication Patterns and Their Role for Conceptual Knowledge Acquisition From Productive Failure&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.69</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In Productive Failure (PF), students struggle with a problem in small groups before receiving instruction on the correct solution, which has been shown to enhance conceptual knowledge acquisition. Explanations for the effectiveness of PF point at the importance of contrasting the student’s solution ideas with critical aspects of the correct solution during instruction. However, other mechanisms of PF have not yet been investigated in detail. Here, we focus on the role of communication patterns during the initial problem-solving phase. Using existing process data from a PF study, we investigated communication patterns based on the ICAP-model and correlated them with prior knowledge, quantity and quality of student solutions, and conceptual knowledge at post-test. Our findings suggest that interactive communication during the initial problem-solving phase only fosters conceptual knowledge if students discuss those ideas that particularly lend themselves to being contrasted with critical aspects of the correct solution during the subsequent instruction phase.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Communication Patterns and Their Role for Conceptual Knowledge Acquisition From Productive Failure</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;communication patterns&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;conceptual knowledge&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;productive failure&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;interaction analyses&lt;/dc:subject&gt;
+    </dublin_core>

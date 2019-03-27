@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Elliott, Colin Hennessy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Radke, Sarah C</dcvalue>
+<dcvalue element="contributor" qualifier="author">Y., Jasmine</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Elliott, C. H., Radke, S. C., &amp; Y., J.&#x20;(2018).&#x20;A Focus on Contribution Towards Product and Performance in Collaborative Design.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 1. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.48</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents a comparative case study to illustrate how resources are used for contribution in collaborative design. One case draws from video data of an urban high school robotics team which designs a robot for competition, and the other from a program where youth produce a documentary film for a public showing. Building on a view of participation as learning (Lave &amp; Wenger, 1991), we use video-based micro-analysis to make sense of how members participate through contributions to design. We frame learning as a collaborative practice where contributions are used to make arguments with different resources. Across both cases, materials and laminations of space-times (Leander, 2002) are used as: 1) evaluative resources, and 2) knowledge constructing resources for design. In this view of learning, the final product and performance are not only end goals but used as resources in the design process through laminations of imagined future space-times.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Focus on Contribution Towards Product and Performance in Collaborative Design</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">interaction analysis</dc:subject>
+<dc:subject xml:lang="en">collaboration-as-learning</dc:subject>
+<dc:subject xml:lang="en">after school</dc:subject>
+<dc:subject xml:lang="en">product and performance</dc:subject>
+    </dublin_core>

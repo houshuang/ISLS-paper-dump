@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Gilbuena, Debra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Makela, Marja-Liisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Iiskala, Tuike</dcvalue>
+<dcvalue element="contributor" qualifier="author">Volet, Simone</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nolen, Susan Bobbitt</dcvalue>
+<dcvalue element="contributor" qualifier="author">Koretsky, Milo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vauras, Marja</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:52Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:52Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Gilbuena, D., Makela, M., Iiskala, T., Volet, S., Nolen, S. B., Koretsky, M., &amp; Vauras, M.&#x20;(2014).&#x20;Productive Disciplinary Engagement: Examining Negotiation of Group Activity with Multiple Frameworks.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1651-1652.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1651</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Productive engagement in meaningful activity is essential for learning and becoming in practice. However, learning systems that support such engagement are complex and usually studied in single contexts making findings difficult to transfer. We detail research among four universities who study these systems in different contexts. We illustrate how each university examines the negotiation of group activity and how their different frameworks and methodological approaches overlap, are complementary, and can be integrated.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Productive Disciplinary Engagement: Examining Negotiation of Group Activity with Multiple Frameworks</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

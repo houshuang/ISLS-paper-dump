@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Eberle, Julia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stegmann, Karsten</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fischer, Frank</dcvalue>
+<dcvalue element="contributor" qualifier="author">Barrat, Alain</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lund, Kristine</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Eberle, J., Stegmann, K., Fischer, F., Barrat, A., &amp; Lund, K.&#x20;(2017).&#x20;Finding Collaboration Partners in a Scientific Community: The Role of Cognitive Group Awareness, Career Level, and Disciplinary Background&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.69</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Integrating newcomers and fostering collaboration between researchers with different disciplinary backgrounds is a challenge for scientific communities. Prior research suggests that both network-driven selection patterns (reciprocity and transitivity) and the active selection of specific others are important. Selecting appropriate collaboration partners may moreover require what we call cognitive group awareness, (i.e. knowledge about the knowledge of others). In a field study at two multi-disciplinary scientific events (Alpine Rendez-Vous 2011 and 2013) including N=287 researchers, we investigated selection patterns, looking specifically at career level and disciplinary background, and included a cognitive group awareness intervention. While we could not completely explain how researchers choose with whom they interact, we found that transitivity and interaction duration are relevant for later collaboration. Cognitive group awareness support was beneficial for fostering interdisciplinary collaboration. Career level was a less relevant factor. We discuss measures for supporting newcomer integration and community buildings based on our findings.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Finding Collaboration Partners in a Scientific Community: The Role of Cognitive Group Awareness, Career Level, and Disciplinary Background</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Game-based Media</dc:subject>
+<dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Descriptive Studies</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Participatory Design</dc:subject>
+<dc:subject xml:lang="en">Best Practices</dc:subject>
+<dc:subject xml:lang="en">Virtual/3D Environments</dc:subject>
+<dc:subject xml:lang="en">Inquiry Learning</dc:subject>
+<dc:subject xml:lang="en">Problem-Based Learning</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+<dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Primary School</dc:subject>
+<dc:subject xml:lang="en">Literacy</dc:subject>
+<dc:subject xml:lang="en">Collaborative Problem Solving Skills</dc:subject>
+<dc:subject xml:lang="en">Science Education</dc:subject>
+<dc:subject xml:lang="en">Innovative Design Approach</dc:subject>
+<dc:subject xml:lang="en">Problem Solving Tool</dc:subject>
+<dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Information Sciences</dc:subject>
+<dc:subject xml:lang="en">Core Competencies</dc:subject>
+<dc:subject xml:lang="en">Creativity</dc:subject>
+<dc:subject xml:lang="en">Transfer</dc:subject>
+<dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Online Learning</dc:subject>
+<dc:subject xml:lang="en">Gaming</dc:subject>
+<dc:subject xml:lang="en">Skill Development</dc:subject>
+    </dublin_core>

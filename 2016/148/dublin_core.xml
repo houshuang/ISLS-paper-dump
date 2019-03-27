@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Barber-Lester, Kelly J.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Derry, Sharon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Minshew, Lana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Anderson, Janice</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:16Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:16Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Barber-Lester, K. J., Derry, S., Minshew, L., &amp; Anderson, J.&#x20;(2016).&#x20;Exploring Visualization and Tagging to Manage Big Datasets for DBR: A Modest Proposal With Significant Implications&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.148</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">As design-based research (DBR) approaches increase in popularity, there is greater and greater need to invent database management systems that document the designs and phases of DBR projects as meaningful contexts for archival storage of large databanks that such projects create. Such database systems must also support transparent and efficient search and selection of data to enable rapid analysis by design teams as well as collaborative data sharing and analysis by multiple researchers. This paper outlines one system devised by a team of design-based researchers for documenting their research process and organizing their data. Inspired by the hierarchical workflow model suggested by Hackbarth et al. (2010), this approach employs a combination of visual modeling and data tagging to organize and support rapid access and sharing of a large DBR databank. The suggested approach is available to most researchers, including those who might not have access to sophisticated database resources and knowledge.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Visualization and Tagging to Manage Big Datasets for DBR: A Modest Proposal With Significant Implications</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;design-based research&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;data management&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;workflow&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;data visualization&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Norooz, Leyla</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clegg, Tamara L.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kang, Seokbin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Plane, Angelisa C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Oguamanam, Vanessa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Froehlich, Jon E.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Norooz, L., Clegg, T. L., Kang, S., Plane, A. C., Oguamanam, V., &amp; Froehlich, J. E.&#x20;(2016).&#x20;“That’s your heart!”: Live Physiological Sensing &amp; Visualization Tools for Life-Relevant &amp; Collaborative STEM Learning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.101</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Wearable technology and large-screen display systems show potential for helping learners engage in STEM in ways relevant to their daily lives, but it is important to understand how learning activities coupled with these tools can promote rich learning experiences. To advance these goals, our work utilizes a new genre of embodied technology tools for STEM learning—live physiological sensing and visualization (LPSV) tools, called BodyVis and SharedPhys—that display learners’ physiological functions in real-time on a wearable, e-textile shirt and a large-screen display, respectively. We iteratively developed a set of learning activities to evaluate how these tools can support STEM engagement. Our findings show potential for LPSV tools to enable new forms of life-relevant and collaborative scientific learning experiences.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“That’s your heart!”: Live Physiological Sensing &amp; Visualization Tools for Life-Relevant &amp; Collaborative STEM Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Embodied learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;STEM&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Physiological sensing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;LPSV tools&lt;/dc:subject&gt;
+    </dublin_core>

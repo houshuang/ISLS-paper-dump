@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lubold, Nichola</dcvalue>
+<dcvalue element="contributor" qualifier="author">Walker, Erin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pon-Barry, Heather</dcvalue>
+<dcvalue element="contributor" qualifier="author">Flores, Yuliana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ogan, Amy</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lubold, N., Walker, E., Pon-Barry, H., Flores, Y., &amp; Ogan, A.&#x20;(2018).&#x20;Using Iterative Design to Create Efficacy-Building Social Experiences with a Teachable Robot.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.737</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teachable robots are a form of social robot for education, where learners engage in conversation to teach the robot like they would a peer. Part of the popularity of social robots is their ability to utilize social channels of communication to foster productive social experiences, interactions which help individuals grow and develop. Teachable robots have potential to utilize social channels of communication to create social experiences which can help learners develop self-efficacy, an individual’s belief in their ability to succeed. In this paper, we present a fully autonomous robot for middle school math; we iterate through three design phases and analyze responses to identify how to better foster productive social experiences for self-efficacy. We report six design recommendations; for example, for low self-efficacy individuals, an ideal design should incorporate problem-solving statements and positivity to foster social experiences of mastery and social persuasion.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Using Iterative Design to Create Efficacy-Building Social Experiences with a Teachable Robot</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">teachable robot</dc:subject>
+<dc:subject xml:lang="en">self-efficacy</dc:subject>
+<dc:subject xml:lang="en">social experience</dc:subject>
+<dc:subject xml:lang="en">dialogue</dc:subject>
+    </dublin_core>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tan, Michael</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:02Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:02Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tan, M.&#x20;(2016).&#x20;Embodied Search Processes in Creative Problem Solving: How Do People Learn in Makerspaces?&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.137</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In creative problem solving, an essential component is the divergent idea generation phase before deciding on a plan of action for convergent, relatively well structured problem solving. In makerspaces and other sites where problems are posed in physical form, the material affordances of the objects and their spatial configurations can aid or hinder the search through problem space for possible solutions. In this study, we present the preliminary results of a study involving six pairs of grade eight students involved in a school makerspace context. Given sixteen littleBits modules housed in a small toolbox, along with some light construction materials, students were tasked to produce a prototype of a device that could attract teachers’ attention during class work sessions. The material actions that students made in early explora-tion of project ideas were correlated to the creative outcomes of their project. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Embodied Search Processes in Creative Problem Solving: How Do People Learn in Makerspaces?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;embodied cognition&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;creative cognition&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;makerspaces&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;student learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+    </dublin_core>

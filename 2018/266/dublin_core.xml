@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Nemirovsky, Ricardo</dcvalue>
+<dcvalue element="contributor" qualifier="author">de Freitas, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">O'Brien, Kate</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kelton, Molly L</dcvalue>
+<dcvalue element="contributor" qualifier="author">Y., Jasmine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ferrara, Francesca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ferrari, Giulia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hall, Rogers</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vogelstein, Lauren</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sinclair, Nathalie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Nemirovsky, R., de Freitas, E., O'Brien, K., Kelton, M. L., Y., J., Ferrara, F., Ferrari, G., Hall, R., Vogelstein, L., &amp; Sinclair, N.&#x20;(2018).&#x20;Video Data and the Learning Event: Four Case Studies.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1195</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Video data is now used throughout the learning sciences as a common form of documenting learning events. Wearable cameras and real-time video feed-back have changed the research terrain. And yet scholars often use such data without examining the ways that video – as digital technology - structures and shapes the research findings, while enabling new insights into the event-nature of learning. This international symposium addresses this topic by (1) showcasing and analyzing innovative uses of video technologies in the study of learning, and (2) historically situating such video experiments within traditions of scientific cinema. The term ‘scientific cinema’ is used in media studies to describe all uses of the moving image in scientific study, beginning with the pioneering work of the Lumiére brothers in the 1890s. This symposium presents four contemporary case studies in which video is used innovatively to investigate mathematics learning experiences in three different countries (US, UK, Italy). </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Video Data and the Learning Event: Four Case Studies</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">video data</dc:subject>
+<dc:subject xml:lang="en">methodology</dc:subject>
+<dc:subject xml:lang="en">scientific cinema</dc:subject>
+<dc:subject xml:lang="en">mathematics learning</dc:subject>
+    </dublin_core>

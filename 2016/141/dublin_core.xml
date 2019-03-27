@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lerner, Patrick</dcvalue>
+<dcvalue element="contributor" qualifier="author">Csanadi, Andras</dcvalue>
+<dcvalue element="contributor" qualifier="author">Daxenberger, Johannes</dcvalue>
+<dcvalue element="contributor" qualifier="author">Flekova, Lucie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ghanem, Christian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kollar, Ingo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fischer, Frank</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gurevych, Iryna</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:08Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:08Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lerner, P., Csanadi, A., Daxenberger, J., Flekova, L., Ghanem, C., Kollar, I., Fischer, F., &amp; Gurevych, I.&#x20;(2016).&#x20;A User Interface for the Exploration of Manually and Automatically Coded Scientific Reasoning and Argumentation&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.141</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Scientific reasoning and argumentation (SRA) is a complex process. Thus, analyzing the quality of learners’ SRA and presenting SRA outcomes are important research problems. This study attempts to account for these problems by developing a user interface that facilitates learning scientists to analyze SRA, enabling them to evaluate the performance of an automated coding algorithm and supporting them to recognize patterns in the coded data using flexible visualizations. The usability and the comprehensibility of the user interface have been tested by means of a user study in an online performance test. The results indicate that the user interface effectively supports the investigation of SRA.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A User Interface for the Exploration of Manually and Automatically Coded Scientific Reasoning and Argumentation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;scientific reasoning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;automated coding&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;epistemic activities&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;user interface&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Peppler, Kylie A</dcvalue>
+<dcvalue element="contributor" qualifier="author">Thompson, Naomi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Danish, Joshua</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moczek, Armin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Han, Shenshen</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Peppler, K. A., Thompson, N., Danish, J., Moczek, A., &amp; Han, S.&#x20;(2018).&#x20;Indoor Positioning Technology &amp; Enhanced Engagement in Early Elementary Systems Thinking and Science Learning.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1077</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Indoor positioning (IP) technology is sought after for applications in gaming, commercial spaces, and education. While several types of IP systems have become available, none offer tracking of multiple agents that balances high accuracy with low cost. This paper highlights new 3D IP technology designed for educational contexts, which coordinates as few as 4 and as many as 80 physical “tags.” The tags act both as anchors to delineate the play space and as trackers that send high-accuracy location data to a server in real time that can later be played back. To test the impact of the technology on learning, we compared it to a parallel non-IP environment that approximates locations between two points in classroom settings. Findings indicate that the IP technology enhances engagement with systems thinking concepts through more robust reflection on movements and actions compared to the non-IP environment.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Indoor Positioning Technology &amp; Enhanced Engagement in Early Elementary Systems Thinking and Science Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">participatory simulation</dc:subject>
+<dc:subject xml:lang="en">indoor positioning</dc:subject>
+<dc:subject xml:lang="en">systems thinking</dc:subject>
+<dc:subject xml:lang="en">playful learning</dc:subject>
+    </dublin_core>

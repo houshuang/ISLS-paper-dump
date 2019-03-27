@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bernstein, Debra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Drayton, Brian</dcvalue>
+<dcvalue element="contributor" qualifier="author">McKenney, Susan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schunn, Christian</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:52Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:52Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bernstein, D., Drayton, B., McKenney, S., &amp; Schunn, C.&#x20;(2016).&#x20;Designing Science Curriculum for Implementation at Scale: Considerations for Diverse and Resource-Limited Settings&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.128</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Designers of science curricula intended for broad use must take into consideration the diversity of students, teachers, and material resources available across various settings. While curriculum design literature gives some guidance for designers, most work in this area focuses on design by small design teams working on materials for relatively narrow contexts. To further inform the work of science curriculum designers, we conducted two retrospective case studies of curricula designed for large-scale use. Qualitative data were collected through document analysis and interviews with key design team members. Data were analyzed deductively and inductively. Here we focus on findings about the influence of policy and cultural context, and the ways in which the needs of target student and teacher populations are considered during curriculum development. The findings are useful to other designers concerned with bringing science content and practices to broad audiences of diverse learners.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing Science Curriculum for Implementation at Scale: Considerations for Diverse and Resource-Limited Settings</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;curriculum&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;scale&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+    </dublin_core>

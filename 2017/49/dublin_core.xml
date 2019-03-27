@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Renken, Maggie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cohen, Jonathan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ayer, Tugba</dcvalue>
+<dcvalue element="contributor" qualifier="author">Calandra, Brendan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fuqua, Aeslya</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Renken, M., Cohen, J., Ayer, T., Calandra, B., &amp; Fuqua, A.&#x20;(2017).&#x20;Who Signs Up and Who Stays? Attraction and Retention in an After-School Computer-Supported Program&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.49</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We report findings from a study assessing computer-supported curriculum designed to engage low SES, underrepresented minority middle school students enrolled in an after-school program with collaborative tasks that build 21st century skills, particularly related to digital literacy. Early in the program, we collected survey data from participants and from a sample of after-school attendees who decided not to enroll in our program concerning their goals, feelings toward STEM, and experiences with and access to technology. Over the first 7 weeks of programming, we also have collected attendance records. We report findings relating students’ individual factors at program onset to their attraction to and retention in our program. Our findings shed light on important issues relevant to the CSCL community and the conference theme, including identifying potential for attrition among students and engaging a diverse pool of students in computer-supported collaborative learning.   </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Who Signs Up and Who Stays? Attraction and Retention in an After-School Computer-Supported Program</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Design Thinking</dc:subject>
+<dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Interaction Analysis</dc:subject>
+<dc:subject xml:lang="en">Game-based Media</dc:subject>
+    </dublin_core>

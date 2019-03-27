@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Farris, Amy Voss</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dickes, Amanda Catherine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sengupta, Pratim</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Farris, A. V., Dickes, A. C., &amp; Sengupta, P.&#x20;(2016).&#x20;Development of Disciplined Interpretations Using Computational Modeling in the Elementary Science Classroom&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.38</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Studies of scientists building models show that the development of scientific models involves a great deal of subjectivity. However, science as experienced in school settings typically emphasizes an overly objective and rationalistic view. In this paper, we argue for focusing on the development of disciplined interpretation as an epistemic and representational practice that progressively deepens students’ computational modeling in science by valuing, rather than deemphasizing, the subjective nature of the experience of modeling. We report results from a study in which fourth grade children engaged in computational modeling throughout the academic year. We present three salient themes that characterize the development of students’ disciplined interpretations in terms of their development of computational modeling as a way of seeing and doing science. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Development of Disciplined Interpretations Using Computational Modeling in the Elementary Science Classroom</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;modeling&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;agent-based models&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;epistemology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science education&lt;/dc:subject&gt;
+    </dublin_core>

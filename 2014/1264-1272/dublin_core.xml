@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Stevens, Reed</dcvalue>
+<dcvalue element="contributor" qualifier="author">Taylor, Katie Headrick</dcvalue>
+<dcvalue element="contributor" qualifier="author">Takeuchi, Lori</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hayes, Elisabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Siyahhan, Sinem</dcvalue>
+<dcvalue element="contributor" qualifier="author">Barron, Brigid</dcvalue>
+<dcvalue element="contributor" qualifier="author">Levinson, Amber</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zarate, Rosalia Chavez</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martin, Caitlin Kennedy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, June H.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wartella, Ellen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lauricella, Alexis R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penuel, William R.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Stevens, R., Taylor, K. H., Takeuchi, L., Hayes, E., Siyahhan, S., Barron, B., Levinson, A., Zarate, R. C., Martin, C. K., Lee, J. H., Wartella, E., Lauricella, A. R., &amp; Penuel, W. R.&#x20;(2014).&#x20;Mapping the Distribution of Children’s Digital Media Practices: Methodological Innovations and Challenges.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1264-1272.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1264</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The papers gathered for this symposium draw from an interdisciplinary group, who are using a range of existing methods and developing new methods, to forge a new constellation of work in the learning sciences and allied disciplines with stakes in children's media practice. Across the group, we find different proportional commitments to the work of either filling in the map of how and where digital media practices travel, or documenting the lived practices of the inhabited territories such as homes, community centers, and neighborhood streets. Together we share a commitment that youth media practices need to be understood in terms of both senses of distribution. Bringing these sorts of approaches together is not without challenges, which will be a focus of our symposium presentations. Our synthetic work will be to explore what can be shared, where to locate tensions, and what new questions this new approach may yield.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Mapping the Distribution of Children’s Digital Media Practices: Methodological Innovations and Challenges</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Azevedo, Flavio S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ahn, June</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mann, Michele J.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dorph, Rena</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cannady, Matthew A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Victor R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cain, Ryan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bell, Philip</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Azevedo, F. S., Ahn, J., Mann, M. J., Dorph, R., Cannady, M. A., Lee, V. R., Cain, R., &amp; Bell, P.&#x20;(2016).&#x20;Moving ahead in the study of STEM interests and interest development: A new research agenda&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.172</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We seek to jumpstart a program whose long-term goal is to advance a more nuanced and encompassing understanding of STEM interests by comparing and contrasting how they are manifested across settings of STEM practice. People can and do get interested in STEM-based activities in the various spaces in which they encounter these activities—e.g., the home, museums, hobby fields, school, and after-school programs. However, because each such setting operates under different constraints and affordances, the forms of interest-based participation they spawn and support are qualitatively different. This symposium brings together four distinct research projects, each of which addresses very different settings, aspects, and phenomena in people’s interest-based participation in STEM. The projects also deploy very different methodologies to document and measure people’s interests. By comparing and contrasting these very distinct takes on interests and their manifestations across settings, we gain insight into both generalities and context specific aspects of interests and their enactment.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Moving ahead in the study of STEM interests and interest development: A new research agenda</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;interests; STEM learning; multiple methods; theory&lt;/dc:subject&gt;
+    </dublin_core>

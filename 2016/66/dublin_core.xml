@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Raval, Harini</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kaul, Chittaranjan</dcvalue>
+<dcvalue element="contributor" qualifier="author">McKenney, Susan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Raval, H., Kaul, C., &amp; McKenney, S.&#x20;(2016).&#x20;The Effects of Coaching on the Teaching and Learning of English in Indian Government Schools&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.66</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Although English is mandatorily introduced as a second language early in majority of government primary schools in India, its quality remains dismal due to lack of appropriate curricula, poor ESL teacher competencies and weak professional development opportunities. In an effort to promote the adoption of an innovative ESL program in urban government schools, coaching was introduced to support teacher and implementation of the new program. Through classroom observations, structured interviews and learner pre/post tests, the impact of coaching on teacher practices, teacher beliefs and student outcomes were studied and compared with those of teachers who were not coached. The powerful results found in the coached-teacher classrooms build a strong case for reviewing the current professional development policies within Indian schools, both for English and in general. Implications for research, policy and practice are discussed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Effects of Coaching on the Teaching and Learning of English in Indian Government Schools</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;ESL&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;teachers&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;coaching&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;student learning&lt;/dc:subject&gt;
+    </dublin_core>

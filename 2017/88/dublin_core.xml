@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hollett, Ty</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hollett, T.&#x20;(2017).&#x20;Symbiotic Learning Partnerships in Youth Action Sports&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.88</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Reporting on an ethnographic study of youth media production at an action sports camp, this paper describes the symbiotic learning partnerships formed between teen skateboarders and teen videographers necessary to collaboratively demonstrate mastery of both tricks and video capture/editing. Symbiotic learning partnerships emerge when partners are, as one participant says, vibing with one another: when they are deeply invested in the production of a collaborative media artifact that they will jointly distribute across social media. When vibing with one another, skaters and videographers fall into collaborative, rhythmic cycles. This collaborative mastery is illustrated specifically through a focus on the cycles of reflection and nurture that skaters and videographers enter into when honing their respective crafts. This paper advances understanding of youth digital media production in the rich, yet understudied, action sports community, drawing out potential implications for the design of digital media learning settings, broadly. \ </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Symbiotic Learning Partnerships in Youth Action Sports</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">English as a Second Language</dc:subject>
+<dc:subject xml:lang="en">Surveys and Questionnaires</dc:subject>
+<dc:subject xml:lang="en">Access</dc:subject>
+<dc:subject xml:lang="en">Large-Scale Studies</dc:subject>
+<dc:subject xml:lang="en">MOOCS</dc:subject>
+<dc:subject xml:lang="en">Motivation</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Diversity and Inclusion</dc:subject>
+    </dublin_core>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Martin, Nicole D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puntambekar, Sadhana</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Martin, N. D. &amp; Puntambekar, S.&#x20;(2016).&#x20;Supporting Teachers in Navigating Change Towards Science Practices Focus in the Classroom: Investigating Current Teacher Support for Science Practices&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.40</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">A growing emphasis on teaching science as practice calls for a significant change from traditional science education. We must provide teachers with the appropriate support to navigate this change. The first step in supporting teachers to help students learn science practices is understanding current approaches for teaching science practices. We investigated the question: How do teachers support science practices in their classrooms? We analyzed how two teachers supported students by engaging and guiding students to participate in science practices; we focused on two key science practices: constructing and defending scientific explanations and analyzing and interpreting data. We found that teachers most frequently engaged students in practices but did not necessarily provide guidance for how to participate, explain why science practices are important, or describe how all the practices are connected. Teachers may need additional guidance to develop concrete teaching strategies to support science practices. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Supporting Teachers in Navigating Change Towards Science Practices Focus in the Classroom: Investigating Current Teacher Support for Science Practices</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;science teaching&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science practices&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;teachers as learners&lt;/dc:subject&gt;
+    </dublin_core>

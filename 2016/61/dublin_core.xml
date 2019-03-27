@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Abrahamson, Dor</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shayan, Shakila</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bakker, Arthur</dcvalue>
+<dcvalue element="contributor" qualifier="author">van der Schaaf, Marieke F.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Abrahamson, D., Shayan, S., Bakker, A., &amp; van der Schaaf, M. F.&#x20;(2016).&#x20;Exposing Piaget’s Scheme: Empirical Evidence for the Ontogenesis of Coordination in Learning a Mathematical Concept&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.61</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The combination of two methodological resources—natural-user interfaces (NUI) and multimodal learning analytics (MMLA)—is creating opportunities for educational researchers to empirically evaluate seminal models for the hypothetical emergence of concepts from situated sensorimotor activity. 76 participants (9-14 yo) solved tablet-based non-symbolic manipulation tasks designed to foster grounded meanings for the mathematical concept of proportional equivalence. Data gathered in task-based semi-structured clinical interviews included action logging, eye-gaze tracking, and videography. Successful task performance coincided with spontaneous appearance of stable dynamical gaze-path patterns soon followed by multimodal articulation of strategy. Significantly, gaze patterns included uncued non-salient screen locations. We present cumulative results to argue that these ‘attentional anchors’ mediated participants’ problem solving. We interpret the findings as enabling us to revisit, support, refine, and elaborate on central claims of Piaget’s theory of genetic epistemology and in particular his insistence on the role of situated motor-action coordination in the process of reflective abstraction.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exposing Piaget’s Scheme: Empirical Evidence for the Ontogenesis of Coordination in Learning a Mathematical Concept</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;attentional anchor&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;coordination&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;eye-tracking&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;genetic epistemology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;NUI&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;proportion&lt;/dc:subject&gt;
+    </dublin_core>

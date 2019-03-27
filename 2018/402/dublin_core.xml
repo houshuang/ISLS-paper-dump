@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Duvall, Matthew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Frank J</dcvalue>
+<dcvalue element="contributor" qualifier="author">Smith, Brian</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Duvall, M., Lee, F. J., &amp; Smith, B.&#x20;(2018).&#x20;Skyscraper Games: Designing Professional Development for Middle School Teachers to Promote Computational Thinking Using Custom Tools.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1579</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We are piloting professional development (PD) for six middle-school teachers from a Philadelphia, Pennsylvania, USA. Our goal is to involve students from underrepresented STEM populations in programming through an annual game design competition that allows students to display their game on a large skyscraper in the city through the Skyscraper Games project. The initial PD group includes educators from public schools, charter schools, and afterschool programs. We are using a design-based approach to (1) create a sustainable, ongoing professional development program for educators of middle-school students; (2) develop a library of curricular materials for Skyscraper Games; and (3) enhance and upgrade our website and online programming tool. The goals of these activities are (1) to better understand how the interaction of professional development, curricular materials, and our online tool affect computational thinking for young people and (2) to use these results to iteratively improve our professional development, curriculum, and web-based tools for use by both middle-school students and their teachers in formal and informal settings.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Skyscraper Games: Designing Professional Development for Middle School Teachers to Promote Computational Thinking Using Custom Tools</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">professional development</dc:subject>
+<dc:subject xml:lang="en">computational thinking</dc:subject>
+<dc:subject xml:lang="en">teaching</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+    </dublin_core>

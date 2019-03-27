@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Mathayas, Nitasha</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brown, David</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Mathayas, N. &amp; Brown, D.&#x20;(2018).&#x20;Exploring Multimodal Scaffolds Supporting Middle School Students’ Construction of Causal-Mechanistic Scientific Explanations.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 1. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.56</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Computer simulations help students visualize abstract scientific concepts. Yet their effectiveness depends upon the kinds of supports students receive. In this study, we explore the verbal and gestural supports we provided to students as they viewed a computer model of molecular conduction and constructed causal-mechanistic explanations for heat transfer. Using a complex systems and embodied approach to students’ conceptions, we conducted a cross-comparison case study of four students’ experiences with the simulation. By comparing students with richer scaffolding interactions to those with weaker scaffolds, we found that directing student attention towards causal elements in the simulation along with requesting them to gesture about the function of those elements helped students develop sophisticated explanations. We describe these cases and reveal ways these scaffolds can and cannot be enacted with the simulation. Implications for instruction and future work are described.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Multimodal Scaffolds Supporting Middle School Students’ Construction of Causal-Mechanistic Scientific Explanations</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">scaffolding</dc:subject>
+<dc:subject xml:lang="en">embodied cognition</dc:subject>
+<dc:subject xml:lang="en">computer simulations</dc:subject>
+<dc:subject xml:lang="en">multiple case studies</dc:subject>
+    </dublin_core>

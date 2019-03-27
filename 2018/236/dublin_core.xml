@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tissenbaum, Catherine Louise Dornfeld</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jona, Kemi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tissenbaum, C. L. &amp; Jona, K.&#x20;(2018).&#x20;Social Network Analysis for Signaling Pedagogical Shifts in Challenge-Based and Traditional Online STEM Courses.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1069</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Challenge-based learning (CBL) supports students’ learning and transfer of key disciplinary principles, but students may need support when transitioning to the expectations of CBL. One way to provide support is for instructors to monitor students’ understanding of course challenges and content in discussion boards. Using SNA, we explored how two instructors participated in students’ discussions in CBL and traditional online courses to see how instructors adapted support with CBL courses. Instead of differences across pedagogies, we found differences across instructors: one instructor contributed on the periphery of students’ discussions, while another instructor directly contributed to students’ discussions. Based on sociograms and instructors’ feedback, we found that the instructors took different approaches to providing formative feedback (e.g., private communication versus public discussion) intended to scaffold students’ knowledge construction.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Social Network Analysis for Signaling Pedagogical Shifts in Challenge-Based and Traditional Online STEM Courses</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">challenge-based learning; situated cognition; social network analysis; CSCL</dc:subject>
+    </dublin_core>

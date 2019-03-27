@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Van Horne, Katie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Van Steenis, Erica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penuel, William R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">DiGiacomo, Daniela</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Van Horne, K., Van Steenis, E., Penuel, W. R., &amp; DiGiacomo, D.&#x20;(2016).&#x20;Disruptions to Practice: Understanding Suspensions of Youths’ Interest-related Activities&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.63</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">An emerging line of research in the learning sciences focuses on generating a better understanding of how youth develop and sustain in interest-related pursuits. In this paper, we focus not on what sustains engagement in interest-related activities but on what disrupts it. Disruptions have largely been a neglected object of theorizing, even though they are acknowledged in models of interest development, such as the four phase model (Hidi &amp; Renninger, 2006). We build upon Azevedo’s (2011, 2013) lines of practice theory by drawing on conceptions of social practice from German-Danish critical psychology to expand and complicate the notion of “conditions of practice” for the youth in our study. We examined youth in our interview study who reported experiencing disruptions to their interest-related pursuits. We found that some youth suspended their participation due to loss of access to necessary resources, and other youth suspended pursuits due to competing educational commitments and future desires. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Disruptions to Practice: Understanding Suspensions of Youths’ Interest-related Activities</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;interests&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning across settings&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;social practice&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;conditions of practice&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;youth pathways and desired futures&lt;/dc:subject&gt;
+    </dublin_core>

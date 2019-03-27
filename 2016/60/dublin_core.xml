@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Erkens, Melanie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schlottbom, Patrick</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bodemer, Daniel</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Erkens, M., Schlottbom, P., &amp; Bodemer, D.&#x20;(2016).&#x20;Qualitative and Quantitative Information in Cognitive Group Awareness Tools: Impact on Collaborative Learning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.60</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">A large body of research covers the positive impact of cognitive group awareness tools on collaborative learning processes. These tools provide learners with visualizations of relevant cognitive information on their learning partners, triggering the resolution of cognitive conflicts, improving accurate partner modeling and, associated therewith, implicitly guiding learners’ activities instead of prescribing certain ways of behaving. Said visualizations can be differentiated by the type of awareness information they provide: qualitative or quantitative. We systematically compared the impact of both types of information on collaborative learning in an experimental study (N = 51). The results suggest that the availability of both qualitative and quantitative information can evoke cognitive conflicts that guide learners’ communication behavior in a goal-oriented way. Furthermore, visualizations combining both types of information appear to facilitate accurate partner modeling.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Qualitative and Quantitative Information in Cognitive Group Awareness Tools: Impact on Collaborative Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Computer-Supported Collaborative Learning (CSCL)&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;cognitive group awareness&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;partner modeling&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;implicit guidance&lt;/dc:subject&gt;
+    </dublin_core>

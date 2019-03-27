@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Collier, Wesley</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ruis, Andrew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaffer, David Williamson</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Collier, W., Ruis, A., &amp; Shaffer, D. W.&#x20;(2016).&#x20;Local Versus Global Connection Making in Discourse&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.56</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper examines techniques for modeling relationships among domain concepts and practices in discourse to assess learning in a CSCL environment. We compare two approaches: a traditional psychometric approach, which models the global correlation structure of student discourse markers across the learning intervention, and a model that accounts for the local correlation structure of discourse markers within activities. We investigate whether: (a) analysis of local correlation structure can identify significant differences between novices and relative experts; (b) these differences reflect meaningful differences the discourse; and (c) analysis of global correlation structure can identify significant differences between novices and relative experts. We assess whether an approach that models local relationships among concepts in a domain provides useful information beyond what might be extracted from a more traditional modeling approach. Our results indicate that techniques that account for local correlation structure can identify patterns in discourse not reflected in global correlation structure.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Local Versus Global Connection Making in Discourse</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;assessment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;epistemological cognition&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning analytics&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;simulations&lt;/dc:subject&gt;
+    </dublin_core>

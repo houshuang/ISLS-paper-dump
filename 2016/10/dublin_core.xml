@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mavrikis, Manolis</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wiedmann, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Loibl, Katharina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mazziotti, Claudia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Holmes, Wayne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hansen, Alice</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Rummel, N., Mavrikis, M., Wiedmann, M., Loibl, K., Mazziotti, C., Holmes, W., &amp; Hansen, A.&#x20;(2016).&#x20;Combining Exploratory Learning With Structured Practice to Foster Conceptual and Procedural Fractions Knowledge&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.10</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Robust domain knowledge consists of conceptual and procedural knowledge. The two types of knowledge develop together, but are fostered by different learning tasks. Exploratory tasks enable students to manipulate representations and discover the underlying concepts. Structured tasks let students practice problem-solving procedures step-by-step. Educational technology has mostly relied on providing only either task type, with a majority of learning environments focusing on structured tasks. We investigated in two quasi-experimental studies with 8-10 years old students from UK (N = 121) and 10-12 years old students from Germany (N = 151) whether a combination of both task types fosters robust knowledge more than structured tasks alone. Results confirmed this hypothesis and indicate that students learning with a combination of tasks gained more conceptual knowledge and equal procedural knowledge compared to students learning with structured tasks only. The results illustrate the efficacy of combining both task types for fostering robust fractions knowledge.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Combining Exploratory Learning With Structured Practice to Foster Conceptual and Procedural Fractions Knowledge</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;conceptual knowledge&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;procedural knowledge&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;exploratory learning environments&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;intelligent tutoring systems&lt;/dc:subject&gt;
+    </dublin_core>

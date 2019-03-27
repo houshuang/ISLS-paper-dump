@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lyons, Leilah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Anderson, Emma</dcvalue>
+<dcvalue element="contributor" qualifier="author">Carney, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elinich, Karen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lindgren, Robb</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tscholl, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Quintana, Chris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Roberts, Jessica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wang, Joyce</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yoon, Susan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tabak, Iris</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lyons, L., Anderson, E., Carney, M., Elinich, K., Lindgren, R., Tscholl, M., Quintana, C., Roberts, J., Wang, J., Yoon, S., &amp; Tabak, I.&#x20;(2014).&#x20;Synergistic Scaffolding of Technologically-Enhanced STEM Learning in Informal Institutions.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1456-1465.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1456</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Scaffolding is often strongly associated with the structure of classroom educational software (Quintana et al., 2004), despite originally not involving classrooms or technology (Wood et al., 2007). Tabak argued that scaffolding can be productively distributed across a learning environment's varied educational resources, proposing a "synergistic scaffolding" design pattern: "different supports that augment each other; they interact and work in concert to guide a single performance of a task or goal" (Tabak, 2004). This symposium argues that synergistic scaffolding is particularly apt for informal learning environments like museums, where visitors draw on a diverse array of technological, social, and physical resources while learning. Examples spanning collaborative data exploration, multi-context inquiry learning, mixed-reality simulations, and augmented reality exhibits are presented. Each details the educational resources either intentionally designed into the environments or appropriated by visitors as they learn. These examples highlight how designers can enhance informal learning by looking for potential synergies.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Synergistic Scaffolding of Technologically-Enhanced STEM Learning in Informal Institutions</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

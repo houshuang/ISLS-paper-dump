@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">DeVane, Benjamin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dietmeier, Jeremy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Miller, Ben J</dcvalue>
+<dcvalue element="contributor" qualifier="author">Missall, Kristen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nanda, Salloni</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">DeVane, B., Dietmeier, J., Miller, B. J., Missall, K., &amp; Nanda, S.&#x20;(2018).&#x20;Dropping in to Game Design: Iterations of a Skatepark Physics Game for a Children’s Museum Exhibit.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1349</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Abstract: This poster paper describes how findings from playability tests of adult-child dyads changed our design approach for a design-and-play skatepark physics game. Played on a multitouch interactive tabletop, the game, which will be sited in a skatepark-themed children's museum exhibit, invites users to design their own skateparks using physics concepts, and then test out their designs. Less-structured 'sandbox' mechanics sometimes caused frustration, and interaction design issues could interrupt adult-child collaboration.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Dropping in to Game Design: Iterations of a Skatepark Physics Game for a Children’s Museum Exhibit</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">learning games</dc:subject>
+<dc:subject xml:lang="en">intergenerational learning</dc:subject>
+<dc:subject xml:lang="en">game design</dc:subject>
+<dc:subject xml:lang="en">user testing</dc:subject>
+    </dublin_core>

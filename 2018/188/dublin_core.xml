@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Betser, Sagit</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martin, Lee M</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Betser, S. &amp; Martin, L. M.&#x20;(2018).&#x20;Engineering Discourse Development in an Informal Youth-Driven Maker Club.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.847</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper investigates opportunities to learn engineering design discourse within maker activities. Drawing from a study of youth participation in an informal, out-of-school, youth-driven maker club this study investigates processes of discourse use and learning. This study contributes to the ongoing conversation in the learning sciences about how youth gain access to valued disciplinary discourses. The authors employ Sfard’s (2008) commognitive framework to conduct a detailed examination of mentor-mentee interactions in order to uncover mechanisms of disciplinary learning. Findings suggest that youth can pick up aspects of discourse relatively quickly, but that negotiating discourses in real time can be challenging for both youth and mentors. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Engineering Discourse Development in an Informal Youth-Driven Maker Club</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">discourse</dc:subject>
+<dc:subject xml:lang="en">informal learning</dc:subject>
+<dc:subject xml:lang="en">making</dc:subject>
+    </dublin_core>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">McBride, Elizabeth A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vitale, Jonathan M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Applebaum, Lauren</dcvalue>
+<dcvalue element="contributor" qualifier="author">C.Linn, Marcia</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">McBride, E. A., Vitale, J. M., Applebaum, L., &amp; C.Linn, M.&#x20;(2016).&#x20;Use of Interactive Computer Models to Promote Integration of Science Concepts Through the Engineering Design Process&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.106</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">During a Solar Ovens project in which middle school students design, build, and test solar ovens, students should also engage with science content to strengthen their designs. We integrate these two areas by using an interactive computer model to show how design decisions impact energy transformation inside a solar oven. This study investigates how students use a computer model to connect design decisions and science concepts at different points during a design project. Students engaged in either planning or reflecting by using the model before building or after, respectively. Students in the planning condition used the model in an exploratory manner, while students in the reflecting condition used the model to confirm the results of their physical solar ovens. Results suggest that using the model is helpful during both phases, but using the model during the planning phase helped students to better integrate their ideas about energy. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Use of Interactive Computer Models to Promote Integration of Science Concepts Through the Engineering Design Process</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Science &amp; Engineering&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Computer Models&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Technology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Knowledge Integration&lt;/dc:subject&gt;
+    </dublin_core>

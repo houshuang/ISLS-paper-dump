@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Litts, Breanne K.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kafai, Yasmin B.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Searle, Kristin A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dieckmeyer, Emily</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Litts, B. K., Kafai, Y. B., Searle, K. A., &amp; Dieckmeyer, E.&#x20;(2016).&#x20;Perceptions of Productive  Failure in Design Projects: High School Students’ Challenges in Making Electronic Textiles&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.65</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The concept of productive failure has emerged as one the key ideas for designing effective learning activities in well-defined problems. Here we report on moments of productive failure from an eight-week long workshop with 16 high school freshman (13-15 years) who engaged in an open-ended design problem, making an electronic textile. Using students’ self reports, we found that students encountered failure mostly in the design and crafting of circuits, and in these exploration phases students generated a multitude of successful and unsuccessful solutions. Our findings indicate that students’ design artifacts function as a source of within-task feedback supporting their persistence through failures. Additionally, our findings highlight a need for further research examining what Kapur’s consolidation phase looks like in an open-ended design environment, particularly focusing on the development of canonical problems from design activities as a way to have students experience failure and success in constrained design contexts.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Perceptions of Productive  Failure in Design Projects: High School Students’ Challenges in Making Electronic Textiles</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;electronic textiles&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning through making&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;productive failure&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning designs&lt;/dc:subject&gt;
+    </dublin_core>

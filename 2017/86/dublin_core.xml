@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Mochizuki, Toshio</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wakimoto, Takehiro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sasaki, Hiroshi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hirayama, Ryoya</dcvalue>
+<dcvalue element="contributor" qualifier="author">Funaoi, Hideo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kubota, Yoshihiko</dcvalue>
+<dcvalue element="contributor" qualifier="author">Suzuki, Hideyuki</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kato, Hiroshi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Mochizuki, T., Wakimoto, T., Sasaki, H., Hirayama, R., Funaoi, H., Kubota, Y., Suzuki, H., &amp; Kato, H.&#x20;(2017).&#x20;Effects of Perspective-Taking Through Tangible Puppetry in Microteaching Role-Play&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.86</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Perspective-taking of a wide variety of pupils or students is fundamental in designing a dialogic classroom. As a vehicle of perspective-taking, the tangible puppetry CSCL can create a learning environment that reduces the participants' anxiety or apprehension toward evaluation, drawing out various types of pupils or students, so that they can learn various perspectives. A classroom study revealed that the effect of tangible puppetry role-play remained in the immediate transfer task; the participants could elicit a variety of voices from possible pupils even in the self-performed role-play, and they did not lose such perspective immediately on their essay. However, the mutual feedback discussions in the third session changed significantly, as similar to the first trial. This paper discusses necessary future directions to promote better reflection and to deepen perspective-taking through the tangible puppetry.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Effects of Perspective-Taking Through Tangible Puppetry in Microteaching Role-Play</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Collaborative Problem Solving Skills</dc:subject>
+<dc:subject xml:lang="en">Video Analysis</dc:subject>
+<dc:subject xml:lang="en">Representational Affordances</dc:subject>
+<dc:subject xml:lang="en">Simulations</dc:subject>
+<dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Online Learning</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+    </dublin_core>

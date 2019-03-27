@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Khanlari, Ahmad</dcvalue>
+<dcvalue element="contributor" qualifier="author">Resendes, Monica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhu, Gaoxia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Scardamalia, Marlene</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Khanlari, A., Resendes, M., Zhu, G., &amp; Scardamalia, M.&#x20;(2017).&#x20;Productive Knowledge Building Discourse Through Student-Generated Questions&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.84</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Working on students’ authentic problems is emphasized in Knowledge Building theory and pedagogy, as it is perceived that a failure to deal with such problems may result in a failure of knowledge building. This study is focused on questions students asked in a knowledge building environment, in order to examine how issues students cared enough about to pose as questions help knowledge building succeed. Comparing question threads (threads started with questions) and non-question threads (threads that did not start with questions), we noticed that problems posted by students engaged the community in a sustainable and progressive discourse, which is central to collaborative knowledge building. Moreover, the quality analysis of the data revealed that the threads starting with questions were more likely to end up with productive threads compared to the non-question threads.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Productive Knowledge Building Discourse Through Student-Generated Questions</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Knowledge Building</dc:subject>
+<dc:subject xml:lang="en">Conceptual Change</dc:subject>
+    </dublin_core>

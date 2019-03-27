@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Castro-Faix, Moraima</dcvalue>
+<dcvalue element="contributor" qualifier="author">Todd, Amber</dcvalue>
+<dcvalue element="contributor" qualifier="author">Romine, William</dcvalue>
+<dcvalue element="contributor" qualifier="author">Duncan, Ravit Golan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Castro-Faix, M., Todd, A., Romine, W., &amp; Duncan, R. G.&#x20;(2018).&#x20;Do Alternative Instructional Approaches Result in Different Learning Progressions?.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.808</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Learning progressions (LPs) are the hypothetical pathways that students may take as they learn about core ideas in a domain. LPs take a developmental approach to learning and assume that there are constraints that drive the learning paths. The question then is: how strong are the constraints of the learning process? We report on a comparison of two distinct instructional interventions informed by the same genetics progression that were implemented with introductory biology students (10th and 11th grades). The interventions targeted the ideas in the LP but differ in the: (1) sequencing of instruction, (2) focus phenomena, and (3) activities. To determine the learning paths for each instructional intervention we used causal model search and path analyses to explore relationships within and between these ideas. Our findings may indicate that the two instructional contexts result in maps that have both differences and similarities providing further evidence about the strengths of conjectures in LPs.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Do Alternative Instructional Approaches Result in Different Learning Progressions?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">learning progressions</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+<dc:subject xml:lang="en">genetics</dc:subject>
+    </dublin_core>

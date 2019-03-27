@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Acosta, Alisa</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Slotta, J. D. &amp; Acosta, A.&#x20;(2017).&#x20;Scripting and Orchestrating Learning Communities: A Role for Learning Analytics&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.47</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper describes our efforts to add structure and formalism to the design of a CSCL curriculum for high school science–integrating individual, collaborative and whole-class inquiry activities into a coherent "learning community."  A pedagogical model called Knowledge Community and Inquiry (KCI) guided our design of a curricular sequence in which one activity feeds into the next, responding differentially to students, and scaffolding new forms of interaction. We include real-time analysis of student interaction data as a source of input into the orchestration of complex scripts, which can influence the assignment of students to groups, the distribution of materials, or sequencing of activities.  It can also be used to determine which groups may need help, to provide groups with formative feedback, and to provide the instructor with information concerning student groups. The primary outcome of this paper is the design itself, which is evaluated in terms of its theoretical coherence.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Scripting and Orchestrating Learning Communities: A Role for Learning Analytics</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">Experimental Studies</dc:subject>
+<dc:subject xml:lang="en">Cognitive Psychology</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Learning Outcomes</dc:subject>
+<dc:subject xml:lang="en">Representational Affordances</dc:subject>
+<dc:subject xml:lang="en">Representational Tools</dc:subject>
+<dc:subject xml:lang="en">Discovery Learning</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+<dc:subject xml:lang="en">Scripting</dc:subject>
+<dc:subject xml:lang="en">Learning Analytics and Monitoring Tools</dc:subject>
+<dc:subject xml:lang="en">Mathematics Education</dc:subject>
+<dc:subject xml:lang="en">Innovative Interfaces</dc:subject>
+<dc:subject xml:lang="en">Innovative Design Approach</dc:subject>
+<dc:subject xml:lang="en">Content Analysis</dc:subject>
+<dc:subject xml:lang="en">Interaction Analysis</dc:subject>
+<dc:subject xml:lang="en">Broadening Participation</dc:subject>
+<dc:subject xml:lang="en">Personalized Learning Environments</dc:subject>
+<dc:subject xml:lang="en">Engagement</dc:subject>
+    </dublin_core>

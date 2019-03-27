@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Quintana, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Quintana, R., Moher, T., &amp; Slotta, J.&#x20;(2017).&#x20;The Role of Visual Representations Within the Scientific Practice of Explanation&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.67</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Two Grade 5/6 classes (n=47) participated in an 8-week biology unit where they investigated WallCology, a digital ecosystem. During a series of oral presentations, students presented findings from their digital experiments. Our goal is to understand the role of the visual representations (e.g., digital screens, graphs) that students referenced during these presentations. We use the Claim Evidence Reasoning framework to establish the suitability of the presentation task for scientific explanations and for evaluating students’ explanations. We show that student groups were proficient in their scientific explanations and effectively used a variety of representation types across all three components of their explanations. We conclude that visual representations did not just influence scientific discourse, but were part of it.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Role of Visual Representations Within the Scientific Practice of Explanation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Interaction Analysis</dc:subject>
+<dc:subject xml:lang="en">Multi-Touch Devices</dc:subject>
+    </dublin_core>

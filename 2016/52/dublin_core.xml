@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Gerard, Libby</dcvalue>
+<dcvalue element="contributor" qualifier="author">Linn, Marcia C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Madhok, Jacquie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Gerard, L., Linn, M. C., &amp; Madhok, J.&#x20;(2016).&#x20;Examining the Impacts of Annotation and Automated Guidance on Essay Revision and Science Learning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.52</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Automated guidance can facilitate student revision of explanations and arguments in online inquiry science units. We explore ways to design guidance for short essays that promotes meaningful revision rather than superficial changes. Specifically we compare the affordances of annotation of a fictional essay to knowledge integration guidance on revision of science writing. 293 middle-school students were randomly assigned to condition. Students who annotated an essay made significantly greater pre to post test gains and were also better able to use automated guidance on a posttest item than students who only received knowledge integration guidance. These findings suggest ways to support students to revise science writ-ing and build integrated understanding of science.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Examining the Impacts of Annotation and Automated Guidance on Essay Revision and Science Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;technology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;writing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;student learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design-based research&lt;/dc:subject&gt;
+    </dublin_core>

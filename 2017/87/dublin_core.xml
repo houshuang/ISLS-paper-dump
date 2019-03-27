@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Noushad, Noora F.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shim, Jooeun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yoon, Susan A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Noushad, N. F., Shim, J., &amp; Yoon, S. A.&#x20;(2017).&#x20;Integrating Social Problem Solving with Programming to Enhance Science Agency Through Creation of Mobile Apps in Middle School&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.87</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The study investigates the potential of integrating Social Problem Solving with programming to enhance science agency among middle school students. Science agency has been emphasised as an important skill to support an understanding of the real-life applicability of science. However, educators continue to find it challenging to develop science agency – an action-oriented mindset, among students. In this paper, we evaluate a curriculum that encourages middle school students to identify problems that interfere with their daily lives and take action by creating mobile apps to resolve them. We analysed reflections of 13 students, who worked in pairs over a series of twenty-four 45-minute classes, to create mobile apps using App Inventor. Our findings suggest that enabling students to create socially relevant mobile applications can be a precursor to developing an action-oriented mindset. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Integrating Social Problem Solving with Programming to Enhance Science Agency Through Creation of Mobile Apps in Middle School</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Process Support</dc:subject>
+<dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Descriptive Studies</dc:subject>
+<dc:subject xml:lang="en">Representational Affordances</dc:subject>
+<dc:subject xml:lang="en">Shared Knowledge</dc:subject>
+<dc:subject xml:lang="en">Representational Tools</dc:subject>
+<dc:subject xml:lang="en">Situated Learning</dc:subject>
+<dc:subject xml:lang="en">Group Cognition</dc:subject>
+<dc:subject xml:lang="en">Social Networking (Facebook, etc.)</dc:subject>
+<dc:subject xml:lang="en">Creativity</dc:subject>
+    </dublin_core>

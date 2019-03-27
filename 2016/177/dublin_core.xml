@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Greenhow, Chrisine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hershkovitz, Arnon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Baruch, Alona Forkosh</dcvalue>
+<dcvalue element="contributor" qualifier="author">Askari, Emilia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tsovaltzi, Dimitra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Asterhan, Christa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puhl, Thomas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weinberger, Armin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bouton, Edith</dcvalue>
+<dcvalue element="contributor" qualifier="author">Polman, Joseph</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:58Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:58Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Greenhow, C., Hershkovitz, A., Baruch, A. F., Askari, E., Tsovaltzi, D., Asterhan, C., Puhl, T., Weinberger, A., Bouton, E., &amp; Polman, J.&#x20;(2016).&#x20;Teachers and Professional Development: New Contexts, Modes, and Concerns in the Age of Social Media&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.177</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The papers in this symposium together address new contexts, modes and concerns related to teaching and teacher professional development in the age of social media, with a particular focus on the socio-technical affordances and challenges of social network sites and teachers’ perceptions and experiences.  The presentations included in this symposium offer a multi-faceted and international view on the topic, highlighting both opportunities and challenges. Expected outcomes are a critical evaluation of the value, implications, and generality of the work presented to the field as well as an outlined agenda for future research on teaching with these new media and design work related to teachers’ professional development.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Teachers and Professional Development: New Contexts, Modes, and Concerns in the Age of Social Media</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;teachers&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;social networking sites (SNS)&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;professional development&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning&lt;/dc:subject&gt;
+    </dublin_core>

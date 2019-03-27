@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Olsen, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">Aleven, Vincent</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Olsen, J., Sharma, K., Aleven, V., &amp; Rummel, N.&#x20;(2018).&#x20;Combining Gaze, Dialogue, and Action from a Collaborative Intelligent Tutoring System to Inform Student Learning Processes.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.689</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In a computer supported collaborative learning environment, students have both interactions with each other as well as the technology that is guiding their learning, which can influence how the students construct their knowledge. Often in technology enhanced learning situations, information from the system provides discrete data points that can be used to infer learning without providing much information on the knowledge construction. On the other hand, analysis of student dialogues can be time consuming and subjective. In this paper, we propose combining log data, student dialogue, and gaze analysis to provide a clearer picture of how students construct knowledge collaboratively while working with an intelligent tutoring system. We found that students’ gaze similarity is negatively correlated with levels of abstraction in speech and that students have higher gaze similarity surrounding feedback provided by the tutor. These results show that the gaze data can be used as a proxy for dialogue in a collaborative learning context. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Combining Gaze, Dialogue, and Action from a Collaborative Intelligent Tutoring System to Inform Student Learning Processes</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Dual eye-tracking</dc:subject>
+<dc:subject xml:lang="en">DUET</dc:subject>
+<dc:subject xml:lang="en">Intelligent tutoring systems</dc:subject>
+<dc:subject xml:lang="en">ITS</dc:subject>
+<dc:subject xml:lang="en">gaze analysis</dc:subject>
+<dc:subject xml:lang="en">eye-tracking</dc:subject>
+    </dublin_core>

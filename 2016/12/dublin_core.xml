@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Prinsen, Fleur R.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Prinsen, F. R.&#x20;(2016).&#x20;Supporting Inquiry Learning as a Practice: A Practice Perspective on the Challenges of IBL Design, Implementation and Research Methodology&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.12</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Inquiry Based Learning (IBL) provides learners with an authentic learning challenge and valuable opportunities to improve their scientific domain knowledge, while expanding their repertoire of creative skills and attitudes. But mastering the “what”, “why” and “how” of the cultural tools that science employs, and appropriating the structures and systems designed to enculturate them into communities of inquiry is no easy feat. Taking a practice perspective on IBL can illuminate some challenges that teachers, students and educational designers encounter, and may help researchers operationalize important variables, capturing the complexity of this learning practice. A new definition of IBL will be unpacked showing the added value of regarding it as a practice. This will inform first and foremost the pedagogical design approach, but will also hold implications for methods of research. The feasibility of the ambition to enculturate learners into an authentic practice, providing them with transferrable skills, will be discussed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Supporting Inquiry Learning as a Practice: A Practice Perspective on the Challenges of IBL Design, Implementation and Research Methodology</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Inquiry Based Learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;practice&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;authentic&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;implementation&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Stevens, Reed</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jona, Kemi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penney, Lauren</dcvalue>
+<dcvalue element="contributor" qualifier="author">Champion, Dionne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ramey, Kay E.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hilppö, Jaakko</dcvalue>
+<dcvalue element="contributor" qualifier="author">Echevarria, Ruben</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penuel, William</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:33Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:33Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Stevens, R., Jona, K., Penney, L., Champion, D., Ramey, K. E., Hilppö, J., Echevarria, R., &amp; Penuel, W.&#x20;(2016).&#x20;FUSE: An Alternative Infrastructure for Empowering Learners in Schools&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.162</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this symposium, we examine a unique STEM learning environment that is designed to be interest-driven, learner-centered, and inclusive of many different types of learners. The four papers presented here demonstrate the unique features of the FUSE learning environment that empower learners. Respectively, they describe the ways in which this environment allows learners to engage in diverse learning arrangements (Stevens, Satwicz, &amp; McCarthy, 2008), enables them to develop and draw on each other’s relative expertise, facilitates learner agency, and provides learners with a toolkit of knowledge and practices to use in other STEM learning contexts.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">FUSE: An Alternative Infrastructure for Empowering Learners in Schools</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;informal learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;self-directed learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;agency&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;relative expertise&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;situated learning&lt;/dc:subject&gt;
+    </dublin_core>

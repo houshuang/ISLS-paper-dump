@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Fuhrmann, Tamar</dcvalue>
+<dcvalue element="contributor" qualifier="author">Salehi, Shima</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blikstein, Paulo</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Fuhrmann, T., Salehi, S., &amp; Blikstein, P.&#x20;(2014).&#x20;A Tale of Two Worlds: Using Bifocal Modeling to Find and Resolve “Discrepant Events” Between Physical Experiments and Virtual Models in Biology.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;863-870.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.863</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we demonstrate an approach to supporting students' engagement in combined physical experimentation and virtual modeling. We present a study that utilizes a scientific inquiry framework which links students' physical experimentation with their use of computer modeling in real time, which we call "Bifocal Modeling." In the case of the Bifocal Modeling activities discussed here, a group of high-school students designed computer models of bacterial growth through reference to a physical experiment they were conducting, and they were able to validate the effectiveness of their model against the results from their experiment. Our findings suggests that as students compare their virtual models with physical experiments, they encounter "discrepant events" that contradict their existing conceptions and elicit a disequilibrium. This experience of conflict encourages students to further examine their ideas and hypothesis, seek more accurate explanations of the observed natural phenomena, improving the design of their computer models.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Tale of Two Worlds: Using Bifocal Modeling to Find and Resolve “Discrepant Events” Between Physical Experiments and Virtual Models in Biology</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

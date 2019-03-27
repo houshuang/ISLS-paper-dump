@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Clegg, Tamara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Preece, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pauw, Daniel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Warrick, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Boston, Carol</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Clegg, T., Preece, J., Pauw, D., Warrick, E., &amp; Boston, C.&#x20;(2016).&#x20;Environmental Learning Through the Lens of Affinity Spaces: Transforming Community Members Into a Community Force&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.119</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we use affinity spaces as a lens to understand how adult community-based learning happens in an environmental education program. Participants take a series of classes and undertake guided experiential activities related to watershed issues and then carry out capstone projects in their own communities that address stormwater management issues. Within the context of the Watershed Stewards Academy, we aim to understand how participants bring diverse perspectives and experiences, interact with one another, and engage in environmental learning and action. Our analysis traces learners’ development from becoming aware of the importance of stormwater management to the watershed’s health to taking leadership roles in their communities. Our findings point to the potential of new face-to-face strategies and technology that can aid learners in interacting and learning together. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Environmental Learning Through the Lens of Affinity Spaces: Transforming Community Members Into a Community Force</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;informal learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;environmental education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;adult learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;affinity spaces&lt;/dc:subject&gt;
+    </dublin_core>

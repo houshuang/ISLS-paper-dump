@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Friend, Michelle</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Friend, M.&#x20;(2017).&#x20;Girls' Interest in Computing: Types and Persistence&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.13</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper examines interest development through a longitudinal study of young women who had extensive middle school computer science experience. A repeated measures survey was conducted at the end of high school and results compared from the end of middle school to the end of high school. For girls who had developed an interest in a computing career by the end of middle school, interest in computing increased. Aspirational expressions of interest, defined as stating an interest in computing, were highly correlated while embodied expressions of interest, defined as engaging in computing activities such as classes, clubs, or hobbies were generally not correlated. Participants appeared more definite in their attitudes towards computing by the end of high school, particularly interest in computing as a career and college major, than they had at the end of middle school. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Girls' Interest in Computing: Types and Persistence</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Adoption of Technologies</dc:subject>
+<dc:subject xml:lang="en">Ethnography</dc:subject>
+<dc:subject xml:lang="en">University</dc:subject>
+<dc:subject xml:lang="en">Process Support</dc:subject>
+    </dublin_core>

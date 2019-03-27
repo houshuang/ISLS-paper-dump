@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">DiGiacomo, Daniela K.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gutiérrez, Kris D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">DiGiacomo, D. K. &amp; Gutiérrez, K. D.&#x20;(2014).&#x20;Learning and Becoming in an After School Program: The Relationship as a Tool for Equity within the Practices of Making and Tinkering.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;729-736.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.729</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">El Pueblo Mgico is a social design experiment (Gutierrez &amp;amp; Vossoughi, 2010) in which youth and adults are developing deep and meaningful relationships which facilitate learning that is inclusive, participatory, and robust. This paper focuses on `Making and Tinkering' practices to examine the relationship that develops as both adults and children engage in the joint activity of making, re-making, and designing artifacts such as `Squishy Circuits'. Grounded in sociocultural theory, and situated within Nasir's (2012) work, this study draws on a corpus of data that includes weekly observations and interviews over one year, to examine how the M &amp;amp; T activities are socially organized to increase room for feedback, one of the four important aspects of expansive learning contexts (Nasir, 2012). Specifically, I analyze interactions to understand how relationships facilitated by the social organization of the practice of tinkering can be tools in the design of inclusive, equitable learning spaces.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Learning and Becoming in an After School Program: The Relationship as a Tool for Equity within the Practices of Making and Tinkering</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

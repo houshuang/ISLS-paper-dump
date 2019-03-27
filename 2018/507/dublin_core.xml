@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Eisenberg, Michael</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Eisenberg, M.&#x20;(2018).&#x20;Transhumanism and Education: Embodied Learning in an Era of Altered Bodies.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1823</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In the past decade, both cognitive science and the learning sciences have been significantly altered by an increased attention to the theme of embodiment. Broadly speaking, this theme complements (or pushes back against) the notion of purely abstract, “disembodied” cognition and emphasizes the role of physical interaction with the environment in the course of learning and development. A common, if usually implicit, assumption in this work is that learners’ bodies are more or less constant from one era to another: after all, human senses, limbs, physiology, and the basic parameters of cognition are part of an ongoing evolutionary human endowment. This assumption, while historically reasonable, is likely to need reconsideration in the near future, as a variety of “transhumanist” technologies (enhanced senses, bodies, and internalized interfaces with the outside physical environment) become more prevalent in children’s lives. This paper discusses several foundational issues and questions that are poised to emerge, and to challenge our enduring ideas about children and education, in the foreseeable future.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Transhumanism and Education: Embodied Learning in an Era of Altered Bodies</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">transhumanism</dc:subject>
+<dc:subject xml:lang="en">sensory augmentation</dc:subject>
+<dc:subject xml:lang="en">science and math education</dc:subject>
+    </dublin_core>

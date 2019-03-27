@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bertram, Charles</dcvalue>
+<dcvalue element="contributor" qualifier="author">Leak, Anne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sayre, Eleanor C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kustusch, Mary Bridget</dcvalue>
+<dcvalue element="contributor" qualifier="author">Franklin, Scott V.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:05Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:05Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bertram, C., Leak, A., Sayre, E. C., Kustusch, M. B., &amp; Franklin, S. V.&#x20;(2016).&#x20;Student Conceptions of Expertise&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.139</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We report on student beliefs about what constitutes expertise. Our population is a group of first-generation and deaf/hard-of-hearing students participating in a pre-matriculation university program designed to encourage reflection and metacognitive practice. Students first worked in small groups to articulate criteria that defined expertise and then engaged in a class discussion in which a formal definition was developed. All activities were recorded and student discourse analyzed, revealing a nuanced and evolving understanding of expertise.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Student Conceptions of Expertise</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;epistemology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;expertise&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;student understanding&lt;/dc:subject&gt;
+    </dublin_core>

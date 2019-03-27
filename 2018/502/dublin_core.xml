@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Knight, Simon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shibani, Antonette</dcvalue>
+<dcvalue element="contributor" qualifier="author">Buckingham-Shum, Simon</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Knight, S., Shibani, A., &amp; Buckingham-Shum, S.&#x20;(2018).&#x20;Augmenting Formative Writing Assessment with Learning Analytics: A Design Abstraction Approach.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1783</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There is increasing interest in use of learning analytics and technologies underpinned by artificial intelligence in the support of learning. In implementing and integrating these technologies there are challenges both with regard to developing the technologies themselves, and in aligning them with existing, or transformable, practices. In this paper we argue that by ‘augmenting’ formative tasks with learning analytics, we can achieve impact both through the integration of the tools, and through the support of existing good practices. We exemplify our approach through its application to the design of tasks for the key skill of learning how to write effectively. The development of these designs and their abstractions holds significant potential in bridging research and practice, by supporting the sharing and interrogation of designs in a way that is intimately tied to both practice (practical applied contexts), and research (through theorized and empirically supported designs targeting particular learning outcomes).</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Augmenting Formative Writing Assessment with Learning Analytics: A Design Abstraction Approach</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">writing analytics</dc:subject>
+<dc:subject xml:lang="en">learning analytics</dc:subject>
+<dc:subject xml:lang="en">learning design</dc:subject>
+<dc:subject xml:lang="en">technology enhanced assessment</dc:subject>
+    </dublin_core>

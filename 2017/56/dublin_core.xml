@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Richard, Gabriela</dcvalue>
+<dcvalue element="contributor" qualifier="author">Giri, Sagun</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Richard, G. &amp; Giri, S.&#x20;(2017).&#x20;Inclusive Collaborative Learning With Multi-Interface Design: Implications for Diverse and Equitable Makerspace Education&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.56</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">While the maker movement and its associated affordable and accessible practices and toolkits have reinvigorated interest in pre-collegiate STEM, invention and creativity, many have critiqued makerspaces as implicitly exclusionary, particularly across gender, race and ethnicity. In an effort to rectify past participatory inequities, we designed a maker workshop for high school youth that capitalized upon multiple digital and physical interfaces to create simultaneously digitally and physically responsive projects, which encouraged team-based distributed creativity and development. We explore how the tools and the curricular design encouraged and fostered collaboration and inclusivity, as well as disrupted previous implicit associations around computing and creativity. We discuss the teams, the projects created and how the learning activities provided opportunities for inclusion and equity.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Inclusive Collaborative Learning With Multi-Interface Design: Implications for Diverse and Equitable Makerspace Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Science Education</dc:subject>
+<dc:subject xml:lang="en">Computational Models</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Online Learning</dc:subject>
+    </dublin_core>

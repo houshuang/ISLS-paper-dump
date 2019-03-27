@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ainsworth, Shaaron</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stieff, Mike</dcvalue>
+<dcvalue element="contributor" qualifier="author">DeSutter, Dane</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tytler, Russell</dcvalue>
+<dcvalue element="contributor" qualifier="author">Prain, Vaughan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Panagiotopoulos, Dimitrios</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wigmore, Peter</dcvalue>
+<dcvalue element="contributor" qualifier="author">van Joolingen, Wouter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Heijnes, Dewi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Leenaars, Frank</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puntambekar, Sadhana</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:46Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:46Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ainsworth, S., Stieff, M., DeSutter, D., Tytler, R., Prain, V., Panagiotopoulos, D., Wigmore, P., van Joolingen, W., Heijnes, D., Leenaars, F., &amp; Puntambekar, S.&#x20;(2016).&#x20;Exploring the Value of Drawing in Learning and Assessment&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.170</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Drawing is increasingly recognized as a literacy of science. It is claimed that when learners draw they engage in ways that help them evaluate and transform their understanding, practice fundamental disciplinary practices and provides the basis for formative or summative assessment. This symposium draws together research on student drawing across different disciplines (e.g. Chemistry, Biology, and Anatomy) to explore the value that drawing can have in learning science and medicine. Importantly, the papers take a nuanced view of the value of drawing; attempting to avoid the sometimes overblown claims that accompany calls for particular approaches to education by addressing situations when drawing has been found to be ineffective as well as helpful. They will also focus on analysis on process data (e.g. drawings) to provide insight into when particular representational practices are helpful and how they most be executed and supported to gain these benefits</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring the Value of Drawing in Learning and Assessment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;representation&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;drawing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;modelling&lt;/dc:subject&gt;
+    </dublin_core>

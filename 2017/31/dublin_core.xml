@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Csanadi, Andras</dcvalue>
+<dcvalue element="contributor" qualifier="author">Eagan, Brendan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaffer, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kollar, Ingo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fischer, Frank</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Csanadi, A., Eagan, B., Shaffer, D., Kollar, I., &amp; Fischer, F.&#x20;(2017).&#x20;Collaborative and Individual Scientific Reasoning of Pre-Service Teachers: New Insights Through Epistemic Network Analysis (ENA)&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.31</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">When assessing scientific reasoning both (1) modeling connections in the discourse and (2) doing so at an appropriate grain size can be challenging for researchers. Our study suggests combining a novel theoretical (Fischer et al., 2014) and a novel methodological (Shaffer et al., 2006) framework to respond to these challenges by detecting epistemic networks of scientific reasoning processes in the context of collaborative vs individual problem solving of pre-service teachers. We investigated (1) whether the combination of these frameworks can be fruitfully applied to model scientific reasoning processes and (2) what unit of analysis researchers or instructors should choose to answer questions of interest. One novel aspect of our study is that we compared epistemic networks in case of collaborative vs individual reasoning processes. Our results show that (1) epistemic networks of scientific reasoning can reliably capture reasoning processes when comparing collaborative vs individual reasoning; and (2) propositional and potentially larger units might be considered as “optimal” units of analysis to detect such differences.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Collaborative and Individual Scientific Reasoning of Pre-Service Teachers: New Insights Through Epistemic Network Analysis (ENA)</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">Intelligent Systems</dc:subject>
+    </dublin_core>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Acosta, Alisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lui, Michelle</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Acosta, A., Lui, M., &amp; Slotta, J. D.&#x20;(2014).&#x20;Exploring Group-Level Epistemic Cognitions within a Knowledge Community and Inquiry Curriculum for Secondary Science.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;673-680.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.673</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper explores Epistemic Cognition (EC) at the collective level within the context of an inquiry curriculum for high school biology. The "EvoRoom" curriculum was 10 weeks in duration, with two major units in evolution and biodiversity as well as a rich media "immersive simulation" activity and a field trip to a local zoo. All activities were designed according to the Knowledge Community and Inquiry (KCI) model, which guides the design of collective inquiry curricula where students make progress as a knowledge community with explicit connections to learning expectations. The paper applies Chinn's EC framework to the design and enactment of EvoRoom and, by extension, to the KCI model. Findings reveal a shift in students' perceptions of "sources of knowledge," however students' "justification of knowledge" was seen to be compromised in cases where students satisficed their original epistemic stance in favor of group consensus.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Group-Level Epistemic Cognitions within a Knowledge Community and Inquiry Curriculum for Secondary Science</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

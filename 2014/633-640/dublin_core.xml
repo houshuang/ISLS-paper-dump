@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">McCormick, Mary</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hammer, David</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">McCormick, M. &amp; Hammer, D.&#x20;(2014).&#x20;The Beginnings of Engineering Design in an Integrated Engineering and Literacy Task.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;633-640.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.633</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In Integrating Engineering and Literacy (IEL), students identify and engineer solu- tions to problems that arise for fictional characters in stories they read for class. There are ad- vantages to this integration, for both engineering and literacy goals of instruction: The stories provide "clients," to support students' engagement in engineering, and understanding clients' needs involves close attention and interpretation of text. Results are encouraging, but mixed, in part for variation in how students frame the task. For instance, while students often pay close attention to the stories, interpreting and anticipating their fictional clients' needs, they sometimes focus more on the teacher and what they think she would like to see. This variation occurs both within and across groups of students, and it motivates studying the dynamics of student framing. Here we examine two students' stability in framing their work as nascent en- gineers.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Beginnings of Engineering Design in an Integrated Engineering and Literacy Task</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

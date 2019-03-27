@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Jurow, A. Susan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kirshner, Ben</dcvalue>
+<dcvalue element="contributor" qualifier="author">Torralba, José Antonio</dcvalue>
+<dcvalue element="contributor" qualifier="author">Taraboulsi, Sherine El</dcvalue>
+<dcvalue element="contributor" qualifier="author">Teeters, Leah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Guidalli, Barbara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Griffin-EL, Nosakhere</dcvalue>
+<dcvalue element="contributor" qualifier="author">Severance, Samuel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shea, Molly</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dutilly, Erik</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hall, Rogers</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Jurow, A. S., Kirshner, B., Torralba, J. A., Taraboulsi, S. E., Teeters, L., Guidalli, B., Griffin-EL, N., Severance, S., Shea, M., Dutilly, E., &amp; Hall, R.&#x20;(2014).&#x20;Theorizing Learning in the Context of Social Movements.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1302-1307.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1302</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Studying learning in social movements is important for Learning Sciences researchers because it can help us (a) understand how learning occurs at and affects multiple levels of historical, cultural, and social activities and (b) how marginalized communities participate in framing problems and their solutions. The four papers in this symposium present empirical research from diverse international movements, including the local foods movement in Colorado, youth organizing for educational equity in South Africa, school food reform in Spain, and nationalism in Libya and Italy. Each of the papers address how local actors exercise agency in relation to complex, dynamic, contested social movements. Implications discuss how social movements collectively organize just social futures and the role that learning scientists can play in lending analytic precision to these processes.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Theorizing Learning in the Context of Social Movements</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

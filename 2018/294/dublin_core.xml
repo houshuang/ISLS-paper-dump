@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wallon, Robert C</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lindgren, Robb</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wallon, R. C. &amp; Lindgren, R.&#x20;(2018).&#x20;Cueing Gestures in a Seasons Simulation: Outcomes of an Embodied Learning Approach to Supporting Explanations.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1363</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper we describe data collected for a study of middle school students using a gesture-augmented computer simulation to construct explanations of seasons. Employing principles of design for embodied learning, this simulation elicits specific hand gestures to encourage students to enact causal mechanisms. In the context of individual interviews, students were prompted to give scientific explanations of what causes seasons before, during, and after use of the simulation. We investigated whether students' explanations would improve after using the simulation and whether students would take up these gestures in their post-simulation explanations. We found strong evidence that students improved their explanations, and although students frequently used gestures in their post-simulation explanations, they infrequently used the specific gestures prompted by the interface, a divergence from a previous study of another topic. We offer possible interpretations for this finding, and we suggest design considerations for gesture-based simulations that encourage productive student reasoning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Cueing Gestures in a Seasons Simulation: Outcomes of an Embodied Learning Approach to Supporting Explanations</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">embodied learning</dc:subject>
+<dc:subject xml:lang="en">explanation</dc:subject>
+<dc:subject xml:lang="en">gesture-augmented computer simulations</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+    </dublin_core>

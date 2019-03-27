@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Krist, Christina</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Krist, C.&#x20;(2016).&#x20;How a 6th Grade Classroom Develops Epistemologies for Building Scientific Knowledge&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.41</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Current reforms in science education emphasize scientific practices as the means by which students develop and use scientific ideas. However, supporting students in engaging meaningfully in scientific practices is challenging because we do not know much about what students learn about the process of engaging in scientific practices, or the epistemic criteria guiding their work. In this paper, I characterize how classroom communities develop sets of epistemic heuristics by engaging in scientific practices over time. Specifically, I present how one classroom community’s implicit answers to “What kind of answer are we working to build?” and to “How does the idea we are trying to build relate to other phenomena and ideas?” shifted throughout a unit. I argue that these shifts were designed into the curriculum, but required strategic work on the teacher’s part; and that these shifts reflect epistemic learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">How a 6th Grade Classroom Develops Epistemologies for Building Scientific Knowledge</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;science practices&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;knowledge building&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;epistemology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;communities of practice&lt;/dc:subject&gt;
+    </dublin_core>

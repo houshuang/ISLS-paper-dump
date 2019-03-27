@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Smith, Blaine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shen, Ji</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jiang, Shiyan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chen, Guanhua</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hamaoui, Marie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Torralba, Juan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Smith, B., Shen, J., Jiang, S., Chen, G., Hamaoui, M., &amp; Torralba, J.&#x20;(2018).&#x20;Multimodal Reflection: Adolescents Remixing and Sharing their Experiences in an Informal STEM+L Academy.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1449</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study reports how 31 adolescents enrolled in an informal academy focused on STEM and digital literacies reflected on their experiences by creating short multimodal videos. Initial findings reveal how students remixed a variety of modes—including photographs, videos, text, animation, and music—to reflect on their learning, collaborations, and digital projects. Students simultaneously composed for multiple audiences through their multimodal reflections, while learning more about themselves and new technical skills</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Multimodal Reflection: Adolescents Remixing and Sharing their Experiences in an Informal STEM+L Academy</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">reflection</dc:subject>
+<dc:subject xml:lang="en">multimodality</dc:subject>
+<dc:subject xml:lang="en">digital literacies</dc:subject>
+<dc:subject xml:lang="en">adolescents</dc:subject>
+<dc:subject xml:lang="en">STEAM learning</dc:subject>
+    </dublin_core>

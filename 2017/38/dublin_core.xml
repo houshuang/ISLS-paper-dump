@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Magnussen, Rikke</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elming, Anna Lindenhoff</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Magnussen, R. &amp; Elming, A. L.&#x20;(2017).&#x20;Student Re-Design of Deprived Neighbourhoods in Minecraft: Community-Driven Urban Development&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.38</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents results from the three-year research and development project Cities at Play: Community Drive, where students in five 7th–9th grade classes, in collaboration with the Copenhagen City Council urban planners, used Minecraft and other digital and physical tools to redesign their deprived neighbourhood to generate solutions to problems in their local area. The overall aim was to understand how to integrate community-driven science and urban development in school education, in addition to identifying the knowledge and practices that emerged from the process. Our study presents survey data from two 7th grade classes (50 students 13–14 years of age) that developed Minecraft and LEGO models that re-designed their neighbourhood to solve local problems. The results show that, over the course of the project, students became aware of the authentic knowledge they possess about their urban area and that they are able to connect it to structural changes.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Student Re-Design of Deprived Neighbourhoods in Minecraft: Community-Driven Urban Development</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Portable/Ubiquitous Collaboration</dc:subject>
+<dc:subject xml:lang="en">Shared Knowledge</dc:subject>
+<dc:subject xml:lang="en">Handheld/Mobile Devices</dc:subject>
+<dc:subject xml:lang="en">Knowledge Building</dc:subject>
+    </dublin_core>

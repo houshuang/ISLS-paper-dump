@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Silvis, Deborah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Taylor, Katie Headrick Taylor</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Silvis, D. &amp; Taylor, K. H.&#x20;(2018).&#x20;Reassembling Home-work: Mixing “Newer” and “Older” Technologies in Home Learning Environments.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.752</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Home is the original place for children’s learning and a vital site for studying new technological practices. Families’ uses of new technologies present questions and opportunities for research at the intersection of family life, learning, and technology. With so much to do, how do families make use of emerging technologies to accomplish everyday tasks? Drawing on an ethnography of families’ media engagement, this paper examines the nature of young people’s assigned tasks at home. Through analysis of interactions between children, parents, the home setting, and material resources, we develop a theory of learning that accounts for how newer and older technological forms are reassembled in everyday tasks like homework and chores. We discuss how, through mixing media, repurposing space, and remote assistance families make home “work” with technology. These reassembly processes collapse tools, nesting old and new media together in ways that are increasingly relevant for designing learning environments.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Reassembling Home-work: Mixing “Newer” and “Older” Technologies in Home Learning Environments</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">technology</dc:subject>
+<dc:subject xml:lang="en">families</dc:subject>
+<dc:subject xml:lang="en">home environments</dc:subject>
+<dc:subject xml:lang="en">ethnography</dc:subject>
+    </dublin_core>

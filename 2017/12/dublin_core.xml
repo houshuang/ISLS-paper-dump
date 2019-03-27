@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Walkoe, Janet</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wilkerson, Michelle</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elby, Andrew</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Walkoe, J., Wilkerson, M., &amp; Elby, A.&#x20;(2017).&#x20;Technology-Mediated Teacher Noticing: A Goal for Classroom Practice, Tool Design, and Professional Development&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.12</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We introduce technology-mediated teacher noticing (TMTN): a vision for the design and use of technology-mediated tools that takes seriously the need for teachers to attend to, interpret, and respond to their students’ thinking. This vision is situated at the intersection of research on teacher noticing, and on technology to support student thinking. We synthesize that work to highlight specific ways that technology-mediated classroom tools can focus and stabilize teachers’ attention on valuable aspects of student thinking emphasized by current reform efforts. We then illustrate TMTN with classroom examples in which technology supported or obstructed teachers' attention to student thinking, and consider implications for research on technology in teacher practice, professional development, and the design of technological tools for K-12 classrooms.  \ </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Technology-Mediated Teacher Noticing: A Goal for Classroom Practice, Tool Design, and Professional Development</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Collaboration Skills</dc:subject>
+<dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Problem Solving Tool</dc:subject>
+<dc:subject xml:lang="en">Social Constructivism</dc:subject>
+    </dublin_core>

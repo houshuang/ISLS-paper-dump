@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schwarz, Baruch</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rajala, Antti</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rosé, Carolyn P.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clarke, Sherice</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fynes-Clinton, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Renshaw, Peter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Solli, Anne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hillman, Thomas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mäkitalo, Åsa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Goldberg, Tsafrir</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tammi, Tuure</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wegerif, Rupert</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schwarz, B., Rajala, A., Rosé, C. P., Clarke, S., Fynes-Clinton, E., Renshaw, P., Solli, A., Hillman, T., Mäkitalo, Å., Goldberg, T., Tammi, T., &amp; Wegerif, R.&#x20;(2016).&#x20;Fostering Deliberative Discourse in Schools Towards the Constitution of a Deliberative Democracy&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.173</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium focuses on forms of classroom discourse that have the potential to lead to societal change. The deployment of these forms of discourse that we designate as deliberative discourse provides unique moments during which a communicative rationalization is realized. We present very different programs in civic education, science, philosophy or history that realize this communicative rationalization. The common denominator of these programs is that they all provide long-term learning experiences. Through iterative enactment of collaborative inquiry and/or argumentative moves, students acquire norms that prepare them for the constitution of a deliberative democracy.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Fostering Deliberative Discourse in Schools Towards the Constitution of a Deliberative Democracy</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;democratic education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;deliberative discourse&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;classroom talk&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;deliberative democracy&lt;/dc:subject&gt;
+    </dublin_core>

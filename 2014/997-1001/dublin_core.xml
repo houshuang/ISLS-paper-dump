@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kessler, Aaron M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Boston, Melissa D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stein, Mary Kay</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kessler, A. M., Boston, M. D., &amp; Stein, M. K.&#x20;(2014).&#x20;Conceptualizing Teacher's Practices in Supporting Students' Mathematical Learning in Computer- Directed Learning Environments.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;997-1001.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.997</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper, we suggest a different conceptualization of teachers' practices in supporting students' mathematical learning in a cognitive tutor or computer-directed learning environment. The CT program examined in this study aimed to enhance students' learning of proportional reasoning through an engaging engineering/robotics context. Students of teachers who assumed an active role in engaging students in mathematical conversations away from the cognitive tutor exhibited significant learning gains, whereas students in settings using the cognitive tutor as designed (with limited interaction from the teacher) did not exhibit learning gains. This research has implications for reconsidering the teacher's role in cognitive tutor or computer-directed learning environments.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Conceptualizing Teacher's Practices in Supporting Students' Mathematical Learning in Computer- Directed Learning Environments</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

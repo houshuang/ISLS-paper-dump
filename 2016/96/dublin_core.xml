@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tan, Esther</dcvalue>
+<dcvalue element="contributor" qualifier="author">So, Hyo-Jeong</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tan, E. &amp; So, H.&#x20;(2016).&#x20;Students’ Use of Knowledge Resources in Environmental Interaction on an Outdoor Learning Trail&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.96</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study examined how students leveraged different types of knowledge resources on an outdoor learning trail. We positioned the learning trail as an integral part of the curriculum with a pre- and post-trail phase to scaffold and to support students’ meaning-making process. The study was conducted with two classes of secondary two students. We coded two groups’ discourse to examine the use of knowledge resource types in the meaning-making process in an outdoor learning setting: contextual resource, new conceptual resource, prior knowledge resource, as well as the relationship among these knowledge resource types. Next, we also examined environmental interaction and integration in the students’ use of these knowledge resource types. Analysis showed that contextual resources are chiefly instrumental in fostering students’ capacity to harness new conceptual resource and to activate prior knowledge resource in interacting with and integrating the outdoor learning environment in the meaning-making process.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Students’ Use of Knowledge Resources in Environmental Interaction on an Outdoor Learning Trail</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;mobile learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;outdoor learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;knowledge resources&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;discourse analysis&lt;/dc:subject&gt;
+    </dublin_core>

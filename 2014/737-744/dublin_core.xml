@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Larson, Joanne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hanny, Courtney</dcvalue>
+<dcvalue element="contributor" qualifier="author">Duckles, Joyce</dcvalue>
+<dcvalue element="contributor" qualifier="author">Greenwich, Joel Gallegos</dcvalue>
+<dcvalue element="contributor" qualifier="author">Meyer, Eric</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moses, Robert</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moses, George</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jones, Kimberly</dcvalue>
+<dcvalue element="contributor" qualifier="author">Smith, Jeremy</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Larson, J., Hanny, C., Duckles, J., Greenwich, J. G., Meyer, E., Moses, R., Moses, G., Jones, K., &amp; Smith, J.&#x20;(2014).&#x20;“It’s Intentional”: Co-Construction of Transformational Processes and Pathways within and across Hubs of Interdependence in an Urban Community.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;737-744.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.737</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Beginning with data from a long-term participatory ethnography of an urban corner store, this paper discusses transformational processes and pathways intentionally being co- constructed across an urban community. Within the store and across multiple hubs in this neighborhood, we found six central processes that facilitated change: building relationships, building community, being family, communicating, belonging, and becoming. Additionally, we found that transformational pathways situated in the social, cultural, educational, economical, political, and research realms drove and connected these hubs, creating momentum towards sustainable change. We use the concept of a rhizome to explore how various hubs were connected through these transformational pathways and how redundancy across hubs created new developmental trajectories for community members. Looking across hubs, we found that transformational processes were generated when multiple and divergent discourses were intentionally allowed to remain in tension, rather than being compelled into consensus (creating what we call spaces of dissensus).</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“It’s Intentional”: Co-Construction of Transformational Processes and Pathways within and across Hubs of Interdependence in an Urban Community</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

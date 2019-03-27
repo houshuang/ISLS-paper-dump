@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Barth-Cohen, Lauren A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wittmann, Michael C.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Barth-Cohen, L. A. &amp; Wittmann, M. C.&#x20;(2016).&#x20;Expanding Coordination Class Theory to Capture Conceptual Learning in a Classroom Environment&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.51</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This article presents an extension to coordination class theory—a theory of conceptual change that was built to capture an individual’s learning in an interview setting. Here we extend that theory to capture group and individual learning in classrooms. The proposed extension focuses on different contexts in the sense of groups’ and individuals’ different interpretations of the same student-generated artifact. A classroom of 9th grade earth science students created embodied models for a specific scientific concept, the steady state energy of the earth. We describes that the students encountered difficulties aligning their embodied models with their conceptual understandings, and yet, they were able to make progress by changing their models to better align their understanding of the scientific concept with their newly modified model—instances of individual and group learning. We conclude with discussing implications for designing classrooms learning environments.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Expanding Coordination Class Theory to Capture Conceptual Learning in a Classroom Environment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;conceptual change&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;group learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;embodied modeling&lt;/dc:subject&gt;
+    </dublin_core>

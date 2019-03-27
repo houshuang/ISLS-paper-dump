@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Harsley, Rachel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Di Eugenio, Barbara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Green, Nick</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fossati, Davide</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Harsley, R., Di Eugenio, B., Green, N., &amp; Fossati, D.&#x20;(2017).&#x20;Collaborative Intelligent Tutoring Systems: Comparing Learner Outcomes Across Varying Collaboration Feedback Strategies&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.95</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper, we present a collaborative extension of our ITS for Computer Science (CS) Education. The design of the collaborative version was motivated by noted benefits of collaborative learning including heightened retention of underrepresented students, particularly as demonstrated through pair programming within the CS domain. In this paper, we examine the outcome of two designs of the collaborative system with varying degrees of collaboration feedback. In the unstructured version, pairs are presented with no collaboration feedback while in the semistructured version of the system, pairs are given visual feedback in regards to their group and individual performance.  We collected log data of system use as well as audio recordings of pairs. We found that students in both conditions experienced significant learning gains. Shifts in dialogue initiative where significantly positively correlated to learning gains in both conditions. However, students provided with additional collaboration feedback, exhibited less planning and overall symmetry.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Collaborative Intelligent Tutoring Systems: Comparing Learner Outcomes Across Varying Collaboration Feedback Strategies</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Knowledge Building</dc:subject>
+<dc:subject xml:lang="en">Discourse Analysis</dc:subject>
+<dc:subject xml:lang="en">Primary School</dc:subject>
+<dc:subject xml:lang="en">Collaborative Problem Solving Skills</dc:subject>
+<dc:subject xml:lang="en">Science Education</dc:subject>
+    </dublin_core>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lanouette, Kathryn A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Van Wart, Sarah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Parikh, Tapan S.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lanouette, K. A., Van Wart, S., &amp; Parikh, T. S.&#x20;(2016).&#x20;Supporting Elementary Students’ Science Learning Through Data Modeling and Interactive Mapping in Local Spaces&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.74</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Our work is based on three premises: (a) children’s experiential, everyday knowledge about local spaces is a rich resource for science learning, (b) involvement in data modeling contributes to children’s conceptual understanding, and (c) interactive maps can support children in leveraging their experiential, everyday knowledge about local spaces into their scientific reasoning. In this paper, we report on the results of a design-based research study, in which 4th grade students used a web-based tool called Local Ground to collect data, model, and collaboratively analyze what’s underground in the local soil ecology around their school. We examine the affordances of situating children’s data modeling in local spaces and using Local Ground as a representational medium. We find that this instructional design supported children in integrating their experiential knowledge to reason about organisms in relation to the environment.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Supporting Elementary Students’ Science Learning Through Data Modeling and Interactive Mapping in Local Spaces</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;elementary science education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;ecological systems&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;data modeling&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;GIS&lt;/dc:subject&gt;
+    </dublin_core>

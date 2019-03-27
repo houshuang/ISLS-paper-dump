@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Scardamalia, Marlene</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bereiter, Carl</dcvalue>
+<dcvalue element="contributor" qualifier="author">Laferrière, Thérèse</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bielaczyc, Katerine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chai, Shaoming</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chan, Carol K.K.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chen, Bodong</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chen, Mei-Hwa</dcvalue>
+<dcvalue element="contributor" qualifier="author">de Jong, Frank</dcvalue>
+<dcvalue element="contributor" qualifier="author">del Castillo, Fernando Diaz</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hakkarainen, Kai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Matsuzawa, Yoshiaki</dcvalue>
+<dcvalue element="contributor" qualifier="author">McAuley, Alexander</dcvalue>
+<dcvalue element="contributor" qualifier="author">Montané, Mireia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nunes, Cesar</dcvalue>
+<dcvalue element="contributor" qualifier="author">Reeve, Richard</dcvalue>
+<dcvalue element="contributor" qualifier="author">Seitamaa-Hakkarainen, Pirita</dcvalue>
+<dcvalue element="contributor" qualifier="author">Oshima, Jun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shirouzu, Hajime</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tan, Seng Chee</dcvalue>
+<dcvalue element="contributor" qualifier="author">Teo, Chew Lee</dcvalue>
+<dcvalue element="contributor" qualifier="author">van Aalst, Jan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vinha, Telma</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhang, Jianwei</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:53:01Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:53:01Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Scardamalia, M., Bereiter, C., Laferrière, T., Bielaczyc, K., Chai, S., Chan, C. K., Chen, B., Chen, M., de Jong, F., del Castillo, F. D., Hakkarainen, K., Matsuzawa, Y., McAuley, A., Montané, M., Nunes, C., Reeve, R., Seitamaa-Hakkarainen, P., Oshima, J., Shirouzu, H., Tan, S. C., Teo, C. L., van Aalst, J., Vinha, T., &amp; Zhang, J.&#x20;(2017).&#x20;Toward a Multi-Level Knowledge Building Innovation Network&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.113</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Knowledge building requires collaborative bootstrapping, with participants at all levels of the education system part of a collective effort to go beyond information exchange to innovation-producing networks that demonstrate that education can operate as a knowledge creating enterprise. Organizational theories and research are increasingly focused on multilevel perspectives for creating actionable knowledge; the challenge is to take advantage of emergence to self-organize around solutions and new means. By “innovation networks” we mean networks that go beyond sharing and discussion to the actual creation of new knowledge and innovations. Self-organization and emergence surround us, all the time and at multiple levels, whether we are aware or not. However, self-organization around idea improvement is rare and requires engaging innovative capacity at all levels, a research-intensive enterprise surrounding innovations, and an open source engineering team committed to enabling new forms of interaction, media, and analytic tools. “Multi-level” envisions inclusion of students, teachers, administrators, researchers, engineers, and policy makers in a collaborative enterprise. This session takes the form of a design think tank to advance conceptual frameworks and means for new and more powerful environments to support a multi-level knowledge building innovation network.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Toward a Multi-Level Knowledge Building Innovation Network</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en"></dc:subject>
+    </dublin_core>

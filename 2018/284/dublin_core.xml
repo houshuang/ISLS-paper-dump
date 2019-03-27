@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Gresalfi, Melissa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Horn, Ilana Seidel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jasien, Lara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wisittanawat, Panchompoo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Y., Jasmine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Radke, Sarah C</dcvalue>
+<dcvalue element="contributor" qualifier="author">Guyevskey, Victoria</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sinclair, Nathalie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sfard, Anna</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Gresalfi, M., Horn, I. S., Jasien, L., Wisittanawat, P., Y., J., Radke, S. C., Guyevskey, V., Sinclair, N., &amp; Sfard, A.&#x20;(2018).&#x20;Playful Mathematics Learning: Beyond Early Childhood and Sugar-Coating.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1335</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this symposium, we ask what mathematical engagement looks like in the context of play, focusing on contexts designed to support mathematical thinking through open-ended activity, and looking at ages that are traditionally overlooked in studies of play. We heed Dewey’s admonition to look beyond sugar-coating: we do not seek to claim that “play is a good method for supporting traditional mathematics learning,” but rather, to explore the ways that mathematics is engaged through play, and how such different engagement with mathematics might transform students’ relationships with the domain. Taken as a collective, the papers in this symposium address this issue by looking across technical and physical contexts, using different lenses on play, and studying different experiences of play. Despite these contrasts, we jointly ask questions about what mathematics thinking and learning could look like if we changed the rules of the game.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Playful Mathematics Learning: Beyond Early Childhood and Sugar-Coating</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">play</dc:subject>
+<dc:subject xml:lang="en">mathematics education</dc:subject>
+<dc:subject xml:lang="en">informal learning</dc:subject>
+<dc:subject xml:lang="en">case studies</dc:subject>
+    </dublin_core>

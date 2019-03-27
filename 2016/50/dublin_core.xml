@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Manches, Andrew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dragomir, Mihaela</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Manches, A. &amp; Dragomir, M.&#x20;(2016).&#x20;The Effect of Concrete Materials on Children’s Subsequent Numerical Explanations: Metaphorical Priming&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.50</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper contributes evidence for the claim that gestures used to support numerical thinking can simulate prior concrete experiences. 114 children aged 6-9 years explained a numerical relationship (additive composition) three times consecutively. All children explained without materials for the 1st and 3rd explanation. For the 2nd explanation, children were randomly assigned to one of three conditions to use: physical objects; a number line; or no materials (control condition) to explain their thinking. Findings showed how using physical objects significantly influenced the particular types of gestures (e.g. splitting), hand morphology (e.g. pinching), and words (e.g. “take”, “big”) that children used in subsequent explanations without materials. Similar (although less pronounced) priming effects were found for the number line condition. The study provides support for conceptual metaphor theory (used to categorize gestures and language), and the potential for gesture research to address long-standing questions concerning the role of concrete materials in learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Effect of Concrete Materials on Children’s Subsequent Numerical Explanations: Metaphorical Priming</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;mathematics education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;embodied cognition&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;audio/video analysis&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;experimental or quasi-experimental design&lt;/dc:subject&gt;
+    </dublin_core>

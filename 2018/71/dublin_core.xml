@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Cavera, Veronica L</dcvalue>
+<dcvalue element="contributor" qualifier="author">Duncan, Ravit Golan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chinn, Clark</dcvalue>
+<dcvalue element="contributor" qualifier="author">Castro-Faix, Moraima</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Cavera, V. L., Duncan, R. G., Chinn, C., &amp; Castro-Faix, M.&#x20;(2018).&#x20;Developing Assessments that Measure Core Ideas and Scientific Practices: Challenges and Insights.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 1. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.576</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Current science reforms in the US and elsewhere advocate that students should learn core disciplinary ideas through engagement in scientific practices. Engaging students in practices allows for a deeper learning of content and a more productive understanding of how scientific knowledge is developed. In order to evaluate the effectiveness of student learning in practice, assessments have to simultaneously address students’ understanding of content and practice. In order to investigate the kinds of heuristics that may assist in developing such assessments, we present data from parallel phenomenon-based modeling assessments given to 11th grade biology students. While students constructed structurally similar arguments, the amount and how content knowledge was used differed. Students were able to bring in content knowledge more readily when presented decontextualized phenomenon-based models and used this knowledge to make productive connections between evidence and provided models. We discuss heuristics and implications for design. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Developing Assessments that Measure Core Ideas and Scientific Practices: Challenges and Insights</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">argumentation</dc:subject>
+<dc:subject xml:lang="en">modeling</dc:subject>
+<dc:subject xml:lang="en">assessment design</dc:subject>
+<dc:subject xml:lang="en">genetics</dc:subject>
+    </dublin_core>

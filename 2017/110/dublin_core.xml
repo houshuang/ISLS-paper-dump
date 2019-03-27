@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kazemitabar, Maedeh A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lajoie, Susanne P.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kazemitabar, M. A. &amp; Lajoie, S. P.&#x20;(2017).&#x20;Role of Socio-Emotional Interactions on Mutual Trust and Shared Mental Models in a Case Study of Programming Teams&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.110</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This exploratory study examines international physics teams that competed in a two-day challenging hackathon (computer programming competition). Through case study analysis of three representative teams, we examined team interactions in terms of socio-emotional interactions, trust and shared mental models (SMMs). High and low performing teams were identified based on number of social challenges experienced by the team. Challenges and goals were measured using a modified version of AIRE (Järvenoja, Volet, &amp; Järvelä, 2013). Using a mixed methods exploratory approach, preliminary results showed that teams whose members (a) interacted with more positive social-emotional interactions (b) reported more team-oriented goals, and (c) had prior familiarity with each other, reached higher levels of mutual trust and shared mental models. Specifically, findings highlight the role of socio-emotional interactions in enhancing mutual trust and shared mental models, and have implications for teams composed of learners with heterogeneous expertise in CSCL environments.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Role of Socio-Emotional Interactions on Mutual Trust and Shared Mental Models in a Case Study of Programming Teams</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Collaboration Skills</dc:subject>
+<dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Problem Solving Tool</dc:subject>
+<dc:subject xml:lang="en">Social Constructivism</dc:subject>
+    </dublin_core>

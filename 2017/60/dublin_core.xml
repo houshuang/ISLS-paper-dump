@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wilkerson, Michelle</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shareff, Becca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gravel, Brian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaban, Yara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Laina, Vasiliki</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wilkerson, M., Shareff, B., Gravel, B., Shaban, Y., &amp; Laina, V.&#x20;(2017).&#x20;Exploring Computational Modeling Environments as Tools to Structure Classroom-Level Knowledge Building&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.60</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Although computational modeling is noted as a powerful way to engage students in scientific knowledge construction, many studies focus on individuals or small groups. Here, we explore computational modeling as an infrastructure to support classroom level knowledge building. We present data from a two-week study where two fifth grade classrooms modeled evaporation and condensation. We focus our analysis on one group that experienced success with the activity, and another that struggled; these groups’ intended models emphasized random motion and aggregation respectively, two important but complementary molecular behaviors. Both groups’ ideas were incorporated into a collective model designed in consultation with the entire class. We show that computational modeling (1) often required explicit support, but when leveraged productively (2) served a representational role by supporting the elaboration of student ideas about physical mechanism, and (3) served an epistemic role by allowing students to compare, synthesize, and build on other’s contributions.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Computational Modeling Environments as Tools to Structure Classroom-Level Knowledge Building</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+<dc:subject xml:lang="en">Collaboration Skills</dc:subject>
+<dc:subject xml:lang="en">Mathematics Education</dc:subject>
+    </dublin_core>

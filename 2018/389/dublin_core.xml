@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bruner-Timmons, Joan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nistor, Nicolae</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stanciu, Ionuț Dorin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bruner-Timmons, J., Nistor, N., &amp; Stanciu, I. D.&#x20;(2018).&#x20;Rethinking TPACK in the Digital Age:  Non-Linear Relationships between Learning by Design, Teachers’ Technology-Related Knowledge and  Technology Integration in the Classroom.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1553</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teachers are increasingly required to integrate educational technology in the classroom, therefore to acquire and practically apply technology-related knowledge. This knowledge was described by the TPACK (Technological, Pedagogical and Content Knowledge) framework, and it is assumed to be best acquired by teachers’ participation in Learning by Design (LbD) practice. However, little is known about the relationships between LbD, TPACK and technology integration (TI) in the classroom. A survey involving N = 101 US American secondary school mathematics teachers was conducted in a northeastern state to address this research gap and, surprisingly, it revealed non-linear relationships. These suggest that, while TPACK partially mediates the LbD-TI relationship as expected, technological knowledge can have a saturation effect on TI, and both LbD and TPACK can, under certain circumstances, decrease TI. Consequences for further research and teacher professional development practice are discussed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Rethinking TPACK in the Digital Age:  Non-Linear Relationships between Learning by Design, Teachers’ Technology-Related Knowledge and  Technology Integration in the Classroom</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">TPACK</dc:subject>
+<dc:subject xml:lang="en">non-linear relationships</dc:subject>
+<dc:subject xml:lang="en">technology-based teaching</dc:subject>
+<dc:subject xml:lang="en">math teaching</dc:subject>
+    </dublin_core>

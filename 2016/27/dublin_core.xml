@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Knight, Simon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Allen, Laura</dcvalue>
+<dcvalue element="contributor" qualifier="author">Littleton, Karen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rienties, Bart</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tempelaar, Dirk</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Knight, S., Allen, L., Littleton, K., Rienties, B., &amp; Tempelaar, D.&#x20;(2016).&#x20;Writing Analytics for Epistemic Features of Student Writing&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.27</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Literacy, encompassing the ability to produce written outputs from the reading of multiple sources, is a key learning goal. Selecting information, and evaluating and integrating claims from potentially competing documents is a complex literacy task. Prior research exploring differing behaviours and their association to constructs such as epistemic cognition has used ‘multiple document processing’ (MDP) tasks. Using this model, 270 paired participants, wrote a review of a document. Reports were assessed using a rubric associated with features of complex literacy behaviours. This paper focuses on the conceptual and empirical associations between those rubric-marks and textual features of the reports on a set of natural language processing (NLP) indicators. Findings indicate the potential of NLP indicators for providing feedback regarding the writing of such outputs, demonstrating clear relationships both across rubric facets and between rubric facets and specific NLP indicators.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Writing Analytics for Epistemic Features of Student Writing</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;epistemic cognition&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;literacy education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;writing analytics&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning analytics&lt;/dc:subject&gt;
+    </dublin_core>

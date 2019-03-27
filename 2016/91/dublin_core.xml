@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Orton, Kai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weintrop, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Beheshti, Elham</dcvalue>
+<dcvalue element="contributor" qualifier="author">Horn, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jona, Kemi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wilensky, Uri</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Orton, K., Weintrop, D., Beheshti, E., Horn, M., Jona, K., &amp; Wilensky, U.&#x20;(2016).&#x20;Bringing Computational Thinking Into High School Mathematics and Science Classrooms&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.91</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Computation is reshaping modern science and mathematics practices, but relatively few students have access to, or take, courses that adequately prepare them for the increasingly technological nature of these fields. Further, students who do study computational topics tend to not reflect the greater student body, with female and minority students being disproportionately underrepresented. To address these issues, we investigate the approach of embedding computational thinking content into required high school mathematics and science coursework. Using data from a 3-year implementation, we present results showing differences in attitudes towards computing by gender, while also finding similar gaps do not correlate with aptitude. Using pre/post measures, we then show female participants expressed improved confidence with computational thinking and interest in STEM careers. Additionally, we report a dosage effect, where participating in more activities resulted in greater learning gains, providing evidence in support of embedding computational thinking enhanced activities across high school curriculum.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Bringing Computational Thinking Into High School Mathematics and Science Classrooms</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;computational thinking&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;high school mathematics and science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;broadening participation&lt;/dc:subject&gt;
+    </dublin_core>

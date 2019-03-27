@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tissenbaum, Mike</dcvalue>
+<dcvalue element="contributor" qualifier="author">Matuk, Camillia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Berland, Matthew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lyons, Leila</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cocco, Felipe</dcvalue>
+<dcvalue element="contributor" qualifier="author">Linn, Marcia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Plass, Jan L.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hajny, Nik</dcvalue>
+<dcvalue element="contributor" qualifier="author">Olsen, Al</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schwendimann, Beat</dcvalue>
+<dcvalue element="contributor" qualifier="author">Boroujeni, Mina Shirvani</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vitale, Jonathan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gerard, Libby</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tissenbaum, M., Matuk, C., Berland, M., Lyons, L., Cocco, F., Linn, M., Plass, J. L., Hajny, N., Olsen, A., Schwendimann, B., Boroujeni, M. S., Slotta, J. D., Vitale, J., Gerard, L., &amp; Dillenbourg, P.&#x20;(2016).&#x20;Real-Time Visualization of Student Activities to Support Classroom Orchestration&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.175</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Data logged within technology-based learning environments have the potential to support instructors’ orchestration of learner activities. Whereas many learning environments now feature student and teacher dashboards, which promote reflection on activities after the fact, the affordances of displaying these data in real time is only beginning to be explored. To be useful, however, these data must be made accessible and actionable. This interactive demonstration will showcase designs for technologies that visualize student activities in real-time during technology-enhanced activities, with the aim of supporting instructors’ orchestration. Together, they  projects from various contexts with similar goals, it highlights common challenges, issues, and strategies with regard to the design and implementation of these tools. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Real-Time Visualization of Student Activities to Support Classroom Orchestration</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;classroom orchestration&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;information visualization&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;real-time data&lt;/dc:subject&gt;
+    </dublin_core>

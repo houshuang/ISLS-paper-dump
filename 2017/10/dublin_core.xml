@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Asterhan, Christa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bouton, Edith</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Asterhan, C. &amp; Bouton, E.&#x20;(2017).&#x20;Secondary school peer-to-peer knowledge sharing through social network technologies&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.10</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The promise of social network technology for learning purposes has been heavily debated, with proponents highlighting its transformative qualities and opponents its distracting potential. However, very little is known about the actual, everyday use of ubiquitous social network technologies for learning and study purposes in secondary schools. In the present work, we present findings from two survey studies on representative samples of Israeli, Hebrew-speaking teenagers (N = 206 and N = 515) which explored the scope, characteristics and reasons behind such activities. Findings show that such practices can be described best as online knowledge sharing, that is: the up- and downloading of knowledge and knowledge sources to social network peer groups. This teenage, school-related knowledge sharing is common and widespread, entails different types of knowledge, and is mainly motivated by prosocial motives, as well as expectations for future reciprocation. Sharing is predicted by individual differences, such as gender, collectivist values, mastery goal orientations and academic self-efficacy. Relations between competitive-individualist values and sharing are more complex, and are, among others, moderated by expectations for future benefits. Implications for educational practices and for collaborative learning theories are discussed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Secondary school peer-to-peer knowledge sharing through social network technologies</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Design Experiments</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Inquiry Learning</dc:subject>
+<dc:subject xml:lang="en">Primary School</dc:subject>
+<dc:subject xml:lang="en">Innovative Design Approach</dc:subject>
+    </dublin_core>

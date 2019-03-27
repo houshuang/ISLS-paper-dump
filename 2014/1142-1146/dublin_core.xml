@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Geller, Benjamin D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gouvea, Julia S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sawtelle, Vashti</dcvalue>
+<dcvalue element="contributor" qualifier="author">Turpen, Chandra</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Geller, B. D., Gouvea, J. S., Sawtelle, V., &amp; Turpen, C.&#x20;(2014).&#x20;Sources of Affect around Interdisciplinary Sense Making.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1142-1146.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1142</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We unpack an episode in which a case study student in an Introductory Physics for Life Scientists (IPLS) course experiences positive and negative affect coupled to sources of frustration and satisfying resolution. We argue that the positive affect that the student experiences stems from an alignment between his identification as a sense-maker and his epistemological view of this physics course as one that that values sense-making. Conversely, we attribute his frustration to a tension between his identity and his epistemological view of his biology courses as descriptive and fact-driven. We discuss some implications of this model for students engaged in interdisciplinary sense-making more generally. In particular, we suggest that Gavin's frustration with the lack of attention to mechanism in his biology courses might ultimately serve to strengthen his sense of interdisciplinary connectedness and satisfaction.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Sources of Affect around Interdisciplinary Sense Making</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

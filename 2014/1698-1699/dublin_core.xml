@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">McCallie, Ellen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hoadley, Christopher</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ford, Michael J.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:52Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:52Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">McCallie, E., Hoadley, C., &amp; Ford, M. J.&#x20;(2014).&#x20;Writing Competitive Proposals for Programs in NSF's Division of Research in Learning in Formal and Informal Settings.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1698-1699.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1698</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The National Science Foundation supports innovative research, development, and evaluation of learning and teaching across STEM settings. This workshop focuses on understanding the priorities of DRL's programs and provides guidance in writing competitive, high quality proposals. The workshop is structured to include opportunities for collaborative work, discussion, and questions. The content of the workshop includes: 1) STEM educational research in DRL; 2) priorities and changes in DRL's major programs, 3) NSF's proposal review process; and (4) characteristics of competitive and poorly-rated proposals. Both novice and experienced researchers are encouraged join in the discussions and to bring proposal concepts for discussion.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Writing Competitive Proposals for Programs in NSF's Division of Research in Learning in Formal and Informal Settings</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

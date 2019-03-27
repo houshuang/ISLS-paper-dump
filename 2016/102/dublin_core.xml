@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Vedder-Weiss, Dana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Segal, Aliza</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lefstein, Adam</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:22Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:22Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Vedder-Weiss, D., Segal, A., &amp; Lefstein, A.&#x20;(2016).&#x20;Managing Threats to Teacher Face in Discussions of Video-Recorded Lessons&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.102</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Scholars and educators are increasingly enthusiastic about the potential benefits of video-based teacher learning. However, collaborative analysis of video is a complex social endeavor entailing numerous obstacles to learning, central among them face threats. In this study, we use linguistic ethnographic methods to investigate the implications for teacher face of using video in professional development, and the implications of teacher facework for their learning. We analyze 15 case studies of video-based discussions in school-based teacher teams, identifying and classifying face-threatening acts and the facework involved in responding to them. We then identify and analyze exemplary cases involving key facework strategies (face threat avoidance, face defending, and face correction), focusing on the ways these strategies opened up or closed down opportunities for learning. This study will contribute to our understanding of the interaction of social and cognitive dimensions of professional learning in general, and of teacher facework in video-based professional development.     </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Managing Threats to Teacher Face in Discussions of Video-Recorded Lessons</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;teacher learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;video-based professional learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;face&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;linguistic ethnography&lt;/dc:subject&gt;
+    </dublin_core>

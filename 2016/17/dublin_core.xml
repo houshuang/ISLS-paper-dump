@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Yoon, Susan A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hmelo-Silver, Cindy E.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Yoon, S. A. &amp; Hmelo-Silver, C. E.&#x20;(2016).&#x20;What Do Learning Scientists Do? A Survey of the ISLS Membership&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.17</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study responds to an often asked question, what do learning scientists do? Earlier attempts to answer this question came from a need to define a new field of educational research. However, as we have grown into a robust and highly productive society, self-referential methods for describing the membership is prudent to gain a more accurate understanding of where, for whom, and what kinds of learning sciences research and practices take place. Here we report on the responses of 253 ISLS members from a survey conducted in 2014. We discuss implications of the findings in terms of the types of impact learning scientists have, how we might use these results for advising prospective students, and ways that we might use this to create our future.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">What Do Learning Scientists Do? A Survey of the ISLS Membership</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;learning sciences&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;community&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;members&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;research fields&lt;/dc:subject&gt;
+    </dublin_core>

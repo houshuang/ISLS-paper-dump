@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kozlov, Michail D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Engelmann, Tanja</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kolodziej, Richard</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clariana, Roy B.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kozlov, M. D., Engelmann, T., Kolodziej, R., &amp; Clariana, R. B.&#x20;(2014).&#x20;Improving Online Collaboration by Fostering Norm-Oriented Content Based Knowledge Awareness.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1543-1544.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1543</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In transient online groups, fostering awareness about the content of the partners' knowledge from the outset has been shown to facilitate collaboration. A common problem, however, is lack of compatibility of individually designed knowledge representations. To address this problem, in the current study collaborators were given insight into each other's representation construction processes. As expected, the thus generated normalized representations facilitated the interaction.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Improving Online Collaboration by Fostering Norm-Oriented Content Based Knowledge Awareness</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Suárez, Enrique</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tzou, Carrie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bang, Megan</dcvalue>
+<dcvalue element="contributor" qualifier="author">*, Meixi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Roque, Ricarose</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pinkard, Nichole</dcvalue>
+<dcvalue element="contributor" qualifier="author">McDermott, Raymond</dcvalue>
+<dcvalue element="contributor" qualifier="author">Barron, Brigid</dcvalue>
+<dcvalue element="contributor" qualifier="author">Goldman, Shelley</dcvalue>
+<dcvalue element="contributor" qualifier="author">Luce, Megan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vea, Tanner</dcvalue>
+<dcvalue element="contributor" qualifier="author">Conlin, Luke</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bell, Philip</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martin, Caitlin Kennedy</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Suárez, E., Tzou, C., Bang, M., *, M., Roque, R., Pinkard, N., McDermott, R., Barron, B., Goldman, S., Luce, M., Vea, T., Conlin, L., Bell, P., &amp; Martin, C. K.&#x20;(2018).&#x20;Designing for Axiological Innovation within Family-Centered Learning Environments.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1187</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Learning environments based on axiological innovations (Bang, et al., 2016) recognize the resources learners of all ages bring and value learning based in commitments to expand relationships of collaboration. We take up lines of design-based research focused on the expansive engagement of families, where our goal was to create STEM-based intergenerational learning environments that center family collaboration to transform the process of partnering and increase collective capacity to make sense of the natural world, engage in practices, and reimagine participants’ relationships to technologies (Bang, et al., 2012). The four studies that comprise the symposium shed light on the kinds of axiological innovations that guided the design of learning environments that created equitable and transformative STEM-based learning opportunities for families from nondominant communities. Through the symposium we will explore the implications of family-centered axiological innovation for learning theory and design knowledge related to the articulation of extended, cross-setting learning pathways.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing for Axiological Innovation within Family-Centered Learning Environments</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">STEM</dc:subject>
+<dc:subject xml:lang="en">Axiological Innovations</dc:subject>
+<dc:subject xml:lang="en">Family Learning</dc:subject>
+<dc:subject xml:lang="en">Equitable Design</dc:subject>
+    </dublin_core>

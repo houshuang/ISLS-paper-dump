@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sandoval, William A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kawasaki, Jarod</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cournoyer, Nathan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rodriguez, Lilia</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sandoval, W. A., Kawasaki, J., Cournoyer, N., &amp; Rodriguez, L.&#x20;(2016).&#x20;Secondary Teachers’ Emergent Understanding of Teaching Science Practices&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.95</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Abstract: The Next Generation Science Standards (NGSS) are the latest reform of science education in the United States. The new standards are a radical departure from previous standards in their focus on science practices. Not only have general notions of inquiry been replaced by specific science practices students should learn, but the standards articulate a vision of instruction that places student engagement in science practices as the means though which science concepts should be learned. Teacher educators recognize this shift places profound demands on teachers and teacher learning. We report evidence from the start of an NGSS professional development project on how teachers’ understanding of the science practices emerges from their efforts to re-design instruction to align with them. Our analysis suggests teachers’ initial understanding is quite far from the vision of NGSS. We characterize this understanding and consider its implications for teacher professional development.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Secondary Teachers’ Emergent Understanding of Teaching Science Practices</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;teacher learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science teaching&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;professional development&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;NGSS&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kim, Beaumie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bastani, Reyhaneh</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kim, B. &amp; Bastani, R.&#x20;(2018).&#x20;Game Design Literacy as a Problem-Solving Disposition.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1743</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper, we argue that developing game design literacy supports learners' disciplinary engagement as well as skills needed in different situations in life, especially problem-solving and decision-making. Designing games for both their own learning and others' play challenges learners to develop a disciplinary understanding while transforming their ideas into communicative, coherent, and playable games. We define game design literacy and present our findings on how learners identified and solved problems in designing games.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Game Design Literacy as a Problem-Solving Disposition</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">game design</dc:subject>
+<dc:subject xml:lang="en">interdisciplinary learning</dc:subject>
+<dc:subject xml:lang="en">constructionism</dc:subject>
+<dc:subject xml:lang="en">board game</dc:subject>
+    </dublin_core>

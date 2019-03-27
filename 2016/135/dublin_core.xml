@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Nistor, Nicolae</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dascălu, Mihai</dcvalue>
+<dcvalue element="contributor" qualifier="author">Trăușan-Matu, Ștefan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:00Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:00Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Nistor, N., Dascălu, M., &amp; Trăușan-Matu, Ș.&#x20;(2016).&#x20;Newcomer Integration in Online Knowledge Communities: Exploring the Role of Dialogic Textual Complexity&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.135</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Using online knowledge communities (OKCs) as informal learning environments poses the question how likely these will integrate newcomers as peripheral participants. Previous research has identified surface characteristics of the OKC dialog as integrativity predictors. Yet, little is known about the role of dialogic textual complexity. This contribution proposes a comprehensive approach based on previously validated textual complexity indexes and applies it to predict OKC integrativity. The dialog analysis of N = 14 blogger communities with a total of 1937 participants identified three main components of textual complexity: dialog participation, structure and cohesion. From these, dialog cohesion was higher in integrative OKCs, thus significantly predicting OKC integrativity. This result adds to previous OKC research by uncovering the depth of OKC discourse. For educational practice, the study suggests a way of empowering learners by automatically assessing the integrativity of OKCs in which they may attempt to participate and access community knowledge.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Newcomer Integration in Online Knowledge Communities: Exploring the Role of Dialogic Textual Complexity</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;online knowledge communities&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;natural language processing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;dialogue analysis&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;textual complexity&lt;/dc:subject&gt;
+    </dublin_core>

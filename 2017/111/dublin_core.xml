@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Xuan, Andy Ng Ding</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Teo Chew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sedik, Zahira Mohd</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ling, Lee Yu</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Xuan, A. N., Lee, T. C., Sedik, Z. M., &amp; Ling, L. Y.&#x20;(2017).&#x20;Fostering a Knowledge Building Community in a Primary Social Studies Class to Develop Humanistic View on Real World Problem&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.111</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study examined the nature of reasoning of 30 primary five students working on a social studies topic on ‘Appreciating the World and Region We Live In’, contextualized to a local community, Kampong Buangkok. Results showed that students not only became increasingly motivated in the processes of theorizing and collective solutioning, they were also developing a higher level of consideration for the people and their activities, among spatial and temporal considerations. Also, we found clear evidence that students’ subject-based literacy skills improved significantly over the course of the KB lessons.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Fostering a Knowledge Building Community in a Primary Social Studies Class to Develop Humanistic View on Real World Problem</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Knowledge Building</dc:subject>
+    </dublin_core>

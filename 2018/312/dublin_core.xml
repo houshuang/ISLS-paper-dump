@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lakshmi, T G</dcvalue>
+<dcvalue element="contributor" qualifier="author">Iyer, Sridhar</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lakshmi, T. G. &amp; Iyer, S.&#x20;(2018).&#x20;Exploring Novice Approach to Conceptual Design of Software.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1399</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Engineering graduates are expected to design solutions to solve real world problems. While experts have body of knowledge and heuristics to arrive at solutions, novices do not have such knowledge and hence find it difficult to design solutions. In order to determine the nature of difficulties faced by novices, we conducted a study where novices were required to come up with a conceptual design for a given software design problem. We used the Function-Structure-Behaviour (FSB) lens to analyze the artefacts and the processes. Results from the analysis show that novices were unsuccessful when they fixate to either one or all FSB elements initially.  These results inform the pedagogical strategies for teaching learning of conceptual design in the context of software.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Novice Approach to Conceptual Design of Software</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">software</dc:subject>
+<dc:subject xml:lang="en">conceptual design</dc:subject>
+<dc:subject xml:lang="en">novices</dc:subject>
+<dc:subject xml:lang="en">function-structure-behaviour</dc:subject>
+    </dublin_core>

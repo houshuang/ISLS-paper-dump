@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Grinath, Anna Strimaitis</dcvalue>
+<dcvalue element="contributor" qualifier="author">Southerland, Sherry A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Grinath, A. S. &amp; Southerland, S. A.&#x20;(2018).&#x20;Eliciting Student Explanations in an Undergraduate Biology Laboratory Course.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1451</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Our research described discourse patterns during a planned elicitation discussion in an undergraduate biology laboratory course taught by undergraduate teaching assistants (TAs). We examined how discourse patterns changed from the first to the second semester of the TA’s appointment. Conference participants will discuss the usefulness of organizing discourse patterns within a two dimensional space along axis of TA talk moves for visualizing change in ambitious science teaching practice and the implications for TA professional development.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Eliciting Student Explanations in an Undergraduate Biology Laboratory Course</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">ambitious instruction</dc:subject>
+<dc:subject xml:lang="en">elicitation discussion</dc:subject>
+<dc:subject xml:lang="en">teaching assistant</dc:subject>
+<dc:subject xml:lang="en">professional development</dc:subject>
+    </dublin_core>

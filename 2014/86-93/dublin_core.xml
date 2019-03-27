@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kafai, Yasmin B.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Burke, Quinn</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kafai, Y. B. &amp; Burke, Q.&#x20;(2014).&#x20;Connected Gaming: Towards Integrating Instructionist and Constructionist Approaches in K-12 Gaming.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;86-93.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.86</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this conceptual paper, we argue that K-12 serious gaming should focus on connected gaming, which is signaled by a move from a predominantly instructionist focus on having students play educational games for learning to an increasingly constructionist approach that has students make their own games for learning. Constructionist activities have always been part of the larger gaming ecology but have traditionally received far less attention than their instructionist counterparts. We argue that constructionist gaming approaches promote not only meaningful content and collaboration but also creative and critical skills in the context of coding. We propose that future discussions of serious gaming ought to be inclusive of constructionist approaches to better realize the full potential of gaming as a means to genuinely connect children to technology and to each other and how this potential for more meaningful connectivity can address the persistent access and diversity issues long facing gaming cultures.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Connected Gaming: Towards Integrating Instructionist and Constructionist Approaches in K-12 Gaming</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

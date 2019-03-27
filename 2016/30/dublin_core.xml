@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Curnow, Joe</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Curnow, J.&#x20;(2016).&#x20;Situated Learning, Situated Knowledge: Situating Racialization, Colonialism, and Patriarchy Within Communities of Practice&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.30</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper brings feminist theories of situated knowledge into theorizations of situated learning, arguing that racialization, colonialism, and patriarchy shape members’ experiences of communities of practice. I argue that situated learning must accommodate standpoint epistemologies in order to theorize learning from the margins. Using an environmental activist group, I demonstrate how modes of full participation can be highly racialized, colonial, and gendered in ways that inhibit women and people of colour from being recognized as full participants. Video data from activist actions shows that dominant practices are rooted in standpoints and that the social locations of participants shape their learning, ability, and willingness to participate in racialized, colonial, and gendered modes of participation. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Situated Learning, Situated Knowledge: Situating Racialization, Colonialism, and Patriarchy Within Communities of Practice</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;situated learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;standpoint epistemologies&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;race&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;gender&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;colonialism&lt;/dc:subject&gt;
+    </dublin_core>

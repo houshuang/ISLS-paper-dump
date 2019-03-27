@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lee, Hee-Sun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pallant, Amy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pryputniewicz, Sarah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lord, Trudi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lee, H., Pallant, A., Pryputniewicz, S., &amp; Lord, T.&#x20;(2017).&#x20;Articulating Uncertainty Attribution as Part of Critical Epistemic Practice of Scientific Argumentation&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.21</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Models are important in discovering trends, developing and testing theories, and making predictions about complex systems. Since models cannot represent all known and unknown aspects of how nature operates, claims based on model-based data inevitably contain uncertainty. This study explores (1) how high school students attribute sources of uncertainty when prompted as part of an argumentation task and (2) how intelligent feedback may guide them to become more cognizant about deep uncertainty associated with model-based data. Phenomenological analyses of students’ uncertainty attributions (N = 840) identified five distinct patterns: self-introspection, personal theories and experiences, data source acknowledgement, scientific description based on singular causal accounts and frequency of observations, and deep uncertainty based on epistemic or ontic accounts. Discourse captured on video illustrated how intelligent feedback enhanced uncertainty attribution.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Articulating Uncertainty Attribution as Part of Critical Epistemic Practice of Scientific Argumentation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Experimental Studies</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">Architectures</dc:subject>
+<dc:subject xml:lang="en">Affective Dimensions</dc:subject>
+<dc:subject xml:lang="en">Equity and Gender</dc:subject>
+<dc:subject xml:lang="en">Intelligent Systems</dc:subject>
+<dc:subject xml:lang="en">Virtual Communities</dc:subject>
+<dc:subject xml:lang="en">Group Cognition</dc:subject>
+<dc:subject xml:lang="en">Collaborative Problem Solving Skills</dc:subject>
+<dc:subject xml:lang="en">Interaction Analysis</dc:subject>
+<dc:subject xml:lang="en">Social Constructivism</dc:subject>
+<dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Process Support</dc:subject>
+    </dublin_core>

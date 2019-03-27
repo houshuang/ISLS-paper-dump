@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Knight, Simon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Arastoopour, Golnaz</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaffer, David Williamson</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shum, Simon Buckingham</dcvalue>
+<dcvalue element="contributor" qualifier="author">Littleton, Karen</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Knight, S., Arastoopour, G., Shaffer, D. W., Shum, S. B., &amp; Littleton, K.&#x20;(2014).&#x20;Epistemic Networks for Epistemic Commitments.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;150-157.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.150</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The ways in which people seek and process information are fundamentally epistemic in nature. Existing epistemic cognition research has tended towards characterizing this fundamental relationship as cognitive or belief-based in nature. This paper builds on recent calls for a shift towards activity-oriented perspectives on epistemic cognition and proposes a new theory of `epistemic commitments'. An additional contribution of this paper comes from an analytic approach to this recast construct of epistemic commitments through the use of Epistemic Network Analysis (ENA) to explore connections between particular modes of epistemic commitment. Illustrative examples are drawn from existing research data on children's epistemic talk when engaged in collaborative information seeking tasks. A brief description of earlier analysis of this data is given alongside a newly conducted ENA to demonstrate the potential for such an approach.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Epistemic Networks for Epistemic Commitments</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

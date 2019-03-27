@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Jornet, Alfredo</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Jornet, A.&#x20;(2016).&#x20;Talking Back to the Future: Anatomy of Reflection as Collective Practice&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.20</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Reflection is recognized as crucial for deep learning to occur; yet how it is involved in learning is less understood and often taken for granted as an individual cognitive process. Building on Vygotsky’s methodological insights on unit analysis, I elaborate on an approach that studies reflection as a collective, social and material phenomenon. I define the joint production of accounts of prior experiences as the unit of social interaction that contains all the essential features of anything that can be ascribed to reflection as a cognitive process. Drawing from empirical (interaction) analyses conducted as part of a larger multi-data project on debriefing and retrospective situations, I describe constitutive features of reflection as collective practice. I show how this kind of analysis contributes to an explanation of reflection as learning process in its own right, and not just as a factor that “affects” learning. I conclude discussing theoretical and practical implications.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Talking Back to the Future: Anatomy of Reflection as Collective Practice</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;accountability&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;reflection&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;unit analysis&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Vygotsky&lt;/dc:subject&gt;
+    </dublin_core>

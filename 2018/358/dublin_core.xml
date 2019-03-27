@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wise, Alyssa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Paulus, Trena</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wise, A. &amp; Paulus, T.&#x20;(2018).&#x20;Characterizing Digital Contexts of Collaborative Learning:  An Updated Classification Scheme for Computer-Mediated Communication  .&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1491</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The learning sciences is concerned with studying how learners interact with each other in technologically-mediated environments, but core similarities and differences among tools are rarely addressed, limiting our ability to build a collective knowledge base. To address the issue, we present a revised version of Herring’s (2007) scheme for classifying technological contexts of communication, updated for current technologies and their uses. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Characterizing Digital Contexts of Collaborative Learning:  An Updated Classification Scheme for Computer-Mediated Communication  </dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">CSCL</dc:subject>
+<dc:subject xml:lang="en">computer-mediated communication</dc:subject>
+<dc:subject xml:lang="en">classification</dc:subject>
+<dc:subject xml:lang="en">technological context</dc:subject>
+    </dublin_core>

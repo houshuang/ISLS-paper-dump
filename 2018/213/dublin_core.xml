@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sun, Jingjing</dcvalue>
+<dcvalue element="contributor" qualifier="author">Datu, Emmanuella</dcvalue>
+<dcvalue element="contributor" qualifier="author">Warchola, Gary A</dcvalue>
+<dcvalue element="contributor" qualifier="author">Anderson, Richard C.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sun, J., Datu, E., Warchola, G. A., &amp; Anderson, R. C.&#x20;(2018).&#x20;Emergent Leadership and Its Influence on Collaborative and Individual Reasoning.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.977</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Collaborative discussions that feature argumentation have been shown to benefit children’s reasoning skills and provide an optimal environment for children to strengthen their social skills including emergent leadership. As these social skills develop, it is unclear how they impact the cognitive benefits that children yield from participating in the collaborative discussions. This study examined the immediate and delayed impact of children’s emergent leadership on their reasoning at both the group and individual level. Results showed that among different leadership moves that emerged during collaborative discussions, topic control significantly influences whether the discussion group and individual children consider both sides of a controversial issue. The study implies positive influence of emergent leadership on children’s cognitive development during collaborative discussions.  </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Emergent Leadership and Its Influence on Collaborative and Individual Reasoning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">emergent leadership</dc:subject>
+<dc:subject xml:lang="en">collaborative discussion</dc:subject>
+<dc:subject xml:lang="en">reasoning</dc:subject>
+<dc:subject xml:lang="en">argumentation</dc:subject>
+    </dublin_core>

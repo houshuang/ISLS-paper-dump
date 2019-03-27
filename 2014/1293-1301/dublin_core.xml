@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kumar, Melissa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sengupta-Irving, Tesha</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gresalfi, Melissa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Langer-Osuna, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sfard, Anna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gutiérrez, Kris D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kumar, M., Sengupta-Irving, T., Enyedy, N., Gresalfi, M., Langer-Osuna, J., Sfard, A., &amp; Gutiérrez, K. D.&#x20;(2014).&#x20;Becoming More Mathematical: New Directions for Describing and Designing for Positive Dispositions Toward Mathematics.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1293-1301.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1293</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium brings together researchers interested in studying mathematical proficiency through a focus on students' dispositions toward mathematics - their ideas and affect about mathematics and their patterns of engagement with it. While dispositions are useful for connecting important aspects of students' proficiency, they are also broad and challenging to operationalize in empirical contexts. This symposium aims to promote dialogue around the meaning of dispositions as an analytic construct and to explore their relationship to other constructs relevant to helping learners become mathematical. We also aim to demonstrate that different methodological orientations allow us to see different aspects of what we all agree to call "dispositions". We present empirical work which address two foci within research on dispositions operationalizing in ways that enable documentation in a classroom context, and designing learning environments which foster positive dispositions to mathematics - in addition to a piece that bridges work between the two.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Becoming More Mathematical: New Directions for Describing and Designing for Positive Dispositions Toward Mathematics</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

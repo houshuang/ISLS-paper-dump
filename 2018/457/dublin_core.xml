@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Han, Insook</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Han, I.&#x20;(2018).&#x20;Teacher's Re-design of Virtual Reality Based Curriculum in an Elementary Classroom .&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1689</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This is a qualitative study that explored teacher's use of VR contents in an elementary classroom using a case study approach. Based on the thematic analysis of written reflections, interview transcriptions, and field notes along with teacher-produced artifacts, I provided in-depth descriptions of the entire process of teacher's planning, implementing, evaluating, and revising lessons for using VR. The preliminary analysis revealed that a teacher developed his TPACK of using VR while re-designing VR-based curriculum.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Teacher's Re-design of Virtual Reality Based Curriculum in an Elementary Classroom </dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">TPACK</dc:subject>
+<dc:subject xml:lang="en">teacher learning</dc:subject>
+<dc:subject xml:lang="en">virtual reality</dc:subject>
+<dc:subject xml:lang="en">elementary education</dc:subject>
+    </dublin_core>

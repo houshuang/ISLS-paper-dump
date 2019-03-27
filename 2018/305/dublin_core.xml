@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Karumbaiah, Shamya</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rahimi, Seyedahmad</dcvalue>
+<dcvalue element="contributor" qualifier="author">Baker, Ryan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shute, Valerie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dmello, Sidney DMello</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Karumbaiah, S., Rahimi, S., Baker, R., Shute, V., &amp; Dmello, S. D.&#x20;(2018).&#x20;Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding?.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1385</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Digital games have evolved as an engaging medium for learning. This paper studies the interaction between game design and student affective experience. Data from 137 students playing a learning game was analyzed to identify the factors correlating with student frustration. Results suggest that in this well-designed game, conceptual understanding is more predictive of student frustration than the game mechanics. Furthermore, one particular physics concept was associated with significantly more student frustration than other concepts.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Is Student Frustration in Learning Games More Associated with Game Mechanics or Conceptual Understanding?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">learning games</dc:subject>
+<dc:subject xml:lang="en">student affect</dc:subject>
+<dc:subject xml:lang="en">game mechanics</dc:subject>
+<dc:subject xml:lang="en">physics understanding</dc:subject>
+    </dublin_core>

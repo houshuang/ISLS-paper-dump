@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Belland, Brian R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kim, Nam Ju</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weiss, David M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Piland, Jacob</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Belland, B. R., Kim, N. J., Weiss, D. M., &amp; Piland, J.&#x20;(2017).&#x20;High School Students' Collaboration and Engagement With Scaffolding and Information as Predictors of Argument Quality During Problem-Based Learning&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.36</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Strong information literacy, collaboration, and argumentation skill are essential to success in problem-based learning (PBL). Computer-based scaffolding can play a key role in helping students enhance these skills during PBL. We examined how information literacy, collaboration, and time spent in various scaffolding sections combine to predict argument quality, and qualitative analysis from the social cognitive framework perspective to explain why significant variables predicted argumentation score. Quantitative results indicated that information literacy, time spent doing individual work, and time spent on the scaffold stages define problem and link evidence to claims significantly predicted argument quality. Qualitative results suggest that there was little connection between the content of the written argument and what students wrote in the scaffold when students spent more time in individual work. Results are discussed in light of the literature.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">High School Students' Collaboration and Engagement With Scaffolding and Information as Predictors of Argument Quality During Problem-Based Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">History</dc:subject>
+<dc:subject xml:lang="en">Handheld/Mobile Devices</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+<dc:subject xml:lang="en">Community Settings</dc:subject>
+<dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">University</dc:subject>
+<dc:subject xml:lang="en">Research Methodologies</dc:subject>
+<dc:subject xml:lang="en">Literacy</dc:subject>
+<dc:subject xml:lang="en">Science Education</dc:subject>
+<dc:subject xml:lang="en">Teacher Education</dc:subject>
+<dc:subject xml:lang="en">Contextual Design</dc:subject>
+<dc:subject xml:lang="en">Constructivism/Constructionism</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Social Constructivism</dc:subject>
+<dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Community Building</dc:subject>
+<dc:subject xml:lang="en">Engagement</dc:subject>
+    </dublin_core>

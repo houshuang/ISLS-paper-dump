@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tate, Erika D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Feng, Mingyu</dcvalue>
+<dcvalue element="contributor" qualifier="author">McElhaney, Kevin W.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tate, E. D., Feng, M., &amp; McElhaney, K. W.&#x20;(2016).&#x20;Designing the Idea Manager to Integrate STEM Content and Practices During a Technology-Based Inquiry Investigation&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.29</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This design study investigates the role of the Idea Manager, a formative technology-based learning tool, in student learning that integrates STEM practices and disciplinary content. We coordinated curriculum and assessment frameworks to design instructional features of a STEMGenetics unit that engages middle school students in a set of interrelated STEM practices: use a model to construct an explanation of the trait expression mechanism in rice plants. Our analysis of 99 student team responses to three embedded assessments generated formative evidence that delineated three tiers of explainers (non-mechanistic, partial mechanistic, and mechanistic). These students differed in their knowledge and abilities to perform these interrelated STEM practices. We discuss implications of the findings for how (a) teachers can differentiate instruction for students of all levels and across a range of STEM disciplines and interrelated sets of practices and (b) technology tools can be designed to support teachers. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing the Idea Manager to Integrate STEM Content and Practices During a Technology-Based Inquiry Investigation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;science practices&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;technology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;student learning&lt;/dc:subject&gt;
+    </dublin_core>

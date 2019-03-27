@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Miller, Emily</dcvalue>
+<dcvalue element="contributor" qualifier="author">Codere, Susan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Krajcik, Joe</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Miller, E., Codere, S., &amp; Krajcik, J.&#x20;(2018).&#x20;Developing Assessment Tasks to Promote Student Sensemaking of Phenomena and Flexible Thinking.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1381</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The knowledge-in-use perspective states that useable knowledge allows for problem solving, explaining real-world phenomena, and constructing new ideas. We developed assessment tasks that measure students’ capacity to solicit and select from an array of the dimensions of scientific knowledge to make sense of an unfamiliar phenomenon. Evidence of knowledge-in-use includes depth of usable knowledge; flexibility in applying various ideas; and a robust community perspective. Our work shows that assessments can measure growth in knowledge-in-use. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Developing Assessment Tasks to Promote Student Sensemaking of Phenomena and Flexible Thinking</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">assessment</dc:subject>
+<dc:subject xml:lang="en">project-based learning</dc:subject>
+<dc:subject xml:lang="en">flexible thinking</dc:subject>
+<dc:subject xml:lang="en">knowledge-in-use</dc:subject>
+    </dublin_core>

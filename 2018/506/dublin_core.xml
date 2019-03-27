@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Dowell, Nia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Poquet, Oleksandra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brooks, Christopher</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Dowell, N., Poquet, O., &amp; Brooks, C.&#x20;(2018).&#x20;Applying Group Communication Analysis to Educational Discourse Interactions at Scale.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1815</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The learning sciences field is in need of new automated methodological approaches that offer deeper insights into the dynamics of learner interaction and discourse across scaled learning platforms. In this paper, we explore MOOC learners’ discourse by employing Group Communication Analysis (GCA), a methodology for quantifying and characterizing the discourse between learners in online interactions. Commonly used approaches in MOOCs derive insight into the learning processes from aggregated text or structural data. In contrast, GCA makes use of linguistic cohesion analysis across sequences of learners’ interactions in multi-party communication. GCA calculates six inter- and intra-personal sociocognitive measures of such interactions and from these identify distinct interaction profiles through a cluster analysis. With this method, we were able to diagnostically reveal four robust profiles amongst MOOC learners. This study presents a unique analysis of the sociocognitive processes that comprise the interaction between learners. The scalability of the methodology opens the door for future research efforts directed towards understanding and improving scaled peer-interactions.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Applying Group Communication Analysis to Educational Discourse Interactions at Scale</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Group Communication Analysis</dc:subject>
+<dc:subject xml:lang="en">MOOCs</dc:subject>
+<dc:subject xml:lang="en">sociocognitive roles</dc:subject>
+<dc:subject xml:lang="en">group interaction</dc:subject>
+<dc:subject xml:lang="en">computational linguistics</dc:subject>
+    </dublin_core>

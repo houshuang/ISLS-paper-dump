@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tierney, Gavin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tierney, G.&#x20;(2018).&#x20;Re-Engaging Youth: Using Discourse Analysis to Explore Individual Agency and Community Belonging.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1619</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">One of the perennial challenges in public education is how to re-engage youth on the margins of education. One of the strategies for re-engaging youth is guiding them into alternative schools. Using Thematic Role Analysis, this paper examines the ways and timeframes that youth identify as agents and members in two alternative school communities. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Re-Engaging Youth: Using Discourse Analysis to Explore Individual Agency and Community Belonging</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Discourse analysis</dc:subject>
+<dc:subject xml:lang="en">engagement</dc:subject>
+<dc:subject xml:lang="en">alternative education</dc:subject>
+<dc:subject xml:lang="en">identity</dc:subject>
+    </dublin_core>

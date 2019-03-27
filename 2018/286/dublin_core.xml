@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lim, Ji Young</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Ji Hyun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lim, Kyu Yon</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lim, J. Y., Lee, J. H., &amp; Lim, K. Y.&#x20;(2018).&#x20;Visual Feedback for Asynchronous Online Interaction: Exploratory Study on the Pattern of Other-regulation.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1347</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This is a descriptive study of the other-regulation pattern in the asynchronous online discussion with the visual feedback. Visual feedback presented as a network diagram delivers intuitive and comprehensive information about the online interactions. Authors analyzed the messages sent and received and compared the data between more interactive and less interactive learners in terms of the other-regulation. The result showed that the other-regulation patterns changed as weekly discussions progressed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Visual Feedback for Asynchronous Online Interaction: Exploratory Study on the Pattern of Other-regulation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">visual feedback</dc:subject>
+<dc:subject xml:lang="en">social network analysis</dc:subject>
+<dc:subject xml:lang="en">co-regulation</dc:subject>
+<dc:subject xml:lang="en">other-regulation</dc:subject>
+    </dublin_core>

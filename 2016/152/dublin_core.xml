@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Strachota, Susanne M.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Strachota, S. M.&#x20;(2016).&#x20;Supporting Calculus Learning Through “Smooth” Covariation&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.152</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Calculus is a passport for STEM-related careers. In response, this thought experiment analyzes the current nature and state of pre-calculus, drawing attention to a common and problematic approach to teaching function. I argue that this approach to function fosters a kind of thinking that conflicts with the kind of thinking required for a conceptual understanding of calculus and suggest one way to support teaching and learning of pre-calculus is to highlight the features of function that are fundamental to calculus. I suggest that this can be done through carefully constructed mathematical tasks and present a framework for task development.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Supporting Calculus Learning Through “Smooth” Covariation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;covariation&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;pre-calculus&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;calculus&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;smooth function&lt;/dc:subject&gt;
+    </dublin_core>

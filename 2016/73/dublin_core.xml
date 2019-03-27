@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Dornfeld, Catherine L.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puntambekar, Sadhana</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Dornfeld, C. L. &amp; Puntambekar, S.&#x20;(2016).&#x20;Negotiation Towards Intersubjectivity and Impacts on Conceptual Outcomes&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.73</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">To achieve a collective goal, students collaborating in groups must share their interpretations of the goal to negotiate a shared understanding, or establish intersubjectivity, before making progress towards that goal. To investigate negotiation towards intersubjectivity along with students’ conceptual outcomes, we studied the discourse of two groups of middle-school students who participated in a 12-week science curriculum. We also evaluated differences in scores on a physics assessment. We found differences in how groups negotiated shared understandings of tasks and concepts and how they participated in conceptual discourse. Group A required significantly more instances of negotiation to establish intersubjectivity compared to Group B, indicating that Group A struggled with establishing shared understandings. Students in Group A also demonstrated greater variance in conceptual discourse and assessment scores, whereas Group B demonstrated more aligned conceptual outcomes. These results indicate that effective negotiation for establishing intersubjectivity is not only an important first step for students’ participation in conceptual discourse, but also for achieving balanced learning gains across group members.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Negotiation Towards Intersubjectivity and Impacts on Conceptual Outcomes</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;CSCL&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;intersubjectivity&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning outcomes&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Slattery, Brian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lyons, Leilah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pazmino, Priscilla Jimenez</dcvalue>
+<dcvalue element="contributor" qualifier="author">Silva, Brenda A. López</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Slattery, B., Lyons, L., Pazmino, P. J., Silva, B. A., &amp; Moher, T.&#x20;(2014).&#x20;How Interpreters Make Use of Technological Supports in an Interactive Zoo Exhibit.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;198-205.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.198</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Informal science institutions are depending more and more on dynamic, technology-enabled exhibits. These engaging firsthand experiences often need to be contextualized so that peripheral audiences are able to learn from them. We investigate how interpreters (a.k.a. docents, explainers) equipped with a tablet support tool (TST) are able to facilitate learning in a dynamic exhibit with high visitor traffic. This TST focused on re- representing user performance in the exhibit, and was designed to help interpreters shape visitor discourse and inquiry. Four cases are presented to illustrate how interpreters orchestrate their collaborative facilitation when a meditational tool is present, and how the epistemological role of TST shifts. We document interpreters successfully using TSTs to coordinate shifts in facilitation based on the state of the interactive exhibit, and using live data representations to connect visitors' personal experiences with exhibit content, demonstrating several potential uses of TSTs as mediational tools for dynamic exhibits.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">How Interpreters Make Use of Technological Supports in an Interactive Zoo Exhibit</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

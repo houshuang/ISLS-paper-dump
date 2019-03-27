@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ruis, Andrew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Siebert-Evenstone, Amanda</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pozen, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Eagan, Brendan R</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shaffer, David Williamson</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ruis, A., Siebert-Evenstone, A., Pozen, R., Eagan, B. R., &amp; Shaffer, D. W.&#x20;(2018).&#x20;A Method for Determining the Extent of Recent Temporal Context in Analyses of Complex, Collaborative Thinking.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1625</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study presents an empirical method for measuring recent temporal context in collaborative interactions, which can be used to warrant a choice of window length in moving window analyses of complex, collaborative thinking and other interactive learning processes.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Method for Determining the Extent of Recent Temporal Context in Analyses of Complex, Collaborative Thinking</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">recent temporal context</dc:subject>
+<dc:subject xml:lang="en">moving window</dc:subject>
+<dc:subject xml:lang="en">discourse analysis</dc:subject>
+<dc:subject xml:lang="en">epistemic network analysis</dc:subject>
+    </dublin_core>

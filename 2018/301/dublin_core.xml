@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Diana, Nicholas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Eagle, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stamper, John</dcvalue>
+<dcvalue element="contributor" qualifier="author">Grover, Shuchi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bienkowski, Marie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Basu, Satabdi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Diana, N., Eagle, M., Stamper, J., Grover, S., Bienkowski, M., &amp; Basu, S.&#x20;(2018).&#x20;Peer Tutor Matching for Introductory Programming: Data-Driven Methods to Enable New Opportunities for Help.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1377</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The number of students that can be helped in a given class period is limited by the time constraints of the class and the number of agents available for providing help. We use a classroom-replay of previously collected data to evaluate a data-driven method for increasing the number of students that can be helped. We use a machine learning model to identify students who need help in real-time, and an interaction network to group students who need similar help together using approach maps. By assigning these groups of struggling students to peer tutors (as well the instructor), we were able to more than double the number of students helped.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Peer Tutor Matching for Introductory Programming: Data-Driven Methods to Enable New Opportunities for Help</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Introductory Programming</dc:subject>
+<dc:subject xml:lang="en">Peer Tutoring</dc:subject>
+<dc:subject xml:lang="en">Computer Science Education</dc:subject>
+<dc:subject xml:lang="en">Interaction Networks</dc:subject>
+    </dublin_core>

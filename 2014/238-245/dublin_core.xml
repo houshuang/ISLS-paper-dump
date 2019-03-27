@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Richter, Christoph</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lembke, Julia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ruhl, Elisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Allert, Heidrun</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Richter, C., Lembke, J., Ruhl, E., &amp; Allert, H.&#x20;(2014).&#x20;Creativity as Practice(d) in a Design Studio.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;238-245.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.238</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Although the social and cultural dimension of creativity has been emphasized for quite some time, there is neither a consensus on how creativity can be nurtured nor on what it is to become creative. Adopting a practice-oriented perspective, this paper reports on an ethnographic study in a studio-based course on Interface Design. Drawing on observations and students' narrative accounts of their working processes, the local design studio is portrayed as a well-attuned system of structural elements, patterns of interaction and epistemic assumptions. The findings reveal basic similarities but also significant differences with other studies on educational design studios. It is suggested that these differences are due to differences in the epistemic frames enacted.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Creativity as Practice(d) in a Design Studio</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

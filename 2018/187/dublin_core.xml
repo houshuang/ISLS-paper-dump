@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bumbacher, Engin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hossain, Zahid</dcvalue>
+<dcvalue element="contributor" qualifier="author">Riedel-Kruse, Ingmar</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blikstein, Paulo</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bumbacher, E., Hossain, Z., Riedel-Kruse, I., &amp; Blikstein, P.&#x20;(2018).&#x20;Design Matters: The Impact of Technology Design on Students’ Inquiry Behaviors. .&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.839</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Recent curricular frameworks consider science inquiry as an intertwined set of practices revolving around data, models and theory. This poses major challenges on the design of tools to support science inquiry. We developed a novel hybrid technology for biology classrooms that combines remote laboratories with modeling tools. How to design such systems is of fundamental importance because the design influences students’ learning processes (deJong, Linn &amp; Zacharia, 2013). We examined the impact of the design of the modeling interface on learning, using two designs that differ in the type of visual feedback and the degrees of freedom for exploration. We found that neither of the designs was categorically better; rather, they were conducive to different forms of engagement in the inquiry activity, each offering distinct affordances for learning. This suggests that designers of technology for science inquiry need to be explicit about desired learning goals and forms of engagement.  </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Design Matters: The Impact of Technology Design on Students’ Inquiry Behaviors. </dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">science inquiry</dc:subject>
+<dc:subject xml:lang="en">remote laboratories</dc:subject>
+<dc:subject xml:lang="en">inquiry strategy</dc:subject>
+<dc:subject xml:lang="en">modeling</dc:subject>
+<dc:subject xml:lang="en">interactive biology</dc:subject>
+    </dublin_core>

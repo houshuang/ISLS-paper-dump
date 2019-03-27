@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Fincher, Sally</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dziallas, Sebastian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brandes, Ofra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kolikant, Yifat Ben-David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Shapiro, R. Benjamin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:40Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:40Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Fincher, S., Dziallas, S., Brandes, O., Kolikant, Y. B., &amp; Shapiro, R. B.&#x20;(2016).&#x20;Negotiating Academic Communities: Narratives of Life-long Learners&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.166</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We bring together three case studies in computer science and engineering which were launched for the same purpose: to understand what participants – students, high-school teachers, and university teachers – considered themselves to be significant in their pursuit of professional growth and what empowered and disempowered them. All three studies use narrative methods, although in different ways. The studies share two findings: (a) participants were engaged in processes of becoming or being life-long learners, and (b) the importance of community in their narratives.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Negotiating Academic Communities: Narratives of Life-long Learners</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;computer science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;narrative methods&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;community&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;life-long learning&lt;/dc:subject&gt;
+    </dublin_core>

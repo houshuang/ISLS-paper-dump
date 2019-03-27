@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schneider, Bertrand</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cuendet, Sebastien</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zufferey, Guillaume</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pea, Roy</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., &amp; Pea, R.&#x20;(2016).&#x20;Detecting Collaborative Dynamics Using Mobile Eye-Trackers&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.68</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Prior work has successfully described how low and high-performing dyads of students differ in terms of their visual synchronization (e.g., Barron, 2000; Jermann, Mullins, Nuessli &amp; Dillenbourg, 2011). But there is far less work analyzing the diversity of ways that successful groups of students use to achieve visual coordination. The goal of this paper is to illustrate how well-coordinated groups establish and sustain joint visual attention by unpacking their different strategies and behaviors. Our data was collected in a dual eye-tracking setup where dyads of students (N=54) had to interact with a Tangible User Interface (TUI). We selected two groups of students displaying high levels of joint visual attention and compared them using cross-recurrence graphs displaying moments of joint attention from the eye-tracking data, speech data, and by qualitatively analyzing videos generated for that purpose. We found that greater insights can be found by augmenting cross-recurrence graphs with spatial and verbal data, and that high levels of joint visual attention can hide a free-rider effect (Salomon &amp; Globerson, 1989). We conclude by discussing implications for automatically analyzing students’ interactions using dual eye-trackers.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Detecting Collaborative Dynamics Using Mobile Eye-Trackers</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Joint Visual Attention&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Collaborative Learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Dual Eye-trackers&lt;/dc:subject&gt;
+    </dublin_core>

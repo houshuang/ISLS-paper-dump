@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Choi, Gi Woong</dcvalue>
+<dcvalue element="contributor" qualifier="author">Land, Susan M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zimmerman, Heather Toomey</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Choi, G. W., Land, S. M., &amp; Zimmerman, H. T.&#x20;(2016).&#x20;Educational Affordances of Tablet-Mediated Collaboration to Support Distributed Leadership in Small Group Outdoor Activities&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.127</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper investigates how distributed leadership emerges during tablet-mediated collaboration in an outdoor learning environment. We posit that one of the affordances of mobile technology is to mediate the distributed leadership that emerges among group members during small group activities. A collective case study was conducted to observe how children assume different types of leadership during collaborative tasks. The findings show evidence that supports the mediating role of tablet computers on the emergence of distributed leadership during a collaborative group task.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Educational Affordances of Tablet-Mediated Collaboration to Support Distributed Leadership in Small Group Outdoor Activities</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;: distributed leadership&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;educational affordances&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;outdoor learning environment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;device-mediated collaboration&lt;/dc:subject&gt;
+    </dublin_core>

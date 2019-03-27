@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hjorth, Arthur</dcvalue>
+<dcvalue element="contributor" qualifier="author">Krist, Christina</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hjorth, A. &amp; Krist, C.&#x20;(2016).&#x20;Unpacking Social Factors in Mechanistic Reasoning (Or, Why a Wealthy Person is Not Exactly Like a Grey Squirrel)&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.130</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Mechanistic reasoning in social domains is understudied. We speculate that the ways that students reason about social phenomena share enough similarities with how they reason about physical and life sciences that we can use existing work on mechanistic reasoning to characterize students’ explanations of social phenomena. We apply an existing framework for analyzing student reasoning about life sciences to students’ explanations of a social phenomenon relating to urban planning.  In comparing these analyses, we propose a component of student reasoning that may be specific to reasoning about social phenomena: social factor backing. We show that incorporating this component into the existing framework providers a fuller account of our data.  Finally, we discuss why we think this element could be important for future studies of students’ mechanistic reasoning about social phenomena.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Unpacking Social Factors in Mechanistic Reasoning (Or, Why a Wealthy Person is Not Exactly Like a Grey Squirrel)</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;mechanistic reasoning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;social science education&lt;/dc:subject&gt;
+    </dublin_core>

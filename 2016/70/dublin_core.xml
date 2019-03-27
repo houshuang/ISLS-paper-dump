@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hickey, Daniel T.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hickey, D. T.&#x20;(2016).&#x20;Competency-Based Digital Badges and Credentials: Cautions and Potential Solutions From the Field&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.70</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper explores tensions that repeatedly surface alongside significant advances in instructional technology. One such recent advance concerns open digital badges that contain specific claims of competency and detailed evidence supporting those claims. Some assume that badges should only contain claims and evidence concerning specific measured competencies, while dismissing badges for participating in courses or activities that lack such evidence as “attendance badges.” Others assume awarding badges only for measured competencies bypasses very important forms of social and inquiry-oriented learning, ignores the limitations of assessment and measurement, and limits the transformative potential of web-enabled evidence-rich credentials. An extended study of the 29 projects in the 2012 Badges for Lifelong Learning initiative provided a unique opportunity to explore this enduring debate. None of six efforts to create competency-based open badge systems resulting in thriving ecosystems.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Competency-Based Digital Badges and Credentials: Cautions and Potential Solutions From the Field</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;digital badges&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;metadata&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;competency-based education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;constructivism&lt;/dc:subject&gt;
+    </dublin_core>

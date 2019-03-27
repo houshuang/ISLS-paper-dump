@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Chen, Jingping</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhang, Jianwei</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Chen, J. &amp; Zhang, J.&#x20;(2016).&#x20;Design Collaborative Formative Assessment for Sustained Knowledge Building Using Idea Thread Mapper&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.84</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This design-based study investigated collaborative formative assessment for knowledge building in two comparable Grade 6 science classrooms. Students assessed their collective knowledge progress using the Idea Thread Mapper (ITM)—a timeline-based collective discourse mapping tool—and planned for further efforts to address deeper issues. Analysis of students’ online discourse and individual portfolio notes suggests the positive impact of the assessment on the community’s knowledge building discourse as reflected in students’ idea-deepening and idea-elaborating questions, refined explanations, and build-on connections; and on student scientific understandings as documented in their individual portfolio notes.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Design Collaborative Formative Assessment for Sustained Knowledge Building Using Idea Thread Mapper</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;collaborative formative assessment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;collective knowledge&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Idea Thread Mapper&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;knowledge building&lt;/dc:subject&gt;
+    </dublin_core>

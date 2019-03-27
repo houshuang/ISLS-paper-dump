@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Nistor, Nicolae</dcvalue>
+<dcvalue element="contributor" qualifier="author">Serafin, Yvonne</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Nistor, N. &amp; Serafin, Y.&#x20;(2017).&#x20;Newcomer Integration Strategies in Blogger Online Knowledge Building Communities: A Dialog Analysis&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.78</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Online knowledge building communities (OKBCs) are sustainable over longer periods of time only if they constantly integrate newcomers. Previous research, based on self-reported data, suggest that OKBC members intentionally use strategies such as advertising, positive or negative welcoming, knowledge assessment, mentoring, or consistent newcomer training. Based on dialog analysis of approx. 143,000 comments produced by 2085 participants during one year in twelve blogger OKBCs, this study confirms the use of newcomer integration strategies. Moreover, it refines and structures the analysis instrument, describing three categories of strategies (recruiting activities, practice-oriented interaction, and socializing) with further sub-categories, thus contributing to a deeper understanding of socio-cognitive processes in OKBCs, and potentially to extending Social Knowledge Analytics applications in CSCL.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Newcomer Integration Strategies in Blogger Online Knowledge Building Communities: A Dialog Analysis</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Knowledge Building</dc:subject>
+<dc:subject xml:lang="en">Discourse Analysis</dc:subject>
+<dc:subject xml:lang="en">Online Learning</dc:subject>
+    </dublin_core>

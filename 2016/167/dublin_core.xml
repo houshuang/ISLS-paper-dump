@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hod, Yotam</dcvalue>
+<dcvalue element="contributor" qualifier="author">Charles, Elizabeth S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Acosta, Alisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ben-Zvi, Dani</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chen, Mei-Hwa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Choi, Koun</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dugdale, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kali, Yael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lenton, Kevin</dcvalue>
+<dcvalue element="contributor" qualifier="author">McDonald, Scott P.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Quintana, Rebecca M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rook, Michael M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tietjen, Phil</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weiss, Patrice L. Tamar</dcvalue>
+<dcvalue element="contributor" qualifier="author">Whittaker, Chris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhang, Jianwei</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bielaczyc, Katerine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kapur, Manu</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hod, Y., Charles, E. S., Acosta, A., Ben-Zvi, D., Chen, M., Choi, K., Dugdale, M., Kali, Y., Lenton, K., McDonald, S. P., Moher, T., Quintana, R. M., Rook, M. M., Slotta, J. D., Tietjen, P., Weiss, P. L., Whittaker, C., Zhang, J., Bielaczyc, K., &amp; Kapur, M.&#x20;(2016).&#x20;Future Learning Spaces for Learning Communities: New Directions and Conceptual Frameworks&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.167</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium presents our efforts to reconceptualize learning spaces from their traditional notions as bound and immutable to one where the physical and social boundaries are flexible and dynamically connected to the learning itself. We present the work from five international research centers that consider space as a multi-dimensional mediational tool that shapes, and is shaped by, the learning communities who use them. In each case, researchers will present their innovative spaces along with the learning community frameworks they use to describe and design them. Each study demonstrates specific insights regarding how to conceptualize and design Future Learning Spaces for Learning Communities. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Future Learning Spaces for Learning Communities: New Directions and Conceptual Frameworks</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;future learning spaces&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning communities&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;sociocultural&lt;/dc:subject&gt;
+    </dublin_core>

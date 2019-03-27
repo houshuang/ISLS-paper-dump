@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Peffer, Melanie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Royse, Emily</dcvalue>
+<dcvalue element="contributor" qualifier="author">Abelein, Hannah</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Peffer, M., Royse, E., &amp; Abelein, H.&#x20;(2018).&#x20;Influence of Affective Factors on Practices in Simulated Authentic Science Inquiry .&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.997</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Science literacy is critically important but some aspects, such as epistemological beliefs about science, are difficult to define and assess. New technologies, such as simulated authentic science inquiry, may allow for better assessment of epistemology. Science Classroom Inquiry (SCI) simulations offer real-time, scalable assessment of student practices in authentic science inquiry and by extension their epistemological beliefs about science. Our previous work demonstrated that undergraduate student practices exist on a continuum of sophistication, which may be explained by differences in epistemological beliefs or affective factors like self-efficacy, metacognition, or identity. Our current study examines the relationship between affective factors and inquiry practices. Preliminary analysis suggests that students with expert-like investigations are more likely to identify as a science person. This study raises provocative questions about the intersection between inquiry practices, epistemological beliefs, and affective factors and highlights the potential of simulation-based assessment to examine abstract constructs such as epistemology.  </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Influence of Affective Factors on Practices in Simulated Authentic Science Inquiry </dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">authentic science inquiry</dc:subject>
+<dc:subject xml:lang="en">epistemology</dc:subject>
+<dc:subject xml:lang="en">simulations</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+    </dublin_core>

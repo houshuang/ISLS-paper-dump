@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bell, Philip</dcvalue>
+<dcvalue element="contributor" qualifier="author">Severance, Samuel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Penuel, William R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sumner, Tamara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mommandi, Wagma</dcvalue>
+<dcvalue element="contributor" qualifier="author">Quigley, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Van Horne, Katie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Johnson, Raymond</dcvalue>
+<dcvalue element="contributor" qualifier="author">Stromholt, Shelley</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lakhani, Heena</dcvalue>
+<dcvalue element="contributor" qualifier="author">Davis, Katie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bell, Adam</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bang, Megan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:56Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:56Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bell, P., Severance, S., Penuel, W. R., Sumner, T., Mommandi, W., Quigley, D., Van Horne, K., Johnson, R., Stromholt, S., Lakhani, H., Davis, K., Bell, A., &amp; Bang, M.&#x20;(2016).&#x20;Researchers and Practitioners Co-Designing for Expansive Science Learning and Educational Equity&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.176</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium addresses the design and enactment of learning environments in support of the new vision for K-12 science education (NRC, 2012) and the related collaborative co-design practices of research-practice partnerships (Coburn, Penuel &amp; Geil, 2013) as we focus on how to promote and understand cognitively and culturally expansive learning experiences for youth from culturally and linguistically diverse communities. Each study in our symposium is focused on “developing and testing innovations that can improve the quality and equity of supports for implementation of reforms” in real-world contexts (Penuel &amp; Fishman, 2012, p. 282). The research projects in this symposium document practices and findings of various research practice partnerships that allow participants to work together to imagine and bring about new possibilities for educational improvement that reflect new goals and arrangements for learning. Our aim is to explore responsive co-design methods for holding collaborative design teams of researchers, teachers, and teacher leaders accountable for transforming student learning. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Researchers and Practitioners Co-Designing for Expansive Science Learning and Educational Equity</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;expansive science learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;co-design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design-based research&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;design-based implementation research&lt;/dc:subject&gt;
+    </dublin_core>

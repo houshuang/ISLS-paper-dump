@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Huang, Joey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hmelo-Silver, Cindy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jordan, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Frensley, Troy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gray, Steven</dcvalue>
+<dcvalue element="contributor" qualifier="author">Newman, Greg</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Huang, J., Hmelo-Silver, C., Jordan, R., Frensley, T., Gray, S., &amp; Newman, G.&#x20;(2017).&#x20;Scientific Discourse of Citizen Scientists: A Collaborative Modeling as a Boundary Object&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.54</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this study, we examine participants’ practices in two citizen science projects in order to explore the use of scientific knowledge and practices as they engage in collaborative modeling. They use the Mental Modeler, an online resource to facilitate science engagement and collaboration. This paper applies an analytical approach that uses visual representations to understand the shifts in scientific discourse and interpret complex interaction patterns between participants and facilitators in two citizen science projects. The findings suggest that the Mental Modeler serves as a boundary object that allows participants and facilitators to collaboratively engage with scientific topics and practices through the development of scientific discourse and learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Scientific Discourse of Citizen Scientists: A Collaborative Modeling as a Boundary Object</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Surveys and Questionnaires</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">Science Education</dc:subject>
+<dc:subject xml:lang="en">Interaction Tool</dc:subject>
+<dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Culturally Relevant Pedagogy/Design</dc:subject>
+<dc:subject xml:lang="en">Broadening Participation</dc:subject>
+<dc:subject xml:lang="en">Information Sharing</dc:subject>
+    </dublin_core>

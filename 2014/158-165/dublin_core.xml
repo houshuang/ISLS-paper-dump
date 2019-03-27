@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Pilitsis, Vicky</dcvalue>
+<dcvalue element="contributor" qualifier="author">Duncan, Ravit Golan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Pilitsis, V. &amp; Duncan, R. G.&#x20;(2014).&#x20;Framing Reflections on Instruction: A Precursor to Noticing.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;158-165.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.158</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Noticing is the ability of teachers to attend and interpret student thinking to guide instructional design (van Es &amp;amp; Sherin, 2002). The skills involved in noticing can be challenging to develop in teacher education programs because of the cognitive load involved in attending to the context of the real classroom environment. Teacher education programs can thereby study a precursor to noticing, such as framing. Framing instruction involves developing a range of "seeing" events in the classroom. Thus, preservice teachers must frame their teaching experience in ways that privilege student thinking. In our investigation, we characterized the frames preservice teachers employed in their reflection paper. We found that preservice teachers who used frames that were more attentive to student ideas were more capable at analyzing student understanding in written student artifacts.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Framing Reflections on Instruction: A Precursor to Noticing</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

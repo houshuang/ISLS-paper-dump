@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Cabrera, Lautaro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ahn, June</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yip, Jason</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clegg, Tamara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hernly, Kenna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bonsignore, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pitt, Caroline</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pauw, Daniel</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Cabrera, L., Ahn, J., Yip, J., Clegg, T., Hernly, K., Bonsignore, E., Pitt, C., &amp; Pauw, D.&#x20;(2018).&#x20;Exploring Practices on the Move: Facilitating Learning Across a Neighborhood.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.705</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">As scholars conceive of learning as connected across time, space, and social structures of participation, new questions arise about how to better coordinate learning experiences along those dimensions. In this study, we leverage a design experiment developed with two low-income neighborhoods, to facilitate science learning across the everyday settings of these communities. We focus our analysis here, on how different actors facilitated a common practice that arose organically – probing learners for their understanding – and how that practice moved across different social and material configurations of the neighborhoods. As this practice was taken up by different actors – teachers, parents, and others – we observed the different variations of this practice that learners may experience. By understanding practices on the move, we argue that smart and connected learning ecosystems will require more nuanced noticing, coordination, and layering of different flavors of a practice that can be taken up by a network of actors.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring Practices on the Move: Facilitating Learning Across a Neighborhood</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">community-based learning</dc:subject>
+<dc:subject xml:lang="en">connected learning</dc:subject>
+<dc:subject xml:lang="en">inquiry</dc:subject>
+<dc:subject xml:lang="en">learning practices</dc:subject>
+    </dublin_core>

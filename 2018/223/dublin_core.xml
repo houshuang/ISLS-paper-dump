@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Richards, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Thompson, Jessica</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Richards, J. &amp; Thompson, J.&#x20;(2018).&#x20;“Choose Your Own Adventure”:  Responsive Curricular Choices in Elementary Science.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1017</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The complexity and dynamism of learning raises important considerations about the role and design of curricula, and how teachers interact with curricula. In this study, we explored elementary teachers’ participation with a curricular mini-unit in science that invited them to choose among possible next steps, selecting experiments that would responsively build on student thinking. We coded 41 written segments of teachers’ reasoning about their selected next steps to document varied resources that teachers used in making curricular choices. In the vast majority of segments, we found that teachers drew on student ideas and interests as resources for determining next steps. We also identified four clusters of resources that represent different ways of interacting with students’ contributions, with implications for responsiveness, learning, and equity.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“Choose Your Own Adventure”:  Responsive Curricular Choices in Elementary Science</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">teacher noticing and responsiveness</dc:subject>
+<dc:subject xml:lang="en">curriculum</dc:subject>
+<dc:subject xml:lang="en">elementary science</dc:subject>
+<dc:subject xml:lang="en">resources</dc:subject>
+    </dublin_core>

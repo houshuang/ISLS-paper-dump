@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Spikol, Daniel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ruffaldi, Emanuele</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cukurova, Mutlu</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Spikol, D., Ruffaldi, E., &amp; Cukurova, M.&#x20;(2017).&#x20;Using Multimodal Learning Analytics to Identify Aspects of Collaboration in Project-Based Learning&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.37</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Collaborative learning activities are a key part of education and are part of many common teaching approaches including problem-based learning, inquiry-based learning, and project-based learning. However, in open-ended collaborative small group work where learners make unique solutions to tasks that involve robotics, electronics, programming, and design artefacts evidence on the effectiveness of using these learning activities are hard to find. The paper argues that multimodal learning analytics (MMLA) can offer novel methods that can generate unique information about what happens when students are engaged in collaborative, project-based learning activities. Through the use of multimodal learning analytics platform, we collected various streams of data, processed and extracted multimodal interactions to answer the following question: which features of MMLA are good predictors of collaborative problem-solving in open-ended tasks in project-based learning? Manual entered scores of CPS were regressed using machine-learning methods. The answer to the question provides potential ways to automatically identify aspects of collaboration in project-based learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Using Multimodal Learning Analytics to Identify Aspects of Collaboration in Project-Based Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Descriptive Studies</dc:subject>
+<dc:subject xml:lang="en">Social Network Analysis</dc:subject>
+<dc:subject xml:lang="en">Communication Studies</dc:subject>
+<dc:subject xml:lang="en">Adoption of Technologies</dc:subject>
+<dc:subject xml:lang="en">Student Achievement</dc:subject>
+<dc:subject xml:lang="en">Community Settings</dc:subject>
+<dc:subject xml:lang="en">Life Long Learning</dc:subject>
+<dc:subject xml:lang="en">Portable/Ubiquitous Collaboration</dc:subject>
+<dc:subject xml:lang="en">Workplace</dc:subject>
+<dc:subject xml:lang="en">Knowledge Building</dc:subject>
+<dc:subject xml:lang="en">Longitudinal Studies</dc:subject>
+<dc:subject xml:lang="en">Collaboration Skills</dc:subject>
+<dc:subject xml:lang="en">Teacher Education</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Social Constructivism</dc:subject>
+<dc:subject xml:lang="en">Online Learning</dc:subject>
+<dc:subject xml:lang="en">Community Building</dc:subject>
+<dc:subject xml:lang="en">Engagement</dc:subject>
+<dc:subject xml:lang="en">Reflection</dc:subject>
+    </dublin_core>

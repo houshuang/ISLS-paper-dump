@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wise, Alyssa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cui, Yi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wise, A. &amp; Cui, Y.&#x20;(2018).&#x20;Envisioning a Learning Analytics for the Learning Sciences.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1799</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There is both great excitement and substantial concern within the learning sciences about what educational data science and learning analytics (EDS/LA) have to offer our understanding of learning and ability to support it. This paper lays out three concerns often raised about the use of EDS/LA approaches in learning sciences work: reliance on algorithmic processing over human insight, attention to generalized structures over contextualized processes, and emphasis on empirical findings over theory building. Through an overview of work conducted on the MOOCeology project it then shows specific ways that such concerns can be meaningfully addressed. The paper concludes by elucidating a set of seven initial principles for “learning sciences aware” EDS/LA work and opening the question of to what extent these principles might be appropriate to guide EDS/LA work more broadly.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Envisioning a Learning Analytics for the Learning Sciences</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">learning sciences</dc:subject>
+<dc:subject xml:lang="en">learning analytics</dc:subject>
+<dc:subject xml:lang="en">educational data mining</dc:subject>
+<dc:subject xml:lang="en">Massive Open Online Courses (MOOCs)</dc:subject>
+    </dublin_core>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sullins, Jeremiah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Console, Katie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Denton, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Henrichson, Clayton</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sullins, J., Console, K., Denton, R., &amp; Henrichson, C.&#x20;(2018).&#x20;Identifying Methods to Induce Productive Confusion for Improving Performance in Physics.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1585</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">A gap currently exists in the literature regarding how to most effectively harness the power of confusion in learning. In order to address this gap, the present study sought to explore which methods of confusion induction are most beneficial for deep learning. Results revealed that Breakdown Scenarios were the most effective confusion induction technique compared to a lecture based format. Additionally, significant interactions were discovered between Breakdown Scenarios and the individual difference measures: Attributional Complexity and Goal Orientation. Immediate applications for education are discussed. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Identifying Methods to Induce Productive Confusion for Improving Performance in Physics</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Learning</dc:subject>
+<dc:subject xml:lang="en">Productive Confusion</dc:subject>
+<dc:subject xml:lang="en">Affect</dc:subject>
+<dc:subject xml:lang="en">Cognition</dc:subject>
+    </dublin_core>

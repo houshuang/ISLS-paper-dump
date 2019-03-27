@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Worker, Steven M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ching, Cynthia Carter</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Worker, S. M. &amp; Ching, C. C.&#x20;(2016).&#x20;Examining Tensions Among Youth, Adults, and Curriculum  as Co-Designers in 4-H STEM Learning Through Design Programs&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.43</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This research study explored the relationships between three types of co-designers in 4-H STEM learning through design programs: youth participants, volunteer educators, and the curriculum. Each co-designer was involved in a process of planning and making in order to accomplish a goal to satisfy requirements subject to constraints. The enactment of the learning environment revealed tensions between the co-designers evidenced in participation structures (negotiated between the curriculum and educators); abstract versus concrete approaches (between the educators and youth); and tensions amongst youth peers while engaging in small group design teams (between curriculum and youth). </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Examining Tensions Among Youth, Adults, and Curriculum  as Co-Designers in 4-H STEM Learning Through Design Programs</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;design-based science learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;making &amp; tinkering&lt;/dc:subject&gt;
+    </dublin_core>

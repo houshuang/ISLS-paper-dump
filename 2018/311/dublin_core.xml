@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Forbes, Cory</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chandler, Mark A</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bhattacharya, Devarati</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vo, Tina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Griffin, Jane</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Forbes, C., Chandler, M. A., Bhattacharya, D., Vo, T., &amp; Griffin, J.&#x20;(2018).&#x20;Secondary Students’ Model-Based Reasoning about Earth Systems: Practice, Epistemology, and Conceptual Understanding.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1397</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">To become scientifically-literate, students must develop competence with the use of computer-based models to reason about Earth systems.  In this poster presentation, we share early-stage work spanning multiple projects using technology-enabled modeling tools grounded in ‘big data’ with students in secondary science learning environments.  The poster will showcase the modeling tools and design-based research approaches, as well as provide a context for discussion about theoretical, empirical, and design aspects of the projects. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Secondary Students’ Model-Based Reasoning about Earth Systems: Practice, Epistemology, and Conceptual Understanding</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">scientific modeling</dc:subject>
+<dc:subject xml:lang="en">Earth systems</dc:subject>
+<dc:subject xml:lang="en">secondary science</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+    </dublin_core>

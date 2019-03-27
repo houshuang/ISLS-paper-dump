@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Brasel, Jason</dcvalue>
+<dcvalue element="contributor" qualifier="author">Garner, Brette</dcvalue>
+<dcvalue element="contributor" qualifier="author">Horn, Ilana Seidel</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Brasel, J., Garner, B., &amp; Horn, I. S.&#x20;(2016).&#x20;Scaffolding Into Ambitious Teaching: Representations of Practice in Teacher Workgroups&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.87</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teacher workgroups are increasingly mandated in policy as a strategy for instructional improvement, but without accounting for teacher learning. In this comparative case study, we take a situative view of learning to examine the learning opportunities afforded in workgroup meetings with middle-school math teachers and pedagogically expert facilitators. Using interaction analysis, we analyze the role of representations in affording learning opportunities. The facilitators framed workgroup activity differently than the teachers; learning opportunities were limited when teachers were not able to engage the facilitators’ framings. But by introducing rich representations of practice, the facilitators attuned teachers’ attention to key conceptual resources. This scaffolded the workgroup into new forms of practice, thereby supporting teachers’ opportunities to learn more ambitious forms of professional practice. This work highlights the need for facilitators and instructional leaders to attend to issues of teacher learning in collaborative activity.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Scaffolding Into Ambitious Teaching: Representations of Practice in Teacher Workgroups</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;teacher workgroups&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;representations of practice&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;framings&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning opportunities&lt;/dc:subject&gt;
+    </dublin_core>

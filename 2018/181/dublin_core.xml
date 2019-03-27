@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hickey, Daniel T.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chartrand, Grant</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hickey, D. T. &amp; Chartrand, G.&#x20;(2018).&#x20;Recognizing Competencies vs. Completion vs. Participation: Ideal Roles for Web-Enabled Digital Credentials.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.792</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Open digital badges are new credentials that can contain specific claims and links to web-enabled evidence and can circulate in networks. Badges are helping facilitate broader shifts away from measuring, accrediting, and credentialing achievement and towards capturing, validating, and recognizing learning. A study of 30 funded efforts to develop badges found that none of the efforts to develop competency badges (for demonstration of specific competencies) resulted in thriving badge-based ecosystems, while four of the five efforts to develop participation badges (for engaged participation in social learning) resulted in thriving ecosystems. The findings were more mixed for the remaining efforts to develop completion badges (for individuals completing projects or investigations) and hybrid badges (for multiple types of learning). This suggests that innovators temper their ambition for capturing and recognizing evidence of individual competencies, and consider exploring more social assessments and informal and crowdsourced recognition</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Recognizing Competencies vs. Completion vs. Participation: Ideal Roles for Web-Enabled Digital Credentials</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">digital badges</dc:subject>
+<dc:subject xml:lang="en">microcredentials</dc:subject>
+<dc:subject xml:lang="en">competency-based education</dc:subject>
+<dc:subject xml:lang="en">constructivism</dc:subject>
+<dc:subject xml:lang="en">participation.</dc:subject>
+    </dublin_core>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Zhu, Gaoxia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Scardamalia, Marlene</dcvalue>
+<dcvalue element="contributor" qualifier="author">Khanlari, Ahmad</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wan, Haipeng</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Zhu, G., Scardamalia, M., Khanlari, A., &amp; Wan, H.&#x20;(2017).&#x20;Evaluating the Distribution of Students’ Contributions in Theorizing: Idea Evenness in Knowledge Building Communities&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.105</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Asymmetric collaboration in CSCL environments may lead to exclusion of some students and less idea diversity than needed for a productive, inclusive community. To uncover the degree of asymmetric collaboration, the social entropy index (the sum of relative participation proportions of each individual) was adopted in some studies, but only quantitative indicators (e.g., the number of characters) were considered in the measurement. In this study, we define participation evenness plus the dimension of the quality of students’ notes as “idea evenness”. Adopting the entropy and using the depth of understanding within students’ theorizing notes as the parameter, we analyzed the idea evenness of five Knowledge Building communities. We found that the idea evenness values are high in four of the communities and can reflect the different distributions of students’ depth of understanding in different communities. The results indicate that students participated in theorizing evenly in most knowledge building communities.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Evaluating the Distribution of Students’ Contributions in Theorizing: Idea Evenness in Knowledge Building Communities</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Literacy</dc:subject>
+<dc:subject xml:lang="en">Argumentation</dc:subject>
+<dc:subject xml:lang="en">Representational Affordances</dc:subject>
+<dc:subject xml:lang="en">Representational Tools</dc:subject>
+<dc:subject xml:lang="en">Inquiry Learning</dc:subject>
+<dc:subject xml:lang="en">Scaffolding</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">Situated Learning</dc:subject>
+<dc:subject xml:lang="en">Science Education</dc:subject>
+<dc:subject xml:lang="en">Contextual Design</dc:subject>
+<dc:subject xml:lang="en">Constructivism/Constructionism</dc:subject>
+<dc:subject xml:lang="en">Authoring Tool</dc:subject>
+<dc:subject xml:lang="en">Artifact Analysis</dc:subject>
+<dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Culturally Relevant Pedagogy/Design</dc:subject>
+<dc:subject xml:lang="en">Engagement</dc:subject>
+    </dublin_core>

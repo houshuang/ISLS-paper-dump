@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Smirnov, Natalia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Easterday, Matthew W.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gerber, Elizabeth M.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Smirnov, N., Easterday, M. W., &amp; Gerber, E. M.&#x20;(2016).&#x20;Scaling Studio-Based Learning Through Social Innovation Networks&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.7</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this paper, we articulate a model for scaling Studio-Based Learning (SBL) via a Social Innovation Network (SIN) – a distributed community of design studios collaborating to solve social problems. We report findings from a case study of one SIN called Design for America (DFA), using methods of “ethnography of infrastructure” (Star, 1999) that combine interviews, surveys, and analysis of members’ communication on various channels to understand the ways SBL can be orchestrated as a distributed learning community. We argue that principled design and use of cyberlearning tools and organizational routines can foster sociability and trust among members and promote routing of resources across the network, thereby alleviating orchestration challenges and infrastructuring a more effective environment for innovation and design learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Scaling Studio-Based Learning Through Social Innovation Networks</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;studio-based learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;orchestration&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;networks&lt;/dc:subject&gt;
+    </dublin_core>

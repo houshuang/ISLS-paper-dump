@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lee, Ung-Sang</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gomez, Kimberly</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lee, U. &amp; Gomez, K.&#x20;(2017).&#x20;Participatory Design With Students for Technology Integration: Shifting Power and Organizational Practices in an Urban School&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.108</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper examines how infrastructuring through participatory design (Le Dantec &amp; DiSalvo, 2013) for school technology practices with students reorganized traditional power relations between students and adults, and how such shifts in power relations in turn surfaced new organizational technology practices. Two researchers collaborated with a group of high school students with a shared goal of designing school technology practices that were meaningful to the students. Informed by theories of infrastructuring forms of participatory design (Le Dantec &amp; DiSalvo, 2013), the collaboration explicitly sought to re-mediate the social relations of designing the school’s organizational practices with technology. This study analyzes the development and implementation of a student-designed school technology practice as a case study to examine how infrastructuring forms of participatory design mediated shifts in power relations and organizational practices at the school site. Results indicate that forms of participatory design which seeks to address social relations in the process and outcomes of design can contribute to shifts in student roles within the school and facilitate boundary crossing (Akkerman &amp; Bakker, 2011) in which student goals were reflected in new organizational technology practices.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Participatory Design With Students for Technology Integration: Shifting Power and Organizational Practices in an Urban School</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Knowledge Building</dc:subject>
+<dc:subject xml:lang="en">Discourse Analysis</dc:subject>
+<dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">Collective Regulation/Socio-Metacognition</dc:subject>
+    </dublin_core>

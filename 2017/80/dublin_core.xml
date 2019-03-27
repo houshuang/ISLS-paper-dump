@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Litts, Breanne K.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lui, Debora A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Widman, Sari A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Walker, Justice T.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kafai, Yasmin B.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Litts, B. K., Lui, D. A., Widman, S. A., Walker, J. T., &amp; Kafai, Y. B.&#x20;(2017).&#x20;Reflections on Pair E-Crafting: High School Students’ Approaches to Collaboration in Electronic Textiles Projects&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.80</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Pair programming is one of the most popular and successful collaborative learning activities in computer science education wherein students organized in pairs alternate between writing and guiding coding on the screen. In this paper, we examine a complementary approach by taking pair programming into a tangible space where pairs coded lights and sensors of an Arduino-based microcontroller, designed programmable and functional circuits, and sewed an electronic textile. We analyzed the reflections of 23 students, who worked in pairs over a series of fifteen 90-minute workshop sessions, about their experiences collaborating and communicating across the different domains of e-textiles creation (e.g., design, circuitry, coding, and crafting). Student perceptions highlighted potential causes of these interactions across these multiple domains, which are distinct from pair programming activities. In the discussion, we address how these perceptions inform the design and development of more equitable pair e-crafting arrangements.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Reflections on Pair E-Crafting: High School Students’ Approaches to Collaboration in Electronic Textiles Projects</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Broadening Participation</dc:subject>
+    </dublin_core>

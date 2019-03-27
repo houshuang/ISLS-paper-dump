@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kubsch, Marcus</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nordine, Jeffrey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Neumann, Knut</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fortus, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Krajcik, Joe</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kubsch, M., Nordine, J., Neumann, K., Fortus, D., &amp; Krajcik, J.&#x20;(2018).&#x20;Measuring Integrated Knowledge – A Network Analytical Approach.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1369</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Scientific literacy is an important part of education. Students that demonstrate scientific literacy can organize and coordinate their science ideas to interpret and explain a diverse range of phenomena. However, the complex thinking connected to this ability is not captured by most assessments today. We address this issue by investigating how the little researched construct of knowledge integration which describes how students coordinate their ideas in explanations can be measured using network analysis.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Measuring Integrated Knowledge – A Network Analytical Approach</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">knowledge integration</dc:subject>
+<dc:subject xml:lang="en">network analysis</dc:subject>
+<dc:subject xml:lang="en">assessment</dc:subject>
+<dc:subject xml:lang="en">science &amp; math</dc:subject>
+    </dublin_core>

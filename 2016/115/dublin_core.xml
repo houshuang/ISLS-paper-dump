@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Xiao, Sihan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sandoval, William A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:37Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:37Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Xiao, S. &amp; Sandoval, W. A.&#x20;(2016).&#x20;Resolving Disagreements in Evaluating Epistemic and Disciplinary Claims in Middle School Science&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.115</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Supporting argumentation that fosters not only students’ disciplinary engagement but also their epistemological development is of great importance in science education. Due to constraints of resources and designs, building “productive moments of uncertainty” (Manz, 2015) into the classroom to facilitate argumentation is challenging. This study addresses such challenge by analyzing how 6th graders resolve disagreements when evaluating epistemic and disciplinary claims. Preliminary findings suggest that talking about epistemic concerns without disciplinary engagement is not productive. Embedding epistemic practice in resolving disciplinary disagreements, however uncomplicated it may seem, would foster productive argumentation. Understanding what disagreements are challengingly resolvable and how both epistemic and disciplinary practices play a role in evaluating claims thus sheds needed light on designing effective learning environments that foster deep learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Resolving Disagreements in Evaluating Epistemic and Disciplinary Claims in Middle School Science</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;argumentation&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;evaluation of claims&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;epistemic practice&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;disciplinary engagement&lt;/dc:subject&gt;
+    </dublin_core>

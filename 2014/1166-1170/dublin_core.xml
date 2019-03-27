@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Jordan, Michelle E.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Jordan, M. E.&#x20;(2014).&#x20;Influence of Public Design Critiques on Fifth Graders Collaborative Engineering Design Work.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1166-1170.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1166</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Understanding how young students learn to engage in collaborative design practices entails understanding social interaction processes that occur beyond collaborative groups. The purpose of this study was to understand how talk generated during whole-class public design critique sessions influenced collaborative groups in subsequent small-group work sessions. Analysis focused on data from one fifth-grade class in which students were challenged to collaboratively design, build, and program robots. Video-recorded and transcribed whole-class interactions from three design critique sessions across the second, third, and fourth day of a 14-day robotic engineering design project were examined in order to categorize the types of comments made by the teacher and students relative to the nascent design solutions of three focal groups. Collaborative discourse from subsequent small-group work sessions was then examined in order to understand what ideas students took up, as well as how they took them up and to what effect.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Influence of Public Design Critiques on Fifth Graders Collaborative Engineering Design Work</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

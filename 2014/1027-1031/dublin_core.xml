@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tran, Cathy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schenke, Katerina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hickey, Daniel T.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tran, C., Schenke, K., &amp; Hickey, D. T.&#x20;(2014).&#x20;Design Principles for Motivating Learning with Digital Badges: Consideration of Contextual Factors of Recognition and Assessment.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1027-1031.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1027</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There is broad interest in the use of open digital badges to enhance learners' motivation. These web-enabled tokens of learning and accomplishment have the potential to induce excitement and elicit powerful forms of engagement and learning. Researchers and developers, however, appear divided on the role of digital badges in motivating learners. Our paper addresses the skepticism and promise that surrounds badges and presents the design principles for motivating learning found among 30 digital badge projects and aligns them with research. In doing so, we consider how contextual factors--such as how badges are used recognize learning and how that learning is assessed--may play out to influence learner motivation in badge-oriented learning ecosystems.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Design Principles for Motivating Learning with Digital Badges: Consideration of Contextual Factors of Recognition and Assessment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

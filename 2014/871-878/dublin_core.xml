@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Scipio, Déana</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Scipio, D.&#x20;(2014).&#x20;"Deep Hanging": Mentors Learning and Teaching in Practice.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 2.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;871-878.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.871</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper is a comparative case study focused on the experiences of mentors in a chemical oceanography afterschool program. The study explores "deep hanging"--the term mentors used to describe their experiences learning about the culture of science, scientific research processes, as well as learning they could be- and become- scientists. "Deep hanging" entails authentic tasks in rich contexts, providing access, capitalizing on opportunity, and building interpersonal relationships. Data include reconstructive history interviews with mentors and video of their interactions with youth in the afterschool program. The conceptual framework for this paper explores the ways that constellations of situated events lead to changes in sociomaterial practices overtime. Findings suggest that surfacing and exploring mentors' self-position with respect to STEM is crucial to understanding how they will position youth. These findings have implications for the design of learning environments that seek to broaden participation for non-dominant groups in the sciences.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">"Deep Hanging": Mentors Learning and Teaching in Practice</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

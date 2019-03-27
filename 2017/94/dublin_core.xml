@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Erdmann, Julia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rummel, Nikol</dcvalue>
+<dcvalue element="contributor" qualifier="author">Christmann, Nina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elson, Malte</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hecking, Tobias</dcvalue>
+<dcvalue element="contributor" qualifier="author">Herrmann, Thomas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hoppe, H. Ulrich</dcvalue>
+<dcvalue element="contributor" qualifier="author">Krämer, Nicole C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kyewski, Elias</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wichmann, Astrid</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Erdmann, J., Rummel, N., Christmann, N., Elson, M., Hecking, T., Herrmann, T., Hoppe, H. U., Krämer, N. C., Kyewski, E., &amp; Wichmann, A.&#x20;(2017).&#x20;Challenges in Implementing Small Group Collaboration in Large Online Courses&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.94</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Large online courses typically suffer from a lack of possibilities for social interaction among participants. One approach for facilitating social interaction is small group collaboration. Successfully implementing small group collaboration in online courses, however, is not an easy task. In two iterations of a large online course, we first identified implementation problems and their possible causes (Course 1: N = 270), and subsequently tested possibilities of mitigation and corresponding improvements (Course 2: N = 111). The problems identified in Course 1 included a high dropout rate, low participation in group work, and low course satisfaction. These are typical problems in large online courses. However, their significance increases when they occur in the context of small group collaboration. Changes on the structural but also on the social level in Course 2 improved course satisfaction, but did not lower dropout rate nor did it increase participation in group work. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Challenges in Implementing Small Group Collaboration in Large Online Courses</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">Primary School</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+    </dublin_core>

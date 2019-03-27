@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Yurkofsky, Maxwell</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blum-Smith, Sarah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brennan, Karen</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Yurkofsky, M., Blum-Smith, S., &amp; Brennan, K.&#x20;(2016).&#x20;Expanding Outcomes: Exploring Varied Forms of Teacher Learning in an Online Professional Development Experience&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.44</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The field of teacher professional development has long been characterized by tensions surrounding the articulation and measurement of learning outcomes. These tensions are amplified as new technologies are used to provide online learning experiences that serve larger and more varied audiences. This paper uses a case study of the Creative Computing Online Workshop—a large-scale online learning experience for teachers—to explore the variety and breadth of teacher learning outcomes that can be considered meaningful. Through in-depth interviews with teacher participants we find that teachers make use of their learning in four distinct, but related, ways: engagement with new ideas, varied enactment in practice, rethinking of role and identity, and changing interaction with the world outside their classroom. We conclude by considering the implications of this expanded framework of teacher learning for future design and evaluation of professional development.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Expanding Outcomes: Exploring Varied Forms of Teacher Learning in an Online Professional Development Experience</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;teacher learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;professional development&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;online learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;MOOCs&lt;/dc:subject&gt;
+    </dublin_core>

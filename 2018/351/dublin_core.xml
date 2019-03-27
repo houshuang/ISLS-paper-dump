@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ko, Monlin</dcvalue>
+<dcvalue element="contributor" qualifier="author">Elby, Andrew</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ko, M. &amp; Elby, A.&#x20;(2018).&#x20;Talking Past One Another: Looking for signs of Conversational Mismatch in One 6th grade Science Classroom.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1477</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study uses analysis of two days of middle school science sensemaking conversations to argue for the existence and explanatory power of conversational mismatch, an interactional achievement in which students and their teacher seem to be “on the same page” about the nature of their classroom discourse, but the students’ framing and teacher’s framing of the classroom activity differ in subtle ways—a misalignment they don’t notice until later. Conversational mismatches, we contend, arise in part from tensions between instructional goals of fostering students’ engagement in authentic scientific sensemaking and guiding them toward particular understandings of pre-determined concepts and models. We end by discussing ways to monitor and mitigate the negative effects of conversational mismatches.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Talking Past One Another: Looking for signs of Conversational Mismatch in One 6th grade Science Classroom</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Discourse analysis</dc:subject>
+<dc:subject xml:lang="en">classroom discourse</dc:subject>
+<dc:subject xml:lang="en"></dc:subject>
+    </dublin_core>

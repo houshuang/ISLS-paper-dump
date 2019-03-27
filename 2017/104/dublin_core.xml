@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Applebaum, Lauren R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fricke, Kyle W.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vitale, Jonathan M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Linn, Marcia C.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Applebaum, L. R., Fricke, K. W., Vitale, J. M., &amp; Linn, M. C.&#x20;(2017).&#x20;Learning About Climate Change Through Cooperation&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.104</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Students maintain a range of alternative ideas around the causes of climate change (Rye et al., 1997). To help students diversify their repertoire of ideas, we engaged students in a cooperative activity in which individual students chose to investigate one of three possible topics (meat-eating, albedo, or ozone), and then reported back to their peers. Students investigated Netlogo (Wilensky, 1999) models that included features relevant to their chosen topic. After exploring one of the computer models, students met in jigsaw groups (Aronson &amp; Patnoe, 2011). Results on assessment items matched to each investigation show that scores improved across all topics for all students. However, students in the meat-eating investigation show more improvement for the meat-eating item, while students who investigated albedo and ozone performed equally well on all items. These findings suggest that the jigsaw activity helped all students learn about the causes of climate change from their peers. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Learning About Climate Change Through Cooperation</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Augmented/Virtual Reality</dc:subject>
+<dc:subject xml:lang="en">Technical Proof of Concept</dc:subject>
+<dc:subject xml:lang="en">Interaction Tool</dc:subject>
+<dc:subject xml:lang="en">Design Thinking</dc:subject>
+    </dublin_core>

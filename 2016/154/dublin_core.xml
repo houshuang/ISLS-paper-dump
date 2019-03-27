@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Cai, Huiying</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gu, Xiaoqing</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Cai, H. &amp; Gu, X.&#x20;(2016).&#x20;The Study of Cognitive Development in the Structured Collaborative Learning Task Mediated by Semantic Diagram Tools&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.154</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents the findings from a recent study of two collaborative concept-mapping task mediated by semantic diagram tools with grade 7 students (n=25) in an urban high school in Canada. Data was collected from the pre-post paper-based test to evaluate student’s understanding of the learning topic and from the Mural map to evaluate student’s CPS engagement and interaction in different learning task. The result was that the cognitive development is improved in the structured CPS learning tasks under the mediation of semantic diagram tools. While, the basic understanding, rather than the high level understanding of learning topic is improved. What’s more, the CPS interaction, rather than the CPS engagement make the positive contribution to the cognitive development. This finding gives some insight of design of the CPS learning task and semantic diagram tools in the future study.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Study of Cognitive Development in the Structured Collaborative Learning Task Mediated by Semantic Diagram Tools</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;learning task&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;CSCL&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;visualization tool&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;cognitive development&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;engagement&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;interaction&lt;/dc:subject&gt;
+    </dublin_core>

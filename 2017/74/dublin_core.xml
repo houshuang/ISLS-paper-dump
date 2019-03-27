@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Keune, Anna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Peppler, Kylie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Keune, A. &amp; Peppler, K.&#x20;(2017).&#x20;Maker Portfolios as Learning and Community-Building Tools Inside and Outside Makerspaces&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.74</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Portfolio assessment gains new traction in youth-serving maker-educational spaces through increased inclusion of maker portfolios in college and job applications. However, the collaborative and cooperative character of making poses a tension to traditional portfolio assessment that is focused on showcasing individual achievements. Together, this calls for an expanded understanding of the use of portfolios in maker education. We examined the types of portfolio entries at two youth-serving makerspaces (one out-of-school and one in-school), and observed the documentation of personal and shared projects in personal and shared portfolios. Our main findings are that, compared to portfolios that focused on personal work alone, portfolios that included shared projects and documentation presented richer showcases, showing technical and social engagement, assessment by people across a distributed community, and possibilities to narrate work to multiple audiences. This has implications on the facilitation of maker portfolios and broadens portfolio assessment to show the role of the learner in society.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Maker Portfolios as Learning and Community-Building Tools Inside and Outside Makerspaces</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Online Learning</dc:subject>
+<dc:subject xml:lang="en">Conversation Analysis</dc:subject>
+<dc:subject xml:lang="en">Communication Studies</dc:subject>
+<dc:subject xml:lang="en">Content Analysis</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Skill Development</dc:subject>
+    </dublin_core>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Visintainer, Tammie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Visintainer, T.&#x20;(2016).&#x20;“I Think We Were Pretty Powerful This Summer as Scientists”: Generating New Possibilities for Youth of Color in Science&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.85</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This research explores processes of learning and identity construction for high school students of color as they engage in a community-based scientific research project as part of a summer science program. This research utilizes qualitative (e.g. interviews) and quantitative (e.g. surveys) data sources. Findings illustrate the emergence of an identity generative process: that engaging in science practices (e.g. presenting research) and the accompanying program resources (e.g. placing students in a position of power) generated new possibilities for students as capable science learners, scientists, and change agents. Furthermore, findings show that the instructor’s perspective of science and vision for his students guided the design of program resources (e.g. pedagogy, instruction) made available that helped create these shifts. Findings show that youth of color can imagine new possibilities for who they can be in science if their science and racial identities are supported in science programs.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“I Think We Were Pretty Powerful This Summer as Scientists”: Generating New Possibilities for Youth of Color in Science</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;identity&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science practices&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;youth of color&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;community-based research&lt;/dc:subject&gt;
+    </dublin_core>

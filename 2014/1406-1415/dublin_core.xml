@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Elby, Andrew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Richards, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Walkoe, Janet</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gupta, Ayush</dcvalue>
+<dcvalue element="contributor" qualifier="author">Russ, Rosemary S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Luna, Melissa J.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Robertson, Amy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Coffey, Janet E.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Edwards, Ann R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sherin, Miriam</dcvalue>
+<dcvalue element="contributor" qualifier="author">van Es, Elizabeth A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Elby, A., Richards, J., Walkoe, J., Gupta, A., Russ, R. S., Luna, M. J., Robertson, A., Coffey, J. E., Edwards, A. R., Sherin, M., &amp; van Es, E. A.&#x20;(2014).&#x20;Differing Notions of Responsive Teaching across Mathematics and Science: Does the Discipline Matter?.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1406-1415.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1406</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Research in science and mathematics education suggests that the pedagogical practice of responsive teaching--teaching that notices, attends and responds to the substance (not merely the correctness) of students' thinking--supports student engagement in disciplinary practices. However, researchers in science education and researchers in mathematics education have tended to conceptualize "teacher responsiveness" differently. This structured poster session brings together researchers of teacher responsiveness in mathematics and science to begin hashing out, with each other and with attendees, the reasons for these differences. Do the different notions of responsiveness stem from epistemological differences between mathematics and science? From differences in the knowledge bases about student thinking in science vs. mathematics? This session will frame and initiate ongoing discussions of these issues, which are central to work on teacher cognition and practices in the context of teacher professional development--the focus of a growing number of learning scientists.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Differing Notions of Responsive Teaching across Mathematics and Science: Does the Discipline Matter?</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ostrowski, Christopher Peter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Becker, Sandra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Caceres, Zulay Diaz</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lam-Herrera, Marilu</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rothschuh, Stefan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ostrowski, C. P., Becker, S., Caceres, Z. D., Lam-Herrera, M., &amp; Rothschuh, S.&#x20;(2018).&#x20;Exploring the Margins of the Field: Rethinking STEM in Education.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1105</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">As a cohort of Learning Sciences doctoral students, we are at the crux of shaping new possibilities for STEM in education. We share key learnings gleaned around critical notions of STEM (science, technology, engineering, mathematics) after participating in a conference that explored marginalized groups and ideas in STEM education. Key ideas we distilled for further deliberation include: 1) How is STEM identified and who is part of it?; 2) Why is critical discourse essential in STEM? and; 3) How do we attend to affect and aesthetic experience in STEM? We argue considering such issues and fostering epistemic fluency will allow STEM to grow and diversify. In presenting our understandings of STEM as it exists, and where we feel it is moving, our learning provokes dialogue about how critical research can impact STEM and educational research.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring the Margins of the Field: Rethinking STEM in Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">STEM</dc:subject>
+<dc:subject xml:lang="en">Critical</dc:subject>
+<dc:subject xml:lang="en">Marginalization</dc:subject>
+<dc:subject xml:lang="en">Affect</dc:subject>
+    </dublin_core>

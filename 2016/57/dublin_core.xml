@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Andrade, Alejandro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Santo, Rafi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Andrade, A. &amp; Santo, R.&#x20;(2016).&#x20;Advancing Learning Visualizations: Situated Action Networks as Scalable Representations of Learning in Social Settings&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.57</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We propose a distinctive method, Situated Action Networks (SANs), rooted in socio-cultural theories of learning that affords visualization and analysis of learning in a way that is theoretically robust yet scalable to large data sets. While visualization is increasingly looked to as a key means of understanding learning, there are few tools at learning scientists’ disposal that are simultaneously scalable yet also aligned with sociocultural perspectives. Situated Action Networks attempt to address this by appropriating techniques from social network analysis while aligning them with Cultural Historical Activity Theory. They accomplish this by (1) elevating learning activities to the forefront of learning visualizations, allowing for rich qualitative analyses of learning and (2) creating theoretically aligned indices that afford quantitative analyses within and across learning environments. Using data on collaborative learning dynamics between informal learning organizations as they engage in joint projects, we show the affordances of this method for understanding learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Advancing Learning Visualizations: Situated Action Networks as Scalable Representations of Learning in Social Settings</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;learning visualization&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Cultural-Historical Activity Theory&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Social Network Analysis&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Situated-Action Networks&lt;/dc:subject&gt;
+    </dublin_core>

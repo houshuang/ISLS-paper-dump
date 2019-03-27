@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Chen, Gaowei</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clarke, Sherice N.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Resnick, Lauren B.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Chen, G., Clarke, S. N., &amp; Resnick, L. B.&#x20;(2014).&#x20;An Analytic Tool for Supporting Teachers’ Reflection on Classroom Talk.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;583-590.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.583</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teachers can reflect on and analyze their classroom talk to inform their instructional practice. When teachers try to do so however, they often face analytic difficulties regarding the data set (data input, data transformation, and utterances by unknown speakers), coding (coding complexity, reliability, and efficiency), visualization (representations of a variety of information, synchronization of displays, and adaptation to the data/codes changes), and tracking and comparison (many students' actions across discussion sessions). This paper introduces an analytic tool called classroom discourse analyzer (CDA) to address these difficulties, as shown in the analyses of classroom discourse from a fourth grade science class. The analyses demonstrate how CDA can be used by teachers to support their reflection on classroom talk and how it can provide personalized, data-supported evidence to inform teachers' classroom practice.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">An Analytic Tool for Supporting Teachers’ Reflection on Classroom Talk</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

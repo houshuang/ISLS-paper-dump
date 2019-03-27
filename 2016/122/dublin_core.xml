@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Alqassab, Maryam</dcvalue>
+<dcvalue element="contributor" qualifier="author">Strijbos, Jan-Willem</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ufer, Stefan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:45Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:45Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Alqassab, M., Strijbos, J., &amp; Ufer, S.&#x20;(2016).&#x20;Exploring the Composition Process of Peer Feedback&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.122</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents a study that explores the composition process of peer feedback. It adopts an interactional framework for feedback that takes into account feedback sender’s and recipient’s factors. Participants were pre-service mathematics teachers (N = 47) enrolled in a course about feedback and assessment. Quantitative content analysis was used to analyze students’ reflections after being involved in a peer feedback provision activity on a geometry construction task. Students’ reflections illustrated that the composition process is not purely cognitive, and can also involve self-reflection and self-evaluation activities as well as peer-related activities. Some examples of self- and peer-related activities during peer feedback composition are reported, followed by a discussion of implications for using peer feedback as a learning activity.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Exploring the Composition Process of Peer Feedback</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Peer feedback&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;assessment for learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;feedback training&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;mathematics&lt;/dc:subject&gt;
+    </dublin_core>

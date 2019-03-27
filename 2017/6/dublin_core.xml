@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wan, Hai-Peng</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wang, Qi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yu, Sheng-Quan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wan, H., Wang, Q., &amp; Yu, S.&#x20;(2017).&#x20;Behavioral and Relationship Patterns in an Online Collaborative Reading Activity&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.6</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The content of this talk is taken from an 8-year old Knowledge Building Project in Singapore. In this talk, we attempt to trace the growth of four visible dimensions of the project and the challenges embed within each dimension. Knowledge building practice requires a significant shift from knowledge deepening to knowledge creation paradigm. This particular KB project has been focusing on working with teachers to design and enact idea-centered and collaborative classrooms while tackling all curriculum and assessment demands along with physical and time constraints prevalent in every school. It warrants a detailed study of the areas of growth to ensure symmetry in advancement in all stakeholders in schools and considering all dimensions of schools and teaching and learning processes. This is needed so that intensive innovations, such as KB, have a chance to take root in practice. In fact, creating symmetrical knowledge advancement in all our collaborators and collaborating schools has always been a core principle of design in the research:</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Behavioral and Relationship Patterns in an Online Collaborative Reading Activity</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">University</dc:subject>
+<dc:subject xml:lang="en">Early Childhood Education</dc:subject>
+<dc:subject xml:lang="en">Teacher Education</dc:subject>
+<dc:subject xml:lang="en">Artifact Analysis</dc:subject>
+<dc:subject xml:lang="en">Content Analysis</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Engagement</dc:subject>
+<dc:subject xml:lang="en">Skill Development</dc:subject>
+    </dublin_core>

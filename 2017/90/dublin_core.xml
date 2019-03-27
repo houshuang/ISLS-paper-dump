@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Shaikh, Rafikh</dcvalue>
+<dcvalue element="contributor" qualifier="author">Agrawal, Harshit</dcvalue>
+<dcvalue element="contributor" qualifier="author">G, Nagarjuna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nachankar, Mrunal</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Shaikh, R., Agrawal, H., G, N., &amp; Nachankar, M.&#x20;(2017).&#x20;Instant Sharing Makes Task More Engaging In Computer Aided Classroom&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.90</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">With the advent of networked computers sharing of information and artifacts have become very convenient. From online multi-player games to social networking sites, instant sharing has become the norm of the day. Educational tools are trying to harness sharing as a potential tool to engage students in learning processes. But, does sharing lead to an improvement in academic performance? The present study investigates the role of instant sharing in the context of learning in a classroom setting. Two groups of students, from a suburban school in Mumbai, India, played an arithmetic game over a period of 7-8 months. The experimental group played on a platform that supported instant sharing, while the platform for the control group was standalone. All other aspects of both platforms were same. Analysis of process data of the two groups reveals that instant sharing increased engagement with the game. Students from control group lost interest in the game after some days, while experimental group students remained active on it till the end of the four-month period.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Instant Sharing Makes Task More Engaging In Computer Aided Classroom</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">MOOCS</dc:subject>
+<dc:subject xml:lang="en">Descriptive Studies</dc:subject>
+<dc:subject xml:lang="en">English as a Second Language</dc:subject>
+<dc:subject xml:lang="en">Diversity and Inclusion</dc:subject>
+    </dublin_core>

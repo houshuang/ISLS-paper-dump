@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Askari, Emilia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brandon, Diana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Galvin, Sarah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Greenhow, Christine</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:14:21Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Askari, E., Brandon, D., Galvin, S., &amp; Greenhow, C.&#x20;(2018).&#x20;Youth, Learning and Social Media in K-12 Education:  The State of the Field.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 1. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.344</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Prior reviews of social media in education found that most early research focused on college students. This review analyzes emerging research on social media with younger learners. Using PRISMA standards, we considered 1321 articles, selecting 48 reviewed here. We find that research on social media in K-12 learning is increasing rapidly, yet largely failing to study impacts on learning. Research is taking place across the globe on a variety of social media platforms, but the majority continues to look at the oldest K-12 learners. Few studies use control groups or comprehensively use analytic data collected by social media platforms. We highlight opportunities for scaling K-12 learning with social media globally and call for educators to engage more with social media developers and owners. With this overview, we offer an agenda for future learning sciences research, policy, practice and commercial development in this growing field. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Youth, Learning and Social Media in K-12 Education:  The State of the Field</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">youth</dc:subject>
+<dc:subject xml:lang="en">learning</dc:subject>
+<dc:subject xml:lang="en">social media</dc:subject>
+<dc:subject xml:lang="en">literature review</dc:subject>
+    </dublin_core>

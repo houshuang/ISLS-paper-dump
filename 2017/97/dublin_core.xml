@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sierschynski, Jarek</dcvalue>
+<dcvalue element="contributor" qualifier="author">Spaulding, Scott</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sierschynski, J. &amp; Spaulding, S.&#x20;(2017).&#x20;Transgressing Ideologies of Collaborative Learning and Working Spaces&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.97</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper offers a theoretical contribution to CSCL by foregrounding the notion of place as elaborated in humanistic and cultural geography (Creswell, 1996), where place is defined by ideology and practices that produce, monitor and reproduce its boundaries. Examining the notion of place as both an element in CSCL tool design and a level of analysis for CSCL (Stahl, 2012), we discuss its role in the emergent design and development of a CSCL application for teachers, university students and researchers. The discussion in this paper serves as a first step in articulating how (1) CSCL tools can transgress and thus question official learning and working places and (2) how transgression can foster re-ordering of places and their practices.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Transgressing Ideologies of Collaborative Learning and Working Spaces</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Situated Learning</dc:subject>
+<dc:subject xml:lang="en">Cognitive Studies</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Representational Tools</dc:subject>
+<dc:subject xml:lang="en">Teacher Education</dc:subject>
+    </dublin_core>

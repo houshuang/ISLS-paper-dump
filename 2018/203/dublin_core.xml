@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Stieff, Mike</dcvalue>
+<dcvalue element="contributor" qualifier="author">Scheiter, Katharina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ainsworth, Shaaron</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bohrmann-Linde, Claudia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schall, Max</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Stieff, M., Scheiter, K., Ainsworth, S., Bohrmann-Linde, C., &amp; Schall, M.&#x20;(2018).&#x20;Drawing for Learning from Dynamic Visualizations in Science.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.937</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper examines the efficacy of drawing for supporting learning from digital media, such as dynamic visualizations. Extant research on the efficacy of drawing for promoting learning from dynamic visualizations is contradictory. The discrepancy in these findings has been attributed to the differences between drawing and dynamic visualizations. While dynamic visualizations emphasize spatiotemporal transformations, drawing emphasizes static spatiotemporal structures. Thus, drawing may impede learning from a dynamic visualization when the target learning objective relates to dynamism as it may bias the learner to focus on structure at the expense of transformation. Here, we present our developing findings that drawing provides an effective learning scaffold for learning from dynamic visualizations more so than self-explanation prompts, and that drawing biases learners to attend to fewer spatiotemporal structures.   </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Drawing for Learning from Dynamic Visualizations in Science</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">sketching</dc:subject>
+<dc:subject xml:lang="en">science education</dc:subject>
+<dc:subject xml:lang="en">visualizations</dc:subject>
+    </dublin_core>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Schnaubert, Lenka</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bodemer, Daniel</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Schnaubert, L. &amp; Bodemer, D.&#x20;(2016).&#x20;How Socio-Cognitive Information Affects Individual Study Decisions&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.37</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Metacognitive self-regulation theories assume that individual monitoring guides study decisions. However, self-regulated online learning is not done in isolation and inherently social. Group awareness research suggests that socio-cognitive information may be a strong asset to collaborative and individual learning. Integrating individual research traditions into a social setting, our experimental study (N = 61) investigates how visualizing socio-cognitive information influences core individual learning processes, especially the search for information, the learners’ self-evaluations of knowledge and learning outcomes. While on the surface study behaviour seemed not to be affected by the availability of socio-cognitive information, more profound analyses revealed that learners provided with partner information did rely less heavily on initial self-evaluations, but adapted their evaluations and focused more on the partner information provided. Knowledge gain was not affected. In conclusion, social context can be an important factor in self-regulation emphasizing that individual and collaborative research traditions may complement each other. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">How Socio-Cognitive Information Affects Individual Study Decisions</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;self-regulated learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;confidence ratings&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;group awareness&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;experimental study&lt;/dc:subject&gt;
+    </dublin_core>

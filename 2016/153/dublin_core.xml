@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Judson, Darlene</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:22Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:22Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Judson, D.&#x20;(2016).&#x20;Teacher Noticing Associated With Responsive Support of Knowledge Building&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.153</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Knowledge building is a student-centered, principle-based approach wherein students assume collective responsibility for collaboration and the co-regulation of activity in inquiry within a domain of study with the support of the teacher. Little is understood about the ways in which teachers support knowledge building in the classroom. This paper analyzes to what and how a teacher attends as noteworthy events in the classroom and investigates his associated enacted responses. The construct of teacher noticing was used to identify examples of teacher noticing attuned to students’ ideas associated with responsive actions in the classroom in which the teacher supported knowledge building by empowering students to see and make connections to their own and one another’s knowledge work and the ongoing trajectory of inquiry.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Teacher Noticing Associated With Responsive Support of Knowledge Building</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;knowledge building&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;teacher noticing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;responsive teaching&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science&lt;/dc:subject&gt;
+    </dublin_core>

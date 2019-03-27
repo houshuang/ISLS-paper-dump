@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Quintana, Rebecca M</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brooks, Christopher</dcvalue>
+<dcvalue element="contributor" qualifier="author">Smothers, Cinzia Villanucci</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tan, Yuanru</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yao, Zheng</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kulkarni, Chinmay</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Quintana, R. M., Brooks, C., Smothers, C. V., Tan, Y., Yao, Z., &amp; Kulkarni, C.&#x20;(2018).&#x20;Mentor Academy: Engaging Global Learners in the Creation of Data Science Problems for MOOCs.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1415</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We engaged MOOC learners (mentors; n=120) as collaborators in the design and improvement of an online course through an activity called the Mentor Academy; an online instructional program where mentors create original problem sets for future iterations of a course. Following a design research methodology, we trace the development of the program’s design and report on the features of a learning design that effectively support mentors in the problem creation process. Our analysis shows that mentors were offered three kinds of support: community building, logistical, and pedagogical. The following kinds of changes and additions were made to the design: expanded project requirements, improved technical infrastructure, and increased opportunities for interaction in discussion forums and live peer chat sessions. We present an analysis of problem sets for quality, diversity of subject area, and usability. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Mentor Academy: Engaging Global Learners in the Creation of Data Science Problems for MOOCs</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">MOOCs</dc:subject>
+<dc:subject xml:lang="en">learnersourcing</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+<dc:subject xml:lang="en">communities of practice</dc:subject>
+    </dublin_core>

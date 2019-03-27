@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Butcher, Kirsten R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hudson, Michelle</dcvalue>
+<dcvalue element="contributor" qualifier="author">Runburg, Madlyn</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Butcher, K. R., Hudson, M., &amp; Runburg, M.&#x20;(2018).&#x20;Student Perceptions of Object-based Learning with Digitized Museum Materials during Classroom Science Instruction.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1683</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Digitization initiatives at modern museums have created unprecedented opportunities to use online collections objects in classrooms. A key question is whether digitized objects can engage students and promote perceptions of scientific authenticity. Students' perceptions were gathered via embedded surveys immediately following online investigations with digitized museum objects. Responses showed strong engagement and positive perceptions of authenticity (e.g., feeling like a scientist) with bimodal patterns for negative boredom and confusion.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Student Perceptions of Object-based Learning with Digitized Museum Materials during Classroom Science Instruction</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">object-based learning; student perceptions; museum objects; science instruction</dc:subject>
+    </dublin_core>

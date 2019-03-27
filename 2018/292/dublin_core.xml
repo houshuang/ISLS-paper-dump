@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bywater, Jim P</dcvalue>
+<dcvalue element="contributor" qualifier="author">Floryan, Mark</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chiu, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chao, Jie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schimpf, Corey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Xie, Charles</dcvalue>
+<dcvalue element="contributor" qualifier="author">Vieira, Camilo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Magana, Alejandra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dasgupta, Chandan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:54Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bywater, J. P., Floryan, M., Chiu, J., Chao, J., Schimpf, C., Xie, C., Vieira, C., Magana, A., &amp; Dasgupta, C.&#x20;(2018).&#x20;Using Machine Learning Techniques to Capture Engineering Design Behaviors.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1359</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Engaging students in disciplinary practices can help students but many teachers face barriers implementing practice-based instruction as capturing, assessing, and providing feedback on practices can be labor and time intensive. This working paper reports on our early attempts to leverage machine learning techniques to analyze large process datasets of students engaged in engineering design projects within computer-aided environments. By identifying students’ engineering design behaviors, we eventually hope to examine how different sequences of these behaviors can be used to assess design practices with which we can provide intelligent feedback and guidance.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Using Machine Learning Techniques to Capture Engineering Design Behaviors</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">maching learning engineering design</dc:subject>
+    </dublin_core>

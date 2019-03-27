@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hickey, Daniel T.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Uttamchandani, Suraj</dcvalue>
+<dcvalue element="contributor" qualifier="author">Quick, Joshua D.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hickey, D. T., Uttamchandani, S., &amp; Quick, J. D.&#x20;(2016).&#x20;Scaling Up Productive Disciplinary Engagement With Participatory Learning and Assessment&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.71</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents the results of a three year program of design research that aims to scale highly interactive social learning in open online courses. This research started with simple features that had previously been refined in conventional online courses in order to foster more productive forms of disciplinary engagement. These features reflect five design principles for fostering productive forms of disciplinary engagement, motivating and assessing that engagement, and finally assessing the resulting individual understanding and achievement. This paper shows how these features were scaled up for use by hundreds of students in an open course and summarizes the impressive levels of disciplinary engagement and achievement that resulted. It also presents two new features that were introduced to allow self-paced participatory learning with little or no instructor involvement. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Scaling Up Productive Disciplinary Engagement With Participatory Learning and Assessment</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;personalized learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning analytics&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;assessment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;analytic approaches&lt;/dc:subject&gt;
+    </dublin_core>

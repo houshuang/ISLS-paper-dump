@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kothiyal, Aditi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Murthy, Sahana</dcvalue>
+<dcvalue element="contributor" qualifier="author">Chandrasekharan, Sanjay</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kothiyal, A., Murthy, S., &amp; Chandrasekharan, S.&#x20;(2016).&#x20;“Hearts Pump and Hearts Beat”: Engineering Estimation as a Form of Model-Based Reasoning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.33</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Professional engineers are often required to make estimates of physical quantities and processes, as well as user requirements and system performance. However engineering undergraduates, as part of their curriculum, do not learn how to make such estimates. In order to design a technology-enhanced course in engineering estimation, we conducted a study of experienced engineers working on estimation problems. A three-phase process for engineering estimation, and the cognitive mechanisms underlying them, emerged from the analysis of this data. We highlight the roles of mental simulation and external representation in the estimation process. These results will be used to design learning environments for engineering estimation.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“Hearts Pump and Hearts Beat”: Engineering Estimation as a Form of Model-Based Reasoning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;engineering estimation&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;expert study&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;technology-enhanced learning environment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;mental simulation&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;external representations&lt;/dc:subject&gt;
+    </dublin_core>

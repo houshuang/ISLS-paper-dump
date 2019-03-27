@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hutchison, Paul</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slattery, Michael</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hutchison, P. &amp; Slattery, M.&#x20;(2018).&#x20;Assessing Equity in Collaborative Learning Situations:  A Comparison of Methods.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1149</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We set out to apply methods for assessing equity in a collaborative learning situation of four college students. To do this, we utilized prior work assessing equity in programming pairs (Lewis &amp; Shah, 2015; Shah, Lewis, &amp; Caires, 2014) and coded for talking time, questions asked, and commands givne. Using these methods to analyze two different groups we found the groups to be very similar. However, our sense was that the groups were not similar in regard to equity. We then used an adapted version of Duek’s (2000) group processing behaviors to code and analyze the two groups. This method indicated that one group engaged in far more equity-promoting behaviors than the other, suggesting a difference in the relative equity between them.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Assessing Equity in Collaborative Learning Situations:  A Comparison of Methods</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">equity</dc:subject>
+<dc:subject xml:lang="en">research methods</dc:subject>
+<dc:subject xml:lang="en">processing behaviors</dc:subject>
+<dc:subject xml:lang="en">collaborative learning</dc:subject>
+    </dublin_core>

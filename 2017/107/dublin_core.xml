@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kim, Soo Hyeon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zimmerman, Heather Toomey</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kim, S. H. &amp; Zimmerman, H. T.&#x20;(2017).&#x20;Collaborative Argumentation During a Making and Tinkering Afterschool Program With Squishy Circuits&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.107</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study investigates how young children engage in collaborative argumentation during Making and Tinkering (M&amp;T) afterschool program using Squishy Circuits. Two perspectives guide the work: constructionism to explore M&amp;T practices and everyday argumentation to explore the ways peers support each other in collaborative argumentation. The video-based study was conducted during an hour-long afterschool learning sessions over three weeks. Episodes of learners’ collaborative argumentation practices were analyzed by examining talk, body formation, gestures, and tool handling. The findings expand current research on argumentation by describing and characterizing the collaborative argumentation practices that occurred during M&amp;T. Findings also contribute an understanding of collaborative argumentation as a theoretical framework to expand constructionism.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Collaborative Argumentation During a Making and Tinkering Afterschool Program With Squishy Circuits</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Social Network Analysis</dc:subject>
+<dc:subject xml:lang="en">Community Settings</dc:subject>
+    </dublin_core>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kayumova, Shakhnoza</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cardello, Suzanne</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kayumova, S. &amp; Cardello, S.&#x20;(2018).&#x20;“I Have an Opinion about Science I Think Part is True and Part is Not”:  Emergent Bilingual/Multilingual Adolescents “Figuring” Science Learning Through Virtual Labs .&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1751</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Abstract: Based on a year-long ethnographic research in two eighth-grade science classrooms, with 25 Latinx emergent bilinguals, the study examines the affordances/limitations of virtual labs as mediators of science learning. Employing sociocultural theories and ontological views of learning, we explore students' learning of science with virtual labs and their evolving epistemic, conceptual, and identity trajectories with disciplinary knowledge and practices as enacted in formal-learning settings.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“I Have an Opinion about Science I Think Part is True and Part is Not”:  Emergent Bilingual/Multilingual Adolescents “Figuring” Science Learning Through Virtual Labs </dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">identity</dc:subject>
+<dc:subject xml:lang="en">technology</dc:subject>
+<dc:subject xml:lang="en">emergent bilinguals</dc:subject>
+<dc:subject xml:lang="en">science</dc:subject>
+    </dublin_core>

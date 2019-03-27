@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Bereiter, Carl</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Bereiter, C.&#x20;(2016).&#x20;The Epistemology of Science  and the Epistemology of Science Teaching&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.75</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Paul Kirschner has criticized constructivist science educators for confusing epistemology with pedagogy. He has also criticized them for a retrograde conception of science. This paper starts by agreeing with his second point and elaborates it into a fuller critique of naïve scientific epistemology, arriving at the conclusion that a better epistemology points to a better pedagogy. The key is a programmatic view of science, which sees the scientific enterprise as working continually toward stronger explanations of natural phenomena. This is a program that can be joined by people at all levels of sophistication, including young children, the goal always being to make today’s ideas superior in some demonstrable way to yesterday’s. Engaging students in explanation improvement has numerous advantages over atheoretical inquiry and project-based activities. Knowledge Building is highlighted as an approach that gives idea improvement a central place in its pedagogy.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">The Epistemology of Science  and the Epistemology of Science Teaching</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;epistemology&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;nature of science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;scientific method&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Knowledge Building&lt;/dc:subject&gt;
+    </dublin_core>

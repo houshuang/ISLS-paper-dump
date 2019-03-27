@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lindgren, Robb</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wallon, Robert C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brown, David E.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mathayas, Nitasha</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kimball, Nathan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:30Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:30Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lindgren, R., Wallon, R. C., Brown, D. E., Mathayas, N., &amp; Kimball, N.&#x20;(2016).&#x20;“Show Me” What You Mean: Learning and Design Implications of Eliciting Gesture in Student Explanations&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.160</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper describes research conducted on how gestures affect the construction of student explanations for science phenomena. Specifically we examine what happens when explicit attention and reflection is brought to students’ own gestures. Interviews were conducted with middle school students about their understanding of 3 critical science topics, and participants were frequently asked by the interviewer to “show me” when attempting to describe the unobservable mechanisms (e.g., molecular interactions) underlying observable phenomena. To understand the effects of prompting for gestures on student reasoning, we coded for whether explanations changed in response to these prompts compared to their previous explanations. Results showed that explicit attention to gesturing frequently led to increased attention and specification of mechanism. We describe a few specific cases to illustrate the ways in which gesturing seemed to alter student reasoning, and we describe design implications for computer simulations that are capable of using gestures as input.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">“Show Me” What You Mean: Learning and Design Implications of Eliciting Gesture in Student Explanations</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;gestures&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;explanations&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science reasoning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;computer simulations&lt;/dc:subject&gt;
+    </dublin_core>

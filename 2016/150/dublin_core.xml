@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Anderson, Craig G.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Binzak, John V.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dalsen, Jennifer</dcvalue>
+<dcvalue element="contributor" qualifier="author">Saucerman, Jenny</dcvalue>
+<dcvalue element="contributor" qualifier="author">Jordan-Douglass, Anna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kumar, Vishesh</dcvalue>
+<dcvalue element="contributor" qualifier="author">Turker, Aybuke</dcvalue>
+<dcvalue element="contributor" qualifier="author">Berland, Matthew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Squire, Kurt</dcvalue>
+<dcvalue element="contributor" qualifier="author">Steinkuehler, Constance</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:19Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:19Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Anderson, C. G., Binzak, J. V., Dalsen, J., Saucerman, J., Jordan-Douglass, A., Kumar, V., Turker, A., Berland, M., Squire, K., &amp; Steinkuehler, C.&#x20;(2016).&#x20;Situating Deep Multimodal Data on Game-Based STEM Learning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.150</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">As STEM embedded games become more prevalent in classrooms, the need for teachers and researchers to understand the ways in which students learn in these complex environments increases. This paper describes a multimodal datastream approach to understanding student learning in an informal game-embedded curriculum. Through a multi-stream approach, we have more information on what students are using and how they are improving, which in preliminary analyses, proves to be more complex than one might think. Importance of multiple data streams in analyzing complex learning environments and future directions for more complex analyses are discussed.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Situating Deep Multimodal Data on Game-Based STEM Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Educational Games&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Big Data&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Mixed Methods&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;STEM&lt;/dc:subject&gt;
+    </dublin_core>

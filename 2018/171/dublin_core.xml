@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kawasaki, Jarod</dcvalue>
+<dcvalue element="contributor" qualifier="author">Anderson-Levitt, Kathryn</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nenadal, Linsdey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tanio, Nadine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pham, Josephine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Diera, Claudia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Francois, Annamarie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kawasaki, J., Anderson-Levitt, K., Nenadal, L., Tanio, N., Pham, J., Diera, C., &amp; Francois, A.&#x20;(2018).&#x20;From Theory to Practice: How Pre-service Science Teachers Learn to Become Social Justice Educators.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.713</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There is a movement within teacher education programs to prepare social justice educators equipped to disrupt systemic oppression and inequity. While studies have looked at how programs prepare teachers to teach for social justice, they tend to focus on teachers’ beliefs and few examine teacher education programs as a whole. Urban teacher residency programs have emerged as hybrid spaces addressing the disconnect between campus courses and field experiences, attempting to support teachers applying theory to practice. This study follows a cohort of pre-service science teachers in an urban teacher residency program over the course of their 18-month teacher preparation program. We analyzed written artifacts collected throughout the year to examine the evolution of their definitions of and practices related to social justice. We present two contrasting case studies to highlight their divergent learning pathways and the specific residency program experiences that influenced their learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">From Theory to Practice: How Pre-service Science Teachers Learn to Become Social Justice Educators</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">teacher learning</dc:subject>
+<dc:subject xml:lang="en">social justice</dc:subject>
+<dc:subject xml:lang="en">teacher education</dc:subject>
+<dc:subject xml:lang="en">urban teacher residency</dc:subject>
+    </dublin_core>

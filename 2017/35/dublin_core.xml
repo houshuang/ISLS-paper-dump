@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tsovaltzi, Dimitra</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dutta, Nikita</dcvalue>
+<dcvalue element="contributor" qualifier="author">Puhl, Thomas</dcvalue>
+<dcvalue element="contributor" qualifier="author">Weinberger, Armin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tsovaltzi, D., Dutta, N., Puhl, T., &amp; Weinberger, A.&#x20;(2017).&#x20;Group and Individual Level Effects of Supporting Socio-Cognitive Conflict Awareness and Its Resolution in Large SNS Discussion Groups: A Social Network Analysis&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.35</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">SNS (social networking sites) provide great opportunities for access to knowledge sources and equity in publicly expressing ideas, opinions and attitudes. They define a rich context of socio-cognitive interactions in which conflict can arise. Supports for conflict awareness and argumentation processes to resolve the conflict can foster learning. This article presents a comparative 2×2 field study (N=98) of such supports in a university course that included weekly SNS discussions. Group Awareness Tools (GATs) were used to increase attitude conflict awareness, and argumentation scripts as a cognitive guidance to help learners capitalize on this awareness and resolve the conflict productively. We use Social Network Analysis (SNA) to gain a group-level understanding of the effects of argumentation on attitude change relative to peer interactions. We measure number of interactions, information flow control, influence distribution, and attitude similarity. Both GATs and argumentation script influence group processes, but argumentation script shows more substantial influence.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Group and Individual Level Effects of Supporting Socio-Cognitive Conflict Awareness and Its Resolution in Large SNS Discussion Groups: A Social Network Analysis</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Diversity and Inclusion</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">Human-Computer Interaction</dc:subject>
+<dc:subject xml:lang="en">Participatory Design</dc:subject>
+<dc:subject xml:lang="en">Access</dc:subject>
+<dc:subject xml:lang="en">Adoption of Technologies</dc:subject>
+<dc:subject xml:lang="en">Best Practices</dc:subject>
+<dc:subject xml:lang="en">Culture</dc:subject>
+<dc:subject xml:lang="en">Equity and Gender</dc:subject>
+<dc:subject xml:lang="en">Identity and Community</dc:subject>
+<dc:subject xml:lang="en">Representational Affordances</dc:subject>
+<dc:subject xml:lang="en">Shared Knowledge</dc:subject>
+<dc:subject xml:lang="en">Project-Based Instruction</dc:subject>
+<dc:subject xml:lang="en">Informal Learning Settings</dc:subject>
+<dc:subject xml:lang="en">Life Long Learning</dc:subject>
+<dc:subject xml:lang="en">Distributed Cognition</dc:subject>
+<dc:subject xml:lang="en">Cross-Cultural Studies</dc:subject>
+<dc:subject xml:lang="en">Motivation</dc:subject>
+<dc:subject xml:lang="en">Contextual Design</dc:subject>
+<dc:subject xml:lang="en">Constructivism/Constructionism</dc:subject>
+<dc:subject xml:lang="en">Education Technology</dc:subject>
+<dc:subject xml:lang="en">Information Sciences</dc:subject>
+<dc:subject xml:lang="en">Culturally Relevant Pedagogy/Design</dc:subject>
+<dc:subject xml:lang="en">Broadening Participation</dc:subject>
+<dc:subject xml:lang="en">Creativity</dc:subject>
+<dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Assistive Technology</dc:subject>
+<dc:subject xml:lang="en">Personalized Learning Environments</dc:subject>
+<dc:subject xml:lang="en">Tangible Computing</dc:subject>
+<dc:subject xml:lang="en">Community Building</dc:subject>
+<dc:subject xml:lang="en">Skill Development</dc:subject>
+    </dublin_core>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Mazziotti, Claudia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hansen, Alice</dcvalue>
+<dcvalue element="contributor" qualifier="author">Grawemeyer, Beate</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Mazziotti, C., Hansen, A., &amp; Grawemeyer, B.&#x20;(2016).&#x20;It Ain't What You Do, It's The Way That You Do It: Investigating the Effect of Students' Active and Constructive Interactions With Fractions Representations&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.97</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We show that not only the number of fractions representations but also the way how students interact with (multiple) representations is important for their conceptual understanding of fractions. We found that a combination of students’ constructive and active interaction (e.g., manipulating and constructing representations) with multiple fractions representations as compared to students’ active interaction (e.g., looking at representations) with multiple representations leads to higher conceptual knowledge measured by students’ ability to flexibly represent a fraction. Furthermore, students’ representational flexibility was correlated with their general learning performance when students’ interacted constructively and actively with representations but not when they interacted only actively with representations. In line with the ICAP-framework we conclude that active interactions trigger more intensively attending processes whereas constructive interactions trigger more intensively creating processes and are thus superior to the first kind of students’ cognitive engagement with multiple representations. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">It Ain't What You Do, It's The Way That You Do It: Investigating the Effect of Students' Active and Constructive Interactions With Fractions Representations</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;representational flexibility&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;fractions&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning with representations&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;active interaction&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;constructive interaction&lt;/dc:subject&gt;
+    </dublin_core>

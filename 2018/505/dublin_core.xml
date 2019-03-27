@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Shirouzu, Hajime</dcvalue>
+<dcvalue element="contributor" qualifier="author">Saito, Moegi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Iikubo, Shinya</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nakayama, Takahiro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hori, Kimihiko</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Shirouzu, H., Saito, M., Iikubo, S., Nakayama, T., &amp; Hori, K.&#x20;(2018).&#x20;Renovating Assessment for the Future: Design-Based Implementation Research for a Learning-in-Class Monitoring System Based on the Learning Sciences.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1807</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Renovating assessment requires a shift to continuous formative assessment including lesson improvement which entails a collaborative Plan-Do-Check-Act cycle of teachers. However, it takes too much time to turn the cycle in ordinary life. Thus, we propose two ideas to develop an assessment system: first, a collaboration between humans and AI by utilizing teachers’ assessment efforts to advance the knowledge of both, and second, an embedment of the collaboration in the DBIR community. Study 1 introduces the case of a veteran teacher who turned the PDCA cycle twice by finding a problem in his lesson with his colleagues using a dialogue analysis tool and by hitting upon a new plan, which engendered more productive students’ dialogues, which referred to the expected keywords. Study 2 demonstrates the effects of the pre-registration of keywords into a dialogue transcription system on the recognition rate. Both results led us to propose a Learning-in-Class Monitoring System.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Renovating Assessment for the Future: Design-Based Implementation Research for a Learning-in-Class Monitoring System Based on the Learning Sciences</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">learning assessment</dc:subject>
+<dc:subject xml:lang="en">knowledge constructive jigsaw</dc:subject>
+<dc:subject xml:lang="en">DBIR</dc:subject>
+    </dublin_core>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Hensley, Lauren</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cutshall, Jessica</dcvalue>
+<dcvalue element="contributor" qualifier="author">Law, Victor</dcvalue>
+<dcvalue element="contributor" qualifier="author">Xie, Kui</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lu, Lin</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:44Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:44Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Hensley, L., Cutshall, J., Law, V., Xie, K., &amp; Lu, L.&#x20;(2016).&#x20;A Qualitative Exploration of Self- and Socially Shared Regulation in Online Collaborative Learning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.121</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This qualitative study explored how groups with high or low self-regulation regulated their collaborative behaviors. We used purposeful sampling to select two groups of students in an online course with the highest and lowest mean self-regulation scores, based on survey data. We inductively analyzed online discussion posts and identified three themes that described the groups’ processes for externalizing and internalizing understanding: level of engagement with content, approach to seeking and providing help, and openness to disagreement and problem-solving. The group with the highest mean self-regulation scores elaborated upon course concepts, helped one another understand and apply ideas, and integrated viewpoints to carry out course activities. The group with the lowest scores wrote about surface-level features, exchanged help in a brief and depersonalized manner, and moved quickly to consensus without evaluating alternative perspectives. These patterns illustrated marked differences in the development of socially shared regulation. \ </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Qualitative Exploration of Self- and Socially Shared Regulation in Online Collaborative Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;self-regulation; socially shared regulation; online learning; collaborative learning&lt;/dc:subject&gt;
+    </dublin_core>

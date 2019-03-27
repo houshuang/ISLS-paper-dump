@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">DeLiema, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Saleh, Asmalina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Christine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Danish, Joshua</dcvalue>
+<dcvalue element="contributor" qualifier="author">Illum, Randy</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dahn, Maggie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Humburg, Megan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Mahoney, Charlie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">DeLiema, D., Saleh, A., Lee, C., Enyedy, N., Danish, J., Illum, R., Dahn, M., Humburg, M., &amp; Mahoney, C.&#x20;(2016).&#x20;Blending Play and Inquiry in Augmented Reality: A Comparison of Playing a Video Game to Playing Within a Participatory Model&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.59</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Researchers have increasingly demonstrated how technologies such as augmented reality (AR) can leverage embodiment within play to help students use physical movement to explore complex concepts. Using Vygotsky’s (1978) notion of play, we examine how two distinct AR environments—rule-based game play and open-ended modeling play—support 1st and 2nd graders’ inquiry (N=122) into how matter changes state at the level of microscopic particles. We further use the notion of keys (Goffman, 1974) to examine how the students construct distinct participation frameworks (Goodwin, 1993) within the two activity designs, and how this organization of activity may impact their learning experience. Our analyses show that students within a game-play environment were more oriented towards accomplishing a goal rather than understanding how a system works whereas those in the modeling-play group focused more explicitly on understanding mechanism and process.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Blending Play and Inquiry in Augmented Reality: A Comparison of Playing a Video Game to Playing Within a Participatory Model</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;play; games; science inquiry; embodied cognition&lt;/dc:subject&gt;
+    </dublin_core>

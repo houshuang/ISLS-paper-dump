@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Koh, Elizabeth</dcvalue>
+<dcvalue element="contributor" qualifier="author">Hong, Helen</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Koh, E. &amp; Hong, H.&#x20;(2017).&#x20;Developing Professional Competency in a CSCL Environment for Teamwork: Two TPACK Case Studies of Teachers as Co-Designers&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.106</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Teachers play an important role as co-designers in the development of learning interventions in blended CSCL environments. However when new pedagogy and technology are introduced, it may not be easy for teachers to thrive in such complex environments. It is therefore important to identify key knowledge bases required for teachers to teach effectively in new CSCL environments. Using the lens of Technological Pedagogical Content Knowledge (TPACK), the paper will examine two case studies of teachers who co-designed a CSCL tool for teamwork with a research team and implemented it in their classrooms. The paper reveals the interacting components of technology, pedagogy and content knowledge, and highlights strengths as well as growth areas for the teachers’ further professional development. Through identifying and then building these knowledge layers, teachers will be able to harness tools and co-design proficiently and successfully in technological environments.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Developing Professional Competency in a CSCL Environment for Teamwork: Two TPACK Case Studies of Teachers as Co-Designers</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Descriptive Studies</dc:subject>
+<dc:subject xml:lang="en">Ethnography</dc:subject>
+<dc:subject xml:lang="en">Anthropology</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">Cultural Psychology</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Ethnomethodology</dc:subject>
+<dc:subject xml:lang="en">Human-Computer Interaction</dc:subject>
+<dc:subject xml:lang="en">Access</dc:subject>
+<dc:subject xml:lang="en">Primary School</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">Actor-Network Theory</dc:subject>
+<dc:subject xml:lang="en">Cultural-Historical Activity Theory</dc:subject>
+<dc:subject xml:lang="en">Distributed Cognition</dc:subject>
+<dc:subject xml:lang="en">Phenomenology</dc:subject>
+<dc:subject xml:lang="en">Situated Learning</dc:subject>
+<dc:subject xml:lang="en">Literacy</dc:subject>
+<dc:subject xml:lang="en">Mathematics Education</dc:subject>
+<dc:subject xml:lang="en">Constructivism/Constructionism</dc:subject>
+<dc:subject xml:lang="en">Design-Based Research</dc:subject>
+<dc:subject xml:lang="en">Design Thinking</dc:subject>
+<dc:subject xml:lang="en">Diversity and Inclusion</dc:subject>
+    </dublin_core>

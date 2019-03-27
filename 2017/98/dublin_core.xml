@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Wu, Ying-Tien</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wang, Li-Jen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cheng, Teng-Yao</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:52:18Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Wu, Y., Wang, L., &amp; Cheng, T.&#x20;(2017).&#x20;A Preliminary Study of University Students’ Collaborative Learning Behavior Patterns in the Context of Online Argumentation Learning Activities: The Role of Idea-Centered Collaborative Argumentation Instruction&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;2.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.98</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In the knowledge-based societies, learners have more and more opportunities to encounter a variety of socio-scientific issues (SSIs), which are social dilemmas coming with rapid development in science and technologies. Literature has revealed that learners had difficulties in collaborative argumentation on SSIs. The use of knowledge building pedagogies may be helpful for facilitating students’ collaborative argumentation. To examine the perspective above, this study attempted to integrate the KB pedagogies in collaborative argumentation regarding SSIs. In this study, learners’ collaborative learning behavior patterns in the context of online argumentation learning activities were explored. The participants were 48 university students from two classes and were randomly divided into experimental and control group (n=24 for both groups). The control group only received argumentation instruction, while the experimental group received explicit idea-centered collaborative argumentation (CA) instruction (focusing on both argumentation instruction and collaboration nature of argumentation). Then, the two groups of students were asked to participate in KB-based argumentation for four weeks, in which the control group was provided with original KB-based openers in the KF while the experimental group was provided with CA-based openers additionally. Data was mainly from students’ online activities log files in KF. By analyzing the students’ knowledge building and collaborative argumentation behavioral patterns, this study found that these two groups of students revealed different collaborative learning behavior patterns. However, the students in the experimental group benefited more in both their knowledge building and collaborative argumentation from the proper adoption of knowledge building pedagogies and explicit idea-centered collaborative argumentation instruction in online SSI-based argumentation learning activities.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">A Preliminary Study of University Students’ Collaborative Learning Behavior Patterns in the Context of Online Argumentation Learning Activities: The Role of Idea-Centered Collaborative Argumentation Instruction</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Participatory Design</dc:subject>
+<dc:subject xml:lang="en">Case Studies</dc:subject>
+<dc:subject xml:lang="en">Ethnography</dc:subject>
+<dc:subject xml:lang="en">Educational Psychology</dc:subject>
+<dc:subject xml:lang="en">Human-Computer Interaction</dc:subject>
+<dc:subject xml:lang="en">Adoption of Technologies</dc:subject>
+<dc:subject xml:lang="en">Shared Knowledge</dc:subject>
+<dc:subject xml:lang="en">Secondary School</dc:subject>
+<dc:subject xml:lang="en">Diversity and Inclusion</dc:subject>
+    </dublin_core>

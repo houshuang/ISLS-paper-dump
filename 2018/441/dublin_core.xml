@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Tissenbaum, Mike</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sherman, Mark A</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sheldon, Joshua</dcvalue>
+<dcvalue element="contributor" qualifier="author">Abelson, Hal</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Tissenbaum, M., Sherman, M. A., Sheldon, J., &amp; Abelson, H.&#x20;(2018).&#x20;From Computational Thinking to Computational Action: Understanding Changes in Computational Identity through App Inventor and the Internet of Things.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1657</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper advocates for an shift from teaching and assessing computational thinking towards one of computational action, which instead emphasizes learners' ability to develop computational artifacts that can impact their daily lives. We also discuss the importance of developing computational identity and digital empowerment as central to computational action. In order to understand how to support the development of computational identities and digital empowerment, we examined a group of students (ages 15-19) engaged in a 5-week summer camp that combined MIT's App Inventor and the Internet of Things (IoT). Results showed that participants significantly improved their ability to use IoT for meaningful impact in their worlds, and to develop IoT solutions to common problems in their everyday lives.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">From Computational Thinking to Computational Action: Understanding Changes in Computational Identity through App Inventor and the Internet of Things</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">computational thinking</dc:subject>
+<dc:subject xml:lang="en">CSCL</dc:subject>
+<dc:subject xml:lang="en">computational action</dc:subject>
+<dc:subject xml:lang="en">computing education</dc:subject>
+    </dublin_core>

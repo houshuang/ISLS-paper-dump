@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Sharma, Kshitij</dcvalue>
+<dcvalue element="contributor" qualifier="author">D'Angelo, Sarah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gergle, Darren</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dillenbourg, Pierre</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Sharma, K., D'Angelo, S., Gergle, D., &amp; Dillenbourg, P.&#x20;(2016).&#x20;Visual Augmentation of Deictic Gestures in MOOC Videos&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.28</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We present an eye-tracking study to compare different modalities for visual augmentations of the teacher’s explicit deictic gestures on a video lecture. We compared three visualizations: 1) hand gestures with a pointer, 2) gaze overlay, and 3) no-augmentation baseline. We investigate the teacher-student pair in a video-based learning context as an abstraction of an expert-novice pair where the goal is to attain a high level of shared understanding. The key phase of having a shared understanding is to have a common ground between the pair. Previous studies showed that explicit deixis plays a major role in initiating and maintaining common ground. This led us to hypothesize that augmenting videos with teacher’s deictic gestures might help students perform better. We found that augmenting the video with teacher’s gaze results in higher learning gain than no visualization. Moreover, gaze visualization also helped students in maintaining longer attention spans than hand gestures.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Visual Augmentation of Deictic Gestures in MOOC Videos</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Eye-tracking&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;MOOCs&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Learning analytics&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Online deixis&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Video-based learning&lt;/dc:subject&gt;
+    </dublin_core>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Erkens, Melanie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bodemer, Daniel</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T10:50:27Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2017-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Erkens, M. &amp; Bodemer, D.&#x20;(2017).&#x20;Which Visualization Guides Learners Best? Impact of Available Partner- and Content-Related Information on Collaborative Learning&#x20;In&#x20;Smith,&#x20;B.&#x20;K.,&#x20;Borge,&#x20;M.,&#x20;Mercier,&#x20;E.,&#x20;and&#x20;Lim,&#x20;K.&#x20;Y.&#x20;(Eds.).&#x20;(2017).&#x20;Making&#x20;a&#x20;Difference:&#x20;Prioritizing&#x20;Equity&#x20;and&#x20;Access&#x20;in&#x20;CSCL,&#x20;12th&#x20;International&#x20;Conference&#x20;on&#x20;Computer&#x20;Supported&#x20;Collaborative&#x20;Learning&#x20;(CSCL)&#x20;2017,&#x20;Volume&#x20;1.&#x20;Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https:dx.doi.org&#x2F;10.22318&#x2F;cscl2017.20</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">A large body of research covers the positive impact of cognitive group awareness tools on implicitly guiding learners. However, the impact of visualizing partner-related information and content-related information in such tools is barely investigated separately. Thus, we compared the impact of both types of information on collaborative learning in an experimental study (N = 120) by systematically varying partner-related information (given or not) and content-related information (given or not) in a 2x2 design. Concerning communication behavior, we found no effect of content-related information, but a main effect of partner information indicating that the visualization of a learning partner’s knowledge deficit implicitly guides learners to give longer explanations. A qualitative comparison contrasting learners with the highest and lowest knowledge gain indicate that content-related information could still be relevant for implicit guidance, since successful learners seem to use this information for addressing topics in their explanations.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Philadelphia,&#x20;PA:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences.</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Which Visualization Guides Learners Best? Impact of Available Partner- and Content-Related Information on Collaborative Learning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Computing Education</dc:subject>
+<dc:subject xml:lang="en">Computer Science</dc:subject>
+<dc:subject xml:lang="en">University</dc:subject>
+    </dublin_core>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Oura, Hiroki</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ikejiri, Ryohei</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nakaya, Kae</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yamamoto, Ryota</dcvalue>
+<dcvalue element="contributor" qualifier="author">Yamauchi, Yuhei</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:35:55Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Oura, H., Ikejiri, R., Nakaya, K., Yamamoto, R., &amp; Yamauchi, Y.&#x20;(2018).&#x20;Preparing Students for Learning Statistics with Adventure Game: Learning Cycle Model of Gaming, Watching, and Practicing.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 3. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1507</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Learning statistics is challenging for non-major students. Prior research suggests engaging students in some preparatory activity for them to explore statistical problems with a video game and tangible simulation before providing formal learning resources leads to larger learning gains than the other order. The present study extends this line of theoretical discussion by demonstrating adventure game as another suited format for such preparatory activity as part of a learning cycle combined with collaborative formal practice.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Preparing Students for Learning Statistics with Adventure Game: Learning Cycle Model of Gaming, Watching, and Practicing</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">statistics instruction</dc:subject>
+<dc:subject xml:lang="en">computer games</dc:subject>
+<dc:subject xml:lang="en">preparation for future learning</dc:subject>
+<dc:subject xml:lang="en">CSCL</dc:subject>
+    </dublin_core>

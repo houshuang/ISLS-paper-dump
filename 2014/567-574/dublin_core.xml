@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Ross, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Van Dusen, Ben</dcvalue>
+<dcvalue element="contributor" qualifier="author">Otero, Valerie</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Ross, M., Van Dusen, B., &amp; Otero, V.&#x20;(2014).&#x20;Becoming Agents of Change through Participation in a Teacher-Driven Professional Research Community.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;567-574.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.567</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This study involves a theory-based teacher professional development model that was created to address two problems. First, dominant modes of science teacher professional development have been inadequate in helping teachers create learning environments that engage students in the practices of science, as called for most recently by the NGSS. Second, there is a lack of teacher presence and voice in the national dialogue on education reform and assessment. In this study, teachers led and participated in a professional community focusing on STEM education research. In this community, teachers became increasingly responsible for designing and enacting learning experiences for themselves and their colleagues. We investigated the characteristics of the science teachers' learning process. Findings suggest that teachers who participated in this model generated knowledge and practices about teaching and learning while simultaneously developing identities and practices as education reform advocates and agents of educational change.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Becoming Agents of Change through Participation in a Teacher-Driven Professional Research Community</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

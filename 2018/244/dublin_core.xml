@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Kittredge, Audrey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Day, Natalie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Blaskova, Lenka Janik</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zhang, Heyi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Baker, Sara</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:26:23Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Kittredge, A., Day, N., Blaskova, L. J., Zhang, H., &amp; Baker, S.&#x20;(2018).&#x20;Teachers’ Views on Supporting Self-Regulated Learning in Early Childhood Science Education.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1101</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">There are few in-depth qualitative investigations evaluating the challenges of child-led learning programs that might support children’s self-regulated learning. We conducted focus group workshops with kindergarten and first grade teachers in the UK and found that, while teachers recognized potential benefits of child-led approaches in science education, they also expressed challenges that were novel in the literature on teacher views. In particular, teachers had a more detailed consideration of EF skill development, and reflected on the consequences to children’s learning of how much instructional guidance they provided.  Moreover, we found differences in challenges reported by kindergarten and first grade teachers. Future research is needed with teachers of low-income children and a broader range of education stakeholders, in programs that produce a measurable change in teachers’ and children’s learning.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Teachers’ Views on Supporting Self-Regulated Learning in Early Childhood Science Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">Science education; Child-led learning; Early childhood education; Teacher attitudes</dc:subject>
+    </dublin_core>

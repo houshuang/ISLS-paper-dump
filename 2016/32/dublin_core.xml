@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Öztok, Murat</dcvalue>
+<dcvalue element="contributor" qualifier="author">Arvaja, Maarit</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Öztok, M. &amp; Arvaja, M.&#x20;(2016).&#x20;No One Ever Steps in the Same Discussion Twice: The Relationship Between Identities and Meaning&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.32</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The concept of identification (or identities-in-practice) is a relational construct; that is, identities are not static but rather negotiated based on available material and symbolic resources. Despite its significance for group work, we know relatively little about how identities play a dual role when students collaborate. The aim of this paper is to explore this process through multiple case studies: we aim to explore how identities are enacted and used in making personal sense and understand the content knowledge, while at the same time we are interested in how this process can take a form of renewing process in the sense that the identities enacted are themselves changed, transformed or re-negotiated. Our results show that due to its dual role, identities mediate collaborative learning not only because knowledge is constructed in relation to identities but because online selves are articulated and constructed in relation to knowledge construction. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">No One Ever Steps in the Same Discussion Twice: The Relationship Between Identities and Meaning</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;identity&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;case study&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;knowledge construction&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;collaboration&lt;/dc:subject&gt;
+    </dublin_core>

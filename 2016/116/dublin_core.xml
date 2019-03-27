@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Pöysä-Tarhonen, Johanna</dcvalue>
+<dcvalue element="contributor" qualifier="author">Care, Esther</dcvalue>
+<dcvalue element="contributor" qualifier="author">Awwal, Nafisa</dcvalue>
+<dcvalue element="contributor" qualifier="author">Häkkinen, Päivi</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ahonen, Arto K.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:35:38Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:35:38Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Pöysä-Tarhonen, J., Care, E., Awwal, N., Häkkinen, P., &amp; Ahonen, A. K.&#x20;(2016).&#x20;Tracking Student Teachers’ Technology-Enhanced Collaborative Problem Solving: Combining Objective Assessment Data With Subjective Verbal Reporting&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.116</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In spite of increasing interest, technology-enhanced formative assessment practices reflecting 21st century skills are not yet much studied, particularly in teacher education context. Also, studies that combine both objective and subjective data around these practices are still rare. This study responds to these challenges in exploration of student teachers’ collaborative problem solving (CPS) processes. Relevant events in CPS tasks are tracked through process data acquired via ATC21S™ portal, and complemented with students’ interpretations of these processes as cued retrospective reports. The broader aim is to provide student teachers with hands-on experiences of using novel, technology-enhanced formative assessment systems for 21st century skills. It is hypothesised that familiarity with these practices will guide student teachers to be more open toward formative, technology-enhanced assessment culture as they move into professional practice as teachers. </dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Tracking Student Teachers’ Technology-Enhanced Collaborative Problem Solving: Combining Objective Assessment Data With Subjective Verbal Reporting</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;collaborative problem solving&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;technology-enhanced formative assessment&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;teacher education&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;process tracing methods&lt;/dc:subject&gt;
+    </dublin_core>

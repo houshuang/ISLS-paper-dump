@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Herrenkohl, Leslie Rupert</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lund, Kristine S.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Polman, Joseph L</dcvalue>
+<dcvalue element="contributor" qualifier="author">Radinsky, Josh</dcvalue>
+<dcvalue element="contributor" qualifier="author">Suthers, Dan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tabak, Iris</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kidron, Adi</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Herrenkohl, L. R., Lund, K. S., Polman, J. L., Radinsky, J., Suthers, D., Tabak, I., &amp; Kidron, A.&#x20;(2018).&#x20;Life-long Life-wide Learning within and Beyond the Disciplines.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1290</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Does the learning sciences community need to question its epistemic values and reconceptualize its stance on the content and structure of formal schooling? Many researchers in the learning sciences investigate learning environments that center on disciplinary practices. Yet, professional settings often involve the meeting of minds and of expertise that require the ability to shift between perspectives. Is a disciplinary focus a good model for preparing learners for these roles? How well does a disciplinary apprenticeship prepare learners for their everyday lives? This symposium includes theoretical, methodological and design presentations that set the stage for engaging the audience in a conversation over a number of overarching questions that include: What motivates broadening our gaze beyond the disciplines? What methods can help us understand the meaning of a beyond the disciplines perspective? How might subject-matter learning be reconceptualized to adopt a beyond the disciplines approach? What costs are involved in adopting such an approach?</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Life-long Life-wide Learning within and Beyond the Disciplines</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">disciplinary</dc:subject>
+<dc:subject xml:lang="en">interdisciplinary</dc:subject>
+<dc:subject xml:lang="en">multivocal</dc:subject>
+<dc:subject xml:lang="en">multiliteracy</dc:subject>
+<dc:subject xml:lang="en">life long</dc:subject>
+    </dublin_core>

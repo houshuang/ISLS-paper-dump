@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Lam, Rachel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Wong, Lung-Hsiang</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gaydos, Matthew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Huang, Jun Song</dcvalue>
+<dcvalue element="contributor" qualifier="author">Kapur, Manu</dcvalue>
+<dcvalue element="contributor" qualifier="author">Seah, Lay Hoon</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tan, Michael</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bielaczyc, Katerine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sandoval, William</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:48Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:48Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Lam, R., Wong, L., Gaydos, M., Huang, J. S., Kapur, M., Seah, L. H., Tan, M., Bielaczyc, K., &amp; Sandoval, W.&#x20;(2016).&#x20;Designing Learning Contexts Using Student-Generated Ideas&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.171</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This symposium proposes a genre of learning designs called Student-Generated Ideas (SGIs), based on designing learning contexts that promote students as critical producers, distributors, and consumers of knowledge. SGIs place students’ ideas at the center of learning designs, considering the learning process as well as the learning goals/outcomes. By soliciting and foregrounding students’ diversified ideas in the classroom and beyond, the learning environment communicates to students that their ideas matter to others and that they have a position of responsibility to their own and their peers’ learning processes. The notion of SGIs is embodied in a repertoire of studies at the Learning Sciences Lab, National Institute of Education, Singapore, that offer varied yet overlapping interpretations of how student ideas can inform the design of learning contexts. In sharing the core design principles for SGIs approaches, this work contributes important components to the learning sciences discipline and changing educational practice.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing Learning Contexts Using Student-Generated Ideas</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Student-Generated Ideas&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Productive Failure&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;preparation for collaboration&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;language demands of science&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;learning in makerspaces&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;game-based learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;seamless learning&lt;/dc:subject&gt;
+    </dublin_core>

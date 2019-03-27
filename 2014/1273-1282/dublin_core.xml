@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Moher, Tom</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ching, Cynthia Carter</dcvalue>
+<dcvalue element="contributor" qualifier="author">Schaefer, Sara</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Victor R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Danish, Joshua A.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Guerra, Paulo</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gnoli, Alessandro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Pazmino, Priscilla Jimenez</dcvalue>
+<dcvalue element="contributor" qualifier="author">Silva, Brenda A. López</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lyons, Leilah</dcvalue>
+<dcvalue element="contributor" qualifier="author">Perritano, Anthony</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slattery, Brian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tissenbaum, Mike</dcvalue>
+<dcvalue element="contributor" qualifier="author">Slotta, James D.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Cober, Rebecca</dcvalue>
+<dcvalue element="contributor" qualifier="author">Fong, Cresencia</dcvalue>
+<dcvalue element="contributor" qualifier="author">Rubin, Andee</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Moher, T., Ching, C. C., Schaefer, S., Lee, V. R., Enyedy, N., Danish, J. A., Guerra, P., Gnoli, A., Pazmino, P. J., Silva, B. A., Lyons, L., Perritano, A., Slattery, B., Tissenbaum, M., Slotta, J. D., Cober, R., Fong, C., &amp; Rubin, A.&#x20;(2014).&#x20;Becoming Reflective: Designing for Reflection on Physical Performances.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1273-1282.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1273</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Learners' physical performances can serve as focal objects for reflection and insight across a variety of contexts and content areas. This session brings together a set of projects that leverage the physical performances of learners, construct concrete and abstract representations of those performances, and investigate how learners reflect on and understand the relationships between their performances and target content--physics, health and fitness, data literacy and navigation, animal foraging, and climate change. The session will share findings and design principles from each of the studies around constructing technological scaffolds for physical performance reflections. The symposium highlights the various ways performance can be used to engage learners, and how different settings and learning goals affect the designs of performance representations.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Becoming Reflective: Designing for Reflection on Physical Performances</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Chung, Huy Q.</dcvalue>
+<dcvalue element="contributor" qualifier="author">van Es, Elizabeth A.</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:50Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Chung, H. Q. &amp; van Es, E. A.&#x20;(2014).&#x20;Varied Appropriation of Tools from Professional Development: Moving Beyond Levels.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 1.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;418-425.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.418</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">In this empirical study we trace teacher's appropriation of literacy teaching tools from professional development and the varied ways they enacted these tools in their classrooms. Teacher appropriation is important in studying professional development because far too often studies do not account for teacher learning and how this learning sustains reform- minded practices. Using two years of qualitative data we traced the appropriation of tools and their impact on instruction. Pushing on Grossman, Smagorinsky, and Valencia's (1999) five levels of appropriation, results indicate that the teachers appropriated tools for different pedagogical reasons, such as appropriating the tools to organize their students' learning, to accommodate their students' learning needs, and to integrate other professional development initiatives. Implications on designing and sustaining teacher learning in professional development are discussed within.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Varied Appropriation of Tools from Professional Development: Moving Beyond Levels</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Swanson, Hillary</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-03-21T12:05:42Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Swanson, H.&#x20;(2016).&#x20;Prior Knowledge for the Construction of a Scientific Model of Equilibration&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;1.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">info:doi&#x2F;10.22318&#x2F;icls2016.23</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">The Next Generation Science Standards charge U.S. teachers with the task of including patterns, as a crosscutting concept, in their science curriculum. This study explores prior knowledge that is relevant to students’ construction of a scientific model of an equilibration pattern. A Knowledge in Pieces lens is applied to video transcript of a class discussion on thermal equilibration in order to identify elements of students’ prior knowledge that might be productive for their construction of a scientific model of equilibration. The discussion occurred near the beginning of a unit on equilibration, in the middle of a yearlong pattern-based curriculum. Twenty-one 8th grade students participated in the class. Six previously undocumented knowledge elements are identified, characterized, and considered in terms of their potential productivity for helping students construct a difference drives rate model of equilibration. These findings contribute to literature concerned with the productivity of prior knowledge in conceptual change.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Prior Knowledge for the Construction of a Scientific Model of Equilibration</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;Conceptual change&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Knowledge in Pieces&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;prior knowledge&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;Knowledge Analysis&lt;/dc:subject&gt;
+    </dublin_core>

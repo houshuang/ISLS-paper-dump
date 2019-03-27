@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Zimmerman, Heather Toomey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Land, Susan M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Maggiore, Chrystal</dcvalue>
+<dcvalue element="contributor" qualifier="author">Ashley, Robert W.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Millet, Chris</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2017-06-19T11:36:09Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2017-06-19T11:36:09Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2016-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Zimmerman, H. T., Land, S. M., Maggiore, C., Ashley, R. W., &amp; Millet, C.&#x20;(2016).&#x20;Designing Outdoor Learning Spaces With iBeacons: Combining Place-Based Learning With the Internet of Learning Things&#x20;In&#x20;Looi,&#x20;C.&#x20;K.,&#x20;Polman,&#x20;J.&#x20;L.,&#x20;Cress,&#x20;U.,&#x20;and&#x20;Reimann,&#x20;P.&#x20;(Eds.).&#x20;Transforming&#x20;Learning,&#x20;Empowering&#x20;Learners:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2016,&#x20;Volume&#x20;2.&#x20;Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;35-43.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2016.142</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">This paper presents a collective case study of learners using mobile technology to engage in place-based science learning in an Arboretum. Our work investigates how proximity-based computing mediates youth’s engagement in scientific observations and conversations in their Appalachian community. We draw upon theory from informal learning, place-based learning, and context-sensitive educational technologies to inform the research. Data from 26 children in a summer camp program include log files, field notes, and video-records. Our findings illustrate how an iBeacon system supported children’s playful and scientific engagement (including in observational practices). We provide insights into designing for learner-centered mobile computing that moves beyond presenting just-in-time information to creating digital-physical spaces where learners engage each other and natural objects to support their interests in science.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Singapore:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Designing Outdoor Learning Spaces With iBeacons: Combining Place-Based Learning With the Internet of Learning Things</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      &lt;dc:subject xml:lang="en"&gt;informal learning&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;mobile computing&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;pedagogical design&lt;/dc:subject&gt;
+&lt;dc:subject xml:lang="en"&gt;science education&lt;/dc:subject&gt;
+    </dublin_core>

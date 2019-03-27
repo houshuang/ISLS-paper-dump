@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Johnson-Glenberg, Mina C.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Savio-Ramos, Caroline</dcvalue>
+<dcvalue element="contributor" qualifier="author">Perkins, Katherine K.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Moore, Emily B.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lindgren, Robb</dcvalue>
+<dcvalue element="contributor" qualifier="author">Clark, Douglas B.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brady, Corey</dcvalue>
+<dcvalue element="contributor" qualifier="author">Sengupta, Pratim</dcvalue>
+<dcvalue element="contributor" qualifier="author">Martinez-Garza, Mario M.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Adams, Deanne</dcvalue>
+<dcvalue element="contributor" qualifier="author">Killingsworth, Stephen</dcvalue>
+<dcvalue element="contributor" qualifier="author">Van Eaton, Grant</dcvalue>
+<dcvalue element="contributor" qualifier="author">Gaydos, Matthew</dcvalue>
+<dcvalue element="contributor" qualifier="author">Barany, Amanda</dcvalue>
+<dcvalue element="contributor" qualifier="author">Squire, Kurt</dcvalue>
+<dcvalue element="contributor" qualifier="author">Holbert, Nathan</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-05-21T22:08:51Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2014-06</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Johnson-Glenberg, M. C., Savio-Ramos, C., Perkins, K. K., Moore, E. B., Lindgren, R., Clark, D. B., Brady, C., Sengupta, P., Martinez-Garza, M. M., Adams, D., Killingsworth, S., Van Eaton, G., Gaydos, M., Barany, A., Squire, K., &amp; Holbert, N.&#x20;(2014).&#x20;Science Sims and Games: Best Design Practices and Fave Flops.&#x20;In&#x20;Joseph&#x20;L.&#x20;Polman,&#x20;Eleni&#x20;A.&#x20;Kyza,&#x20;D.&#x20;Kevin&#x20;O'Neill,&#x20;Iris&#x20;Tabak,&#x20;William&#x20;R.&#x20;Penuel,&#x20;A.&#x20;Susan&#x20;Jurow,&#x20;Kevin&#x20;O'Connor,&#x20;Tiffany&#x20;Lee,&#x20;and&#x20;Laura&#x20;D'Amico&#x20;(Eds.).&#x20;Learning&#x20;and&#x20;Becoming&#x20;in&#x20;Practice:&#x20;The&#x20;International&#x20;Conference&#x20;of&#x20;the&#x20;Learning&#x20;Sciences&#x20;(ICLS)&#x20;2014.&#x20;Volume 3.&#x20;Colorado,&#x20;CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;pp.&#x20;1199-1208.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;icls2014.1199</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">We represent a variety of educators and designers who have in common a deep concern about the quality of STEM learning and how new media tools are designed and used. These tools run the range of interactive simulations to embodied games with full arc narratives. We believe there is not one correct way to instruct in science using new media. For example - some formats (e.g., whiteboard vs. tablet) may be better for some learners (low vs. high prior knowledge) in some situations (single learner vs. small group) on some content (abstract vs. concrete). Our goal is to highlight some of the games and simulations we have designed and disseminated, and to explore their strengths and weaknesses. Each participant will present an original work, show a demo, present data on efficacy, and finally share anecdotes about what was done well and what could have been improved.</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US">Boulder, CO:&#x20;International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Science Sims and Games: Best Design Practices and Fave Flops</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+    </dublin_core>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+    <dublin_core schema="dc">
+    <dcvalue element="contributor" qualifier="author">Abrahamson, Dor</dcvalue>
+<dcvalue element="contributor" qualifier="author">Andrade, Alejandro</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lindwall, Oskar</dcvalue>
+<dcvalue element="contributor" qualifier="author">Bakker, Arthur</dcvalue>
+<dcvalue element="contributor" qualifier="author">Nathan, Mitchell</dcvalue>
+<dcvalue element="contributor" qualifier="author">Walkington, Candace A</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lindgren, Robb</dcvalue>
+<dcvalue element="contributor" qualifier="author">Brown, David</dcvalue>
+<dcvalue element="contributor" qualifier="author">Zohar, Asnat R.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Levy, Sharona T.</dcvalue>
+<dcvalue element="contributor" qualifier="author">Danish, Joshua</dcvalue>
+<dcvalue element="contributor" qualifier="author">Maltese, Adam</dcvalue>
+<dcvalue element="contributor" qualifier="author">Enyedy, Noel</dcvalue>
+<dcvalue element="contributor" qualifier="author">Humburg, Megan</dcvalue>
+<dcvalue element="contributor" qualifier="author">Saleh, Asmalina</dcvalue>
+<dcvalue element="contributor" qualifier="author">Dahn, Maggie</dcvalue>
+<dcvalue element="contributor" qualifier="author">Lee, Christine</dcvalue>
+<dcvalue element="contributor" qualifier="author">Tu, Xintian</dcvalue>
+<dcvalue element="contributor" qualifier="author">Davis, Bria</dcvalue>
+<dcvalue element="contributor" qualifier="author">Georgen, Chris</dcvalue>
+      <dcvalue element="date" qualifier="accessioned">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="available">2018-11-04T23:27:28Z</dcvalue>
+      <dcvalue element="date" qualifier="issued">2018-07</dcvalue>
+      <dcvalue element="identifier" qualifier="citation" language="en_US">Abrahamson, D., Andrade, A., Lindwall, O., Bakker, A., Nathan, M., Walkington, C. A., Lindgren, R., Brown, D., Zohar, A. R., Levy, S. T., Danish, J., Maltese, A., Enyedy, N., Humburg, M., Saleh, A., Dahn, M., Lee, C., Tu, X., Davis, B., &amp; Georgen, C.&#x20;(2018).&#x20;Moving Forward: In Search of Synergy Across Diverse Views on the Role of Physical Movement in Design for STEM Education.&#x20;In&#x20;Kay,&#x20;J.&#x20;and&#x20;Luckin,&#x20;R.&#x20;(Eds.) Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 2. London, UK: International Society of the Learning Sciences.</dcvalue>
+      <dcvalue element="identifier" qualifier="uri">https://doi.dx.org&#x2F;10.22318&#x2F;cscl2018.1243</dcvalue>
+      <dcvalue element="description" qualifier="abstract" language="en_US">Inspired by the current embodiment turn in the cognitive sciences, researchers of STEM teaching and learning have been evaluating implications of this turn for educational theory and practice. But whereas design researchers have been developing domain-specific theories that implicate the role of physical movement in conceptual learning, the field has yet to agree on a conceptually coherent and empirically validated framework for leveraging and shaping students’ capacity for physical movement as a socio–cognitive educational resource. This symposium thus convenes to ask, “What is movement in relation to concepts such that we can design for learning?” To stimulate discussion, we highlight an emerging tension across a set of innovative technological designs with respect to the framing question of whether students should discover an activity’s targeted movement forms themselves or that these forms should be cued directly. Our content domains span mathematics (proportions, geometry), physics, chemistry, and ecological system dynamics (predator–prey, bees).</dcvalue>
+      <dcvalue element="language" qualifier="iso" language="en_US">en</dcvalue>
+      <dcvalue element="publisher" qualifier="none" language="en_US"> International&#x20;Society&#x20;of&#x20;the&#x20;Learning&#x20;Sciences,&#x20;Inc.&#x20;[ISLS].</dcvalue>
+      <dcvalue element="title" qualifier="none" language="en_US">Moving Forward: In Search of Synergy Across Diverse Views on the Role of Physical Movement in Design for STEM Education</dcvalue>
+      <dcvalue element="type" qualifier="none" language="en_US">Book&#x20;chapter</dcvalue>
+      <dc:subject xml:lang="en">embodied cognition</dc:subject>
+<dc:subject xml:lang="en">embodied learning</dc:subject>
+<dc:subject xml:lang="en">science &amp; math</dc:subject>
+<dc:subject xml:lang="en">design-based research</dc:subject>
+    </dublin_core>
